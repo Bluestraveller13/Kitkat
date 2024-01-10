@@ -3606,5 +3606,869 @@ http://89.45.13.153:25461/play/live.php?mac=00:1A:79:46:6B:43&stream=2599_&exten
 http://89.45.13.153:25461/play/live.php?mac=00:1A:79:46:6B:43&stream=2600_&extension=ts
 
 
+<============================== Video On Demand ============================>
+
+#EXTINF:-1 type="movie" group-title="Video On Demand" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/041482X0-portrait.jpg",Taking On Taylor Swift 2023
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"8PGSPKB6jd+WZrb0dOpbxA","kid":"77CKh4/VncOV7gXVPl2bmw"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/654499f2d940521074e78b79_hbovodhd/dash0/MYS_index.mpd
+
+#EXTINF:-1 type="movie" group-title="Video On Demand" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/041243X0-portrait.jpg",The Nun Ii 2023
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"EoQ3gaI4KFyBHcxaNxXjRA","kid":"5AY+g4glbuq9L079rnrt0w"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6537627dd940521074e64adf_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="Video On Demand" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/041162X0-portrait.jpg",Meg 2: The Trench 2023
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"NC5VdJ6e9bV8k3H8TACBMg","kid":"pyRO16VnjVITBnLEs89RTg"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64fee5add940521074e10087_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="Video On Demand" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040975X0-portrait.jpg",The Flash 2023
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"BfXCSAXC+rkn2WV1vcICNw","kid":"OCjfpHTsu4asbjqbNwq93g"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64c3794dd940521074db6e41_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="Video On Demand" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040334X0-portrait.jpg",Reality 2023
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mMHqSkstlRFutiffN0Az/g","kid":"Cxgfs99vVXcFUIYXOSG1lw"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/646fee3ed940521074d39a27_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="Video On Demand" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/041269X0-portrait.jpg",Land Of Gold 2023
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ww1BIB1+mZ0f7cnRh6Rwhw","kid":"Sk1sc7Jsrm/W8fwK1ypa0g"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6513e9cbd940521074e2f8f0_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="Video On Demand" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040899X0-portrait.jpg",Evil Dead Rise 2023
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mHyzZBIbiqyI1tM1RMlSaw","kid":"kiHI5nx1bwlPRUICQthWDg"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/648828a5d940521074d5dcf8_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="Video On Demand" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040878X0-portrait.jpg",Dungeons & Dragons: Honor Among Thieves 2023
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"6ZQIeLQaO+CUB7+GER/DwQ","kid":"ySVsIxm+4RVesasF3bKEjA"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64cbd7dcd940521074dc3623_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="Video On Demand" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040442X0-portrait.jpg",Shazam! Fury Of The Gods 2023
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"/b1xu1FkAJuh+SS7kbvFIQ","kid":"Fwu5ETnW3lY2WLtJAtuUkg"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64532a79d940521074d0e71b_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="Video On Demand" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040640X0-portrait.jpg",Scream Vi 2023
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"lilTsw7SgcW0DsoAeEZt8A","kid":"Zxo/x7Vdy1b4xm7Y6q0UHg"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/65012e17d940521074e137bd_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="Video On Demand" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040423X0-portrait.jpg",Khun Pan 3 2023
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"4mZsFqqhDMhVpYD/DTmmMw","kid":"4IDo0Xp1towXG6/tJQxhfg"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64aa6825d940521074d91179_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="Video On Demand" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040436X0-portrait.jpg",The Weeknd: Live At Sofi Stadium 2023
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"xR6gZXMXqgHlUTxgGxi47Q","kid":"Ym4vY5+ZX7RiK/TMI/yk5Q"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64564331d940521074d1329a_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="Video On Demand" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040443X0-portrait.jpg",War Zone: Bear Grylls Meets President Zelenskyy 2023
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Pt9/cEmw+167se0fd9MVrA","kid":"gja3dMdWormyx5GpcKtzBQ"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6453259bd940521074d0e6a3_hbovodhd/dash0/MYS_index.mpd
+
+#EXTINF:-1 type="movie" group-title="Video On Demand" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040333X0-portrait.jpg",Magic Mike'S Last Dance 2023
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"VKhkAohtbg1F1eVj7fCDlQ","kid":"Zb5AhS1EuoUttiZNZqec1w"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6470b5b4d940521074d3ad30_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="Video On Demand" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040285X0-portrait.jpg",All That Breathes 2023
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"f60tfyxkqBv0aIPh7qfmag","kid":"PaeVT4cNVpkrVa82j0AZdg"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6406dabad940521074c9c1ce_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="Video On Demand" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040517X0-portrait.jpg",80 For Brady 2023
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"khqed2w7yJWFL5fE191f/w","kid":"Gv+VbUt6Nblnlqkkvief0w"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64ddf8a9d940521074dde8cb_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="Video On Demand" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040265X0-portrait.jpg",Mummies 2023
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"vNddxRezZ47j9jTKLL82lw","kid":"xEa5/gnPEVOgFDsJSF4hcA"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/640687cad940521074c9b9f9_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="Video On Demand" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040233X0-portrait.jpg",House Party 2023
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"yYY/uoYZBKQLK5KF6DEF6g","kid":"9eygdNLG5DDk/uVUSXPsyg"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63f5fd48d940521074c8292d_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="Video On Demand" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/039083X0-portrait.jpg",The Offering 2023
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"f4J6IC1rR20txFGDY4HPCw","kid":"r3trQz0AY6BvYcUlseaakg"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63f30896d940521074c7e1e3_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="Video On Demand" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/041291X0-portrait.jpg",The Ringleader: The Case Of The Bling Ring 2023
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"UAYtWM2ApfWzd/oAN9YY3g","kid":"aXn9+Favwsl4FvIHCxvulw"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6516a967d940521074e33b6b_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="Video On Demand" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040437X1-portrait.jpg",Babylon 2023
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"RSqIQe7bxKwXWX+3AQ95/Q","kid":"TcbR6RvDar1T3SH5/OP6JQ"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64aa69ead940521074d911a6_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="Video On Demand" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040904X0-portrait.jpg",M3Gan 2023
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"nob7hUX5wapVXHyb7gJ0cQ","kid":"hldqEDRUocJsc5ouqLKziw"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/65012f6fd940521074e137e1_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="Video On Demand" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/039482X0-portrait.jpg",Lizzo: Live In Concert 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"HXF9Y5TGt99h34zr928BDQ","kid":"PisOFtZwocGWDzGSh4wn0Q"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64321e38d940521074cdccb7_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="Video On Demand" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040408X0-portrait.jpg",Puss In Boots: The Last Wish 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"0sHbiexD/Vu4zgR6EIR/3g","kid":"FTq8IxbabLrFY9ozhftSpA"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64aa5d9fd940521074d9106a_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="Video On Demand" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040194X0-portrait.jpg",Tom And Jerry: Snowman'S Land 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"KPTxMHNytP9T/0ufkc45UQ","kid":"wUeWfe4JEKu1DNbk90dfXg"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6455beb3d940521074d12528_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="Video On Demand" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/039450X0-portrait.jpg",Love, Lizzo 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"cOFF62JyUQjp4fb1UmNk6Q","kid":"repYQU+m/qNt7NhDl3YOsQ"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64321955d940521074cdcc2e_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="Video On Demand" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040515X0-portrait.jpg",The Fabelmans 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Kh7c0mGVfIUjbNNgtm6g5w","kid":"wWwWR9lAbG+E8G8PvrBKKw"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64c37444d940521074db6dc6_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="Video On Demand" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/039274X0-portrait.jpg",The Travelog: Hyoyeon & Sunny In Qatar 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"XcaO3K867FSJslYkiekyfQ","kid":"bf+84Xzvk0Xq69ryRfFVsA"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63914ccad940521074beb2da_hbovodhd/dash0/MYS_index.mpd
+
+#EXTINF:-1 type="movie" group-title="Video On Demand" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040406X0-portrait.jpg",She Said 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"t2Jz8jsrpqRzhSEd9+N7bg","kid":"e37aZFh7K91Tk+EYfFO0sQ"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64fb2e8bd940521074e0a73f_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="Video On Demand" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040234X0-portrait.jpg",Crawlspace 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"9lLecFbuveJ7TpmNiMg7Cw","kid":"xGg03ex19SDifUdwV8W/7g"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6482be0ad940521074d55b26_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="Video On Demand" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/039469X0-portrait.jpg",2022 Rock & Roll Hall Of Fame Induction Ceremony 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"6q21tLCBoxTBATBhz5TGgQ","kid":"FqfdrntTQ7g4Mvnqu9RheA"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63be360ad940521074c2ea5f_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="Video On Demand" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040320X0-portrait.jpg",Tad, The Lost Explorer And The Emerald Tablet 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"sR+Ygnt8KwopH9aIrVC7sQ","kid":"2/JUDE+VBVGdfZkt3q3o3g"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64cbb59ed940521074dc32ab_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="Video On Demand" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/039197X0-portrait.jpg",The Lair 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"34klb4or14x5LuEIsFIhuA","kid":"7mZjWmq2AZXnjFssusfJhg"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63ca3be2d940521074c40b5d_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="Video On Demand" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040413X0-portrait.jpg",Armageddon Time 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"9c6Saop8WN619gpag+DeWg","kid":"zYrk4sTbUxfNXn6+60MFqQ"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64cbb2b5d940521074dc325f_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="Video On Demand" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040516X0-portrait.jpg",Tár 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"iS/y6+GfSJkLSyfwuVeEcQ","kid":"XRjtb6MHwyhesJOkyFTBiw"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64cbbaffd940521074dc3343_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="Video On Demand" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040639X0-portrait.jpg",A Tree Of Life 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"QuS48/IQ8axdRFivn57cYQ","kid":"RN8rxN+0xqYGj5CGhN8P/g"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/650e60e3d940521074e27517_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="Video On Demand" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040409X0-portrait.jpg",Ticket To Paradise 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"FDlPv/3bWIxHuW7sKTfz+A","kid":"MFhqjZOGy6zeZBHlNGAX6A"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6482be3ad940521074d55b2f_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="Video On Demand" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040519X0-portrait.jpg",Dangerous Game: The Legacy Murders 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"cC0CcxejieFlEPXmq4X+hg","kid":"8528F76H80R6MAxxb2yXrA"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64fb2699d940521074e0a66d_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="Video On Demand" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040056X0-portrait.jpg",Batman And Superman: Battle Of The Super Sons 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"v1OK8IjEHSn1XtAw237J4Q","kid":"/Cgx6alDJMHEQRLkJvcR9A"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/645b0e9ad940521074d1a621_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="Video On Demand" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040902X0-portrait.jpg",Trick-Or-Treat, Scooby-Doo! 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"tl+mwq6Fa8kmR18H2mwL0w","kid":"OssYLWefZ/xImAH6T5id8A"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64fb24f8d940521074e0a63e_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="Video On Demand" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/039340X0-portrait.jpg",Batwheels: Holidays On Ice 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Ja5AdSQRR1Q0/RbtpjHxtQ","kid":"8Js3VMvA42OFqk/AZZzJpQ"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/637dba17d940521074bcd6c3_hbovodhd/dash0/MYS_index.mpd
+
+#EXTINF:-1 type="movie" group-title="Video On Demand" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040410X0-portrait.jpg",Halloween Ends 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"eHRFFlcxTQ1iE9rdRTLVjQ","kid":"Z5LnCgzR+KQWMUhOUIHHCQ"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64aa5bfed940521074d9103c_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="Video On Demand" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/038111X0-portrait.jpg",38 At The Garden 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"JZk1dWkKWnBJ4Kyb1PHAIg","kid":"B7zu7RpUD4rM2lroJDFGbw"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64aa1effd940521074d90a2e_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="Video On Demand" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040268X1-portrait.jpg",Mortal Kombat Legends: Snow Blind 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"nnNp8IPW68A9Pv+zDW1cJg","kid":"D3MPBs+pVkJPU2fTmrGr6w"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64325355d940521074cdd23a_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="Video On Demand" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040266X0-portrait.jpg",Smile 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"kzUJf7MtiAG53b3ydsm7Lg","kid":"QzK4qFLSg2u9L0XUY9fL3A"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6482b886d940521074d55a94_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="Video On Demand" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040339X0-portrait.jpg",The Good House 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"iBZik+HzK4mEOMmMUuGXEQ","kid":"nzcAtLrsq6+YKn5Z/4z0DQ"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64aa5a9ad940521074d91017_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="Video On Demand" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/039118X0-portrait.jpg",Don'T Worry Darling 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"VBdDwVUuk8sfuJOuq4akrA","kid":"krmozqlH03WelFRTsSeoRA"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63525195d940521074b8bf5c_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="Video On Demand" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040917X0-portrait.jpg",The Infernal Machine 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Eo7vWaAIbOyfwsz9i+yUKg","kid":"CDvM2fQLJLk+B/c0xYjRuw"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/650e64e2d940521074e2757e_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="Video On Demand" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/039082X0-portrait.jpg",The Enforcer 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"qGxIdSqmzQza/p6+UY0vzw","kid":"qPZ7ERqdedh3cOZZCqXcYQ"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63bb8389d940521074c2a940_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="Video On Demand" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040331X0-portrait.jpg",Confess, Fletch 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"kJTd2TEKvM9qYPZyE6LTTw","kid":"+yEoXdxUtXwkM35NJSCiJw"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6482c21ad940521074d55b8e_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="Video On Demand" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040414X0-portrait.jpg",Moonage Daydream 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"zuPl5nvyPP4yc/h2knGJwA","kid":"Ws8kXo86bm43gLJO+MLq6A"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64aa5c38d940521074d91045_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="Video On Demand" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/039401X0-portrait.jpg",Margaux 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"uTMpZ95uCbQxwLikLFBXRA","kid":"oy+Q2XHtsDaNAjfMc94yrg"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64320aaed940521074cdcaae_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="Video On Demand" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040335X0-portrait.jpg",The Bad Seed Returns 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"bsHVfKhG/qasCze3aec4Tw","kid":"AJ/RklGVmAajnckG+SxxTA"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64fb27f7d940521074e0a692_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="Video On Demand" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/039115X0-portrait.jpg",One Way 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"2+jFX9gvM8zEo55+8JivBQ","kid":"M9JjKwjxu6Y9yZsZMgoaJA"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/638086e5d940521074bd1b02_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="Video On Demand" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/039491X0-portrait.jpg",The Forgiven 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"tceJg7PgClO6dEWYmPOz2Q","kid":"kyoBV0p5UpLsFNIWq8PpqA"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63f30a17d940521074c7e20f_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="Video On Demand" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040412X1-portrait.jpg",Honk For Jesus, Save Your Soul 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"56cO1z4h5HmVUDUqUFyeVg","kid":"APxz8cG8iiVBom/Yht6FUA"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64aa5dcad940521074d91072_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="Video On Demand" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040512X0-portrait.jpg",Mcenroe 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"X1f23PutT93aXEdwrkUITA","kid":"m+YMpTVFmy0rRHv+TKmeUg"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64fb2666d940521074e0a664_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="Video On Demand" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/039484X0-portrait.jpg",Beast 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"p+xNnLG8o5SmjSSarMdclA","kid":"ORSCBbgwfbQjRSC3yFkz2A"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6455c27fd940521074d12585_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="Video On Demand" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/038573X0-portrait.jpg",Secret Headquarters 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"InxdQgYJqMN2+AIcGMWp4Q","kid":"sx9k2S4u3TqnNOeynUFGhg"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63bb9aebd940521074c2aba4_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="Video On Demand" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/039467X0-portrait.jpg",Fall 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"qmgz0yQBdgB3Nvmwb8mn3g","kid":"du6/zJ7KjY+IBoyb5B649w"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6455c7a6d940521074d12607_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="Video On Demand" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040269X0-portrait.jpg",Wifelike 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"us0eDevWpK+Y4uU6Tweq3A","kid":"Tq+rG5SP8FkCink8F42E3w"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6482bcb1d940521074d55b02_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="Video On Demand" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/039487X0-portrait.jpg",Easter Sunday 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"/kIyEF8qRP0cakgRBGyNJQ","kid":"QY0ZLVlVpQV9pLojWCNGXw"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6455c3d6d940521074d125a9_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="Video On Demand" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/038004X0-portrait.jpg",Dc League Of Super-Pets 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"g7mI1sttZMJEHSUJHOkNOw","kid":"qKR/xFA2KQpk0j1OyPyiYA"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63090450d940521074b1e0aa_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="Video On Demand" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/039381X0-portrait.jpg",Black Adam 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"1SWGnREdcNbqooa6iyu4uQ","kid":"bS19bRS/UR/bW5KCVSByfw"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63a0187dd940521074c0170e_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="Video On Demand" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/039492X0-portrait.jpg",Green Lantern: Beware My Power 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"b29sOOEGzHaqAoGvKe+tqg","kid":"D5NPISMqtqEq9PA7RyL1KA"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63c5f20cd940521074c3a3cd_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="Video On Demand" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/039341X0-portrait.jpg",Bugs Bunny Builders: Looneyburg Lights 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"WjpSkoxD0CxGJHejmi0pBA","kid":"fYghRL56MFq83cdufA6UeA"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/637dba5fd940521074bcd6ce_hbovodhd/dash0/MYS_index.mpd
+
+#EXTINF:-1 type="movie" group-title="Video On Demand" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/039490X0-portrait.jpg",Nope 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"1Qmki2Wnr1pNOkmpP7JV0A","kid":"gO70toi1u1+urcRwmeAllg"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6455ce24d940521074d126b6_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="Video On Demand" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/039489X0-portrait.jpg",Mrs. Harris Goes To Paris 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Qg5ildsRL0ZSWYUcPWKQRg","kid":"jTTKVVjF0mDIHsH95qgLFg"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6482b9e5d940521074d55ab8_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="Video On Demand" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/039488X0-portrait.jpg",Explorer 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"iFaGE4aujSEeKUthXCWpgw","kid":"vIsyq6I2uOamaDYcnGn7WA"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6482a36dd940521074d55883_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="Video On Demand" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040190X0-portrait.jpg",Endangered 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"C8cDZhQibg7rFgw6KQDcVA","kid":"logDezKOnuLCedgBA8sQpg"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6482b222d940521074d559f5_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="Video On Demand" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040002X0-portrait.jpg",Minions: The Rise Of Gru 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"XX0z44dh7V9zL8NfzMjjrw","kid":"I3FR6oWZvO1wJCsaYOK9zA"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63f31649d940521074c7e33c_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="Video On Demand" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040021X0-portrait.jpg",Vengeance 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"AIB3FXAyY80Fm8h6XxUaoA","kid":"HRse9YubKqYmbA0L414yeA"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6482ba14d940521074d55ac1_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="Video On Demand" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/037895X0-portrait.jpg",Elvis 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mD8vRCbY9gPsnjyQpTV2Pw","kid":"G0cXwRaMfvHfuy//ntdeGw"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/62eb41efd940521074af13a6_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="Video On Demand" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/039104X0-portrait.jpg",The Black Phone 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"NQjDdZc41G1kDyxY87+lKA","kid":"k0xo5Z0jxTW5lWyV3CVvVw"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/643210d7d940521074cdcb49_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="Video On Demand" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040407X0-portrait.jpg",Doula 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"EZQcbD6VfGu+mDxhPhXLqA","kid":"9N38wZtBadj2XCN0p1RGtw"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6482cc41d940521074d55c9c_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="Video On Demand" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/039486X0-portrait.jpg",Brian And Charles 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Yom3F+FZFeypBma26qbxXA","kid":"x4oOeoP7PnAdOOLftJXDUg"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6432197dd940521074cdcc35_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="Video On Demand" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/037123X0-portrait.jpg",Father Of The Bride 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"/G3/9ob1ucVqo0SFplKPCw","kid":"ZX+7R0jiSVHBiGuTMsmYVA"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/627e3866d940521074a4cce6_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="Video On Demand" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/038571X0-portrait.jpg",Jerry & Marge Go Large 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"s4bKxqo3a5Gnvwr2tC5tFw","kid":"vExm8cLLaXCPjG0JDt1WcA"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63803d7dd940521074bd1381_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="Video On Demand" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/038101X0-portrait.jpg",King Tweety 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"DahSJj+N71zmJUOKiBoI3g","kid":"0/1gV7dkOXeJwLU9b1sz/w"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6342cdbfd940521074b74a80_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="Video On Demand" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040270X0-portrait.jpg",Katrina Babies 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"VYZSVahUJP1L+271NZ+Cyw","kid":"+vaiR6vrKBVVNAtX9CyXgQ"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64fb19fdd940521074e0a52a_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="Video On Demand" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/039449X0-portrait.jpg",Jurassic World Dominion 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"8XwNnc4UGJ8U68MNQivB+A","kid":"GwHvxUGDesICJdRcAQF0eA"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64096451d940521074c9ff92_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="Video On Demand" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/038405X0-portrait.jpg",The Janes 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"GM6jeVVJxaQCbTZI0z/50g","kid":"9J1ulceJGX1JG2RYQPtOZg"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64fb0106d940521074e0a265_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="Video On Demand" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/038005X0-portrait.jpg",Eraser: Reborn 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"vbEiebLpBLjpH7ZkE2g2MQ","kid":"CcAeV/NfJFXBDEBYjVXU1g"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/636b7607d940521074bb1dc5_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="Video On Demand" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/039402X0-portrait.jpg",V For Vengeance 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Qc5cfK0N6kIwSkRC+cHwKA","kid":"JDWDTlHt1KJQr30LDh9UhQ"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64321e0dd940521074cdccb0_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="Video On Demand" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/037974X0-portrait.jpg",Top Gun: Maverick 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"IQORYQsAW9hrMYjj9B3LBQ","kid":"ksV2OQkh/dOWju92dThXOQ"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6380a3b1d940521074bd1ddc_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="Video On Demand" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/036974X0-portrait.jpg",Navalny 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"9NBXDJ4iGZB8tT9kc9DGLA","kid":"0PsrUml+WXaCmhJcNGB8Sg"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6283717dd940521074a54975_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="Video On Demand" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/037975X0-portrait.jpg",Teen Titans Go! & Dc Super Hero Girls: Mayhem In The Multiverse 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"xtmwPKEI68TDed2Hgcrk2A","kid":"2/gmEfgSmOQqlJOWH+/x9w"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/636b2cd7d940521074bb163f_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="Video On Demand" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/039375X0-portrait.jpg",Downton Abbey: A New Era 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"lK1+JsjF3P4soonKgcrrxQ","kid":"a04BStrX+2LzahKEOq3mHQ"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63ca4d73d940521074c40d1f_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="Video On Demand" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/039374X1-portrait.jpg",Firestarter 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"bpoKOE3SNUb00w7dsMZUqw","kid":"mADin6Fauajhj/LsuQRK4Q"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63f2ec25d940521074c7df32_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="Video On Demand" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/038089X0-portrait.jpg",Dc Showcase: Constantine - The House Of Mystery 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"4Ns2qXUPGQatWy45W9dkyg","kid":"NfS/oI4J8Fdj/oDRM57l2A"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6342dc2cd940521074b74bf8_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="Video On Demand" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/037490X0-portrait.jpg",Fortress: Sniper'S Eye 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"dlPs7aoB04hXS/bUdl5Ckw","kid":"xcjmSAJITEqV1ZwHZcu9YA"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6318496dd940521074b34ed3_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="Video On Demand" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/039379X0-portrait.jpg",Memory 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"dpX4S8UFSWWllHzUTEgPSg","kid":"yxe+xyRPKgPlZEeAr4hIbw"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/640687a2d940521074c9b9f1_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="Video On Demand" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/037590X0-portrait.jpg",The Northman 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"TVTcSpKWXwZx1I+J4W48fw","kid":"hjF5hmWkmzQ49veCFykzjQ"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/637606dad940521074bc1db7_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="Video On Demand" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/039245X0-portrait.jpg",The Bad Guys 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"xXGKG5aPcP7Rg5n9vIFuLQ","kid":"UKWx/pasuLfZcUy8JhNBYw"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63bb757dd940521074c2a7d5_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="Video On Demand" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/037116X0-portrait.jpg",Fantastic Beasts: The Secrets Of Dumbledore 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mP0H3MUeXlzgzmqpvE+rAg","kid":"8o2ETfUcoC0xjX3bhH90yA"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/62792a41d940521074a4530c_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="Video On Demand" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040193X0-portrait.jpg",Tony Hawk: Until The Wheels Fall Off 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"f297l6NKR9oimW10ETA/wg","kid":"YUVrtBMloO5GPIwDFnmtjQ"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6455c90ad940521074d1262c_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="Video On Demand" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/037588X0-portrait.jpg",Ambulance 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"TC/o6CnUGL/X1N7Su8TXpQ","kid":"omMT5D8rNuZBEb1fIPgqiw"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63760ba3d940521074bc1e52_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="Video On Demand" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/037973X0-portrait.jpg",Sonic The Hedgehog 2 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"O9FGqJuX50Lr2V4jPYMKyg","kid":"TuPxb8UMQ57x57+Zv5Xwgg"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63230076d940521074b45076_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="Video On Demand" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/036972X0-portrait.jpg",Fantastic Beasts: A Natural History 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"T0te0AqgAF12zDhxa2oe7g","kid":"2R5boLxeP8GdVYJgN9QG2A"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6279256ed940521074a45292_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="Video On Demand" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/036820X0-portrait.jpg",The Contractor 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"o8QSN4r/EwuTSrD7YQ76gQ","kid":"tvzOMgA/z/eBcBZlLTlKrQ"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/636be706d940521074bb2971_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="Video On Demand" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/037489X0-portrait.jpg",Everything Everywhere All At Once 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Tl22SPydDureILYTX67uDQ","kid":"lEGvHlLCfE9HWbazdUkT3g"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6317464bd940521074b33602_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="Video On Demand" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/037907X0-portrait.jpg",The Lost City 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"f8KAqPseAqIlM7UV2PPDWw","kid":"3PDK7U8esQiiip7WXkmteg"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6342984fd940521074b74505_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="Video On Demand" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/039114X0-portrait.jpg",Super Greed: The Fight For Football 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"d4sO9GUAKthpkgW3EgpQPA","kid":"OY8ohA5mikarROOtJVdo1g"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63ca3bbed940521074c40b56_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="Video On Demand" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/039485X0-portrait.jpg",Bisping: The Michael Bisping Story 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"1dNZjnjpUxiok94/+SL3xA","kid":"8gMk2gbnMwWYTYbd30EXgQ"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63f2fa12d940521074c7e087_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="Video On Demand" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/038442X0-portrait.jpg",The Outfit 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"hangp3Zdkxx6Suh+l4bspA","kid":"Gx1e5fDVHp6pNP+lJ1Grmg"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63bb86b7d940521074c2a994_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="Video On Demand" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040322X0-portrait.jpg",Making Of The Last Of Us 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"akoVNxojFuGjgPWmsjb5Wg","kid":"Pa/uQhdN4YAB5KvoHuNxrg"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6412d0cdd940521074cae0ae_hbovodhd/dash0/MYS_index.mpd
+
+#EXTINF:-1 type="movie" group-title="Video On Demand" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/036967X0-portrait.jpg",The Batman 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"yaTdKdHjGh/NAaeFkMYdXQ","kid":"O6qQIZBvElRXyWiD2D4/bA"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/625530d2d940521074a0f2d4_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="Video On Demand" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040209X0-portrait.jpg",The Last 10 Years 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"0TmcJMu0AUE9pP8ah95QRQ","kid":"Vg4UScpJI743s2tByBKzjQ"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6417c77ad940521074cb56d9_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="Video On Demand" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/039468X0-portrait.jpg",Frederick Douglass: In Five Speeches 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"De9KGplhMfOaVW/ouv3YDg","kid":"fNG4pRC4UpJSO77udEEFFg"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6455bd63d940521074d12504_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="Video On Demand" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/037908X0-portrait.jpg",Run & Gun 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Ygk+P0rZjZoVbPqUYbtUNQ","kid":"nIOfFuxkdL9XWixkQmVeuA"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63428b25d940521074b743ac_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="Video On Demand" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040022X0-portrait.jpg",Icahn: The Restless Billionaire 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"jBEeVrFuIblU01iVTSOhLw","kid":"IfU2Cf3LhGO912gIIYf6JQ"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64321b0dd940521074cdcc5e_hbovodhd/dash0/MYS_index.mpd
+
+#EXTINF:-1 type="movie" group-title="Video On Demand" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/037589X0-portrait.jpg",Marry Me 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"+bVPX8aDAsJIYCP1bQzl1g","kid":"6IiPBSSjmxBsOvggzICUlw"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/638086bed940521074bd1afa_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="Video On Demand" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/036310X0-portrait.jpg",Kimi 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"1gh84SC8j47liEPBbhWiEQ","kid":"TsiuwKP1TkyNIaxBU4z+7w"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6202546fd94052107499273b_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="Video On Demand" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/037320X0-portrait.jpg",Catwoman: Hunted 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"06NhNHrvMbUEyFDaTqAejg","kid":"UpDwWtRUzjx0+QTcPu0WfQ"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/62cd62e8d940521074ac4560_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="Video On Demand" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/038455X0-portrait.jpg",Moonfall 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Er5BNxM1MxJtzk4uSpfVOQ","kid":"U6SRL4MLPBYRFk0wx7GiLQ"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/636b3f92d940521074bb181c_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="Video On Demand" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/036064X0-portrait.jpg",And Just Like That... The Documentary 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"aAAwrUM55fOPf3vYQTDzwQ","kid":"d9hA6fnAR5O2K9ZlCwY5tg"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/61fb850bd940521074988489_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="Video On Demand" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/036060X0-portrait.jpg",The Fallout 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"2CyBUaPRrl/NpjHscu6tMA","kid":"lzlkajowTKiNBNvN1+A2Sg"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/61e036fafbbcc21f45d61a6b_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="Video On Demand" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040319X0-portrait.jpg",We Met In Virtual Reality 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"2+S8mqtlylCi0qqpcnPaQw","kid":"ZSIbRN/hjYUOXNCX/fJkxw"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64aa66a8d940521074d91152_hbovodhd/dash0/MYS_index.mpd
+
+#EXTINF:-1 type="movie" group-title="Video On Demand" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/039378X0-portrait.jpg",Heatwave 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"miVIW7nXXAA9hieYqvXq+A","kid":"U6oChegcEbyEXD2iHgSWyQ"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63f2f8b4d940521074c7e063_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="Video On Demand" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/037909X0-portrait.jpg",Scream 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"oc0zm20RWvXvslULYT/GtQ","kid":"ZI99FsPrnwYJ0Sa0aOAPJg"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/62edb8c0d940521074af4fbd_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="Video On Demand" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/037903X0-portrait.jpg",Fortress 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"li2ccrtdphBkPkGSjjceXQ","kid":"10OBug1RqsVYiL/nYL9cYA"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63174365d940521074b335ba_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="Video On Demand" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/034717X0-portrait.jpg",Harry Potter 20Th Anniversary: Return To Hogwarts 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"RBp9BxXLR6Wqk75NIgP6+A","kid":"BXckYT9KRMK5C+ghMDawDQ"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/62038b3ed940521074994732_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+#EXTINF:-1 type="movie" group-title="Video On Demand" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/037283X0-portrait.jpg",The Electrical Life Of Louis Wain 2022
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"rOjEp/rhGUgVrTb1hHvoXA","kid":"/dEg8ce598a5m2Ym3cH9FA"}],"type":"temporary"}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63426f3ed940521074b740d4_hbovodhd/dash0/MYS_DOLBY_index.mpd
+
+
 #EXTINF:-1 
 #EXTM3U billed-msg="❤Total Free Playlist❤️"
