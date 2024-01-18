@@ -1,279 +1,279 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://w7.pngwing.com/pngs/287/149/png-transparent-axn-hd-logo.png" group-title="Entertainment & Lifestyle",AXN
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://w7.pngwing.com/pngs/287/149/png-transparent-axn-hd-logo.png" group-title="Entertainment & Lifestyle",AXN
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch332%29/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="" group-title="China",Xing Kong
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="China",Xing Kong
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch206%29/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="" group-title="China"",Zhejiang TV
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="China",Zhejiang TV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch208%29/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="" group-title="China",CCTV4
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="China",CCTV4
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch209%29/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="" group-title="China",TVB Xing He
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="China",TVB Xing He
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch215%29/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://worldkings.org/Userfiles/Upload/images/yiu.png" group-title="China",TVBS News
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://worldkings.org/Userfiles/Upload/images/yiu.png" group-title="China",TVBS News
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch216%29/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="" group-title="Konwlodge & Documentary",CGTN Documentary
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Konwlodge & Documentary",CGTN Documentary
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch405%29/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="" group-title="China"",China 5
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="China"",China 5
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch218%29/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="" group-title="China",Hunan TV
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="China",Hunan TV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch219%29/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="" group-title="China",Dragon TV
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="China",Dragon TV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch220%29/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://photos.live-tv-channels.org/tv-logo/cn-jiangsu-news-tv-1409.jpg" group-title="China",Jiangsu TV
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://photos.live-tv-channels.org/tv-logo/cn-jiangsu-news-tv-1409.jpg" group-title="China",Jiangsu TV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch221%29/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://w7.pngwing.com/pngs/383/186/png-transparent-tvri-yogyakarta-logo-television-tvri-jambi-television-blue-text-thumbnail.png" group-title="Indonesia Channels",TVRI
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://w7.pngwing.com/pngs/383/186/png-transparent-tvri-yogyakarta-logo-television-tvri-jambi-television-blue-text-thumbnail.png" group-title="Indonesia Channels",TVRI
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch399%29/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://mms.businesswire.com/media/20170929005029/en/614181/5/NHK_WORLD_TV_LOGO_highres.jpg" group-title="Knowledge & Documentary",NHK World
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://mms.businesswire.com/media/20170929005029/en/614181/5/NHK_WORLD_TV_LOGO_highres.jpg" group-title="Knowledge & Documentary",NHK World
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch223%29/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/807px-CNA_new_logo.svg.png" group-title="News",Channel News Asia
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/807px-CNA_new_logo.svg.png" group-title="News",Channel News Asia
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch232%29/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://seeklogo.com/images/C/cnn-international-logo-FE0A0045ED-seeklogo.com.png" group-title="News",CNN International
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://seeklogo.com/images/C/cnn-international-logo-FE0A0045ED-seeklogo.com.png" group-title="News",CNN International
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch236%29/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/MTV_90s_2022.svg/908px-MTV_90s_2022.svg.png" group-title="Music",MTV 90's
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/MTV_90s_2022.svg/908px-MTV_90s_2022.svg.png" group-title="Music",MTV 90's
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch241%29/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_148.png" group-title="Music",MTV Live
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_148.png" group-title="Music",MTV Live
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch242%29/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://network.aljazeera.net/sites/default/files/press/2022/nc499_14.png" group-title="News",Ajazeera Arabic
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://network.aljazeera.net/sites/default/files/press/2022/nc499_14.png" group-title="News",Ajazeera Arabic
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch245%29/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://static-media.streema.com/media/cache/24/5a/245aa09cd2eccfcbaddb39874c66677e.jpg" group-title="News",DW English
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://static-media.streema.com/media/cache/24/5a/245aa09cd2eccfcbaddb39874c66677e.jpg" group-title="News",DW English
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch250%29/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/df/ABC_News_Channel.svg/1200px-ABC_News_Channel.svg.png" group-title="News",ABC Australia
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/df/ABC_News_Channel.svg/1200px-ABC_News_Channel.svg.png" group-title="News",ABC Australia
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch251%29/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://e7.pngegg.com/pngimages/283/746/png-clipart-trans7-indonesia-trans-tv-streaming-media-television-trans-march-purple-blue.png" group-title="Indonesia Channels",Trans7 HD
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://e7.pngegg.com/pngimages/283/746/png-clipart-trans7-indonesia-trans-tv-streaming-media-television-trans-march-purple-blue.png" group-title="Indonesia Channels",Trans7 HD
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch397%29/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/TheWorldOnArirang.png" group-title="Entertainment & Lifestyle",Arirang Korea
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/TheWorldOnArirang.png" group-title="Entertainment & Lifestyle",Arirang Korea
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch253%29/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/2560px-Rai_Italia_-_Logo_2017.svg.png" group-title="Entertainment & Lifestyle",RAI Italia
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/2560px-Rai_Italia_-_Logo_2017.svg.png" group-title="Entertainment & Lifestyle",RAI Italia
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch258%29/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/TV5_Monde.svg/2560px-TV5_Monde.svg.png" group-title="Entertainment & Lifestyle",TV5 Monde Asie
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/TV5_Monde.svg/2560px-TV5_Monde.svg.png" group-title="Entertainment & Lifestyle",TV5 Monde Asie
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch260%29/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://w7.pngwing.com/pngs/662/561/png-transparent-france-24-journalist-television-news-france-television-blue-text.png" group-title="News",France 24
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://w7.pngwing.com/pngs/662/561/png-transparent-france-24-journalist-television-news-france-television-blue-text.png" group-title="News",France 24
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch261%29/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/2560px-KBS_World_%282009%29.svg.png" group-title="Entertainment & Lifestyle",KBS World
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/2560px-KBS_World_%282009%29.svg.png" group-title="Entertainment & Lifestyle",KBS World
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch262%29/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/1200px-CGTN.svg.png" group-title="News",CGTN News
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/1200px-CGTN.svg.png" group-title="News",CGTN News
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch273%29/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/EWTN_Logo_Deutschland.png" group-title="Christian Channels",EWTN
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/EWTN_Logo_Deutschland.png" group-title="Christian Channels",EWTN
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch299%29/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Discovery_Asia_logo.svg/1024px-Discovery_Asia_logo.svg.png" group-title="Knowledge & Documentary",Discovery Asia
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Discovery_Asia_logo.svg/1024px-Discovery_Asia_logo.svg.png" group-title="Knowledge & Documentary",Discovery Asia
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch302%29/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Paramount_Network_wordmark_%28Blue%29.png" group-title="Entertainment & Lifestyle",Paramount Network
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Paramount_Network_wordmark_%28Blue%29.png" group-title="Entertainment & Lifestyle",Paramount Network
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch309%29/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BBC_World_News_2022_%28Boxed%29.svg/640px-BBC_World_News_2022_%28Boxed%29.svg.png" group-title="News",BBC World News
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BBC_World_News_2022_%28Boxed%29.svg/640px-BBC_World_News_2022_%28Boxed%29.svg.png" group-title="News",BBC World News
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch310%29/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png" group-title="Sports",Premier Sports
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png" group-title="Sports",Premier Sports
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch320%29/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4a/HITS_MOVIES_ASIA.png" group-title="Premium Movies",Hits Movies
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4a/HITS_MOVIES_ASIA.png" group-title="Premium Movies",Hits Movies
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch324%29/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/HITS_TV_ASIA.png" group-title="Premium Movies",Hits
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/HITS_TV_ASIA.png" group-title="Premium Movies",Hits
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch326%29/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="" group-title="Sports",SPO TV
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Sports",SPO TV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch329%29/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="" group-title="Indonesia Channels",TransTV HD
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Indonesia Channels",TransTV HD
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch396%29/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="" group-title="Entertainment & Lifestyle",Citra Muslim
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Entertainment & Lifestyle",Citra Muslim
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch334%29/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="" group-title="Indonesia Channels",Metro TV
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Indonesia Channels",Metro TV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch394%29/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="" group-title="Premium Movies",KIX
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Premium Movies",KIX
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch336%29/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="" group-title="Premium Movies",One
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Premium Movies",One
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch338%29/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="" group-title="Indonesia Channels",ANTV
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Indonesia Channels",ANTV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch390%29/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="" group-title="News",Euronews
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="News",Euronews
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch341%29/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="" group-title="premium Movies",TVN Movies
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="premium Movies",TVN Movies
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch343%29/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="" group-title="Music",Stingray Festival 4K
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Music",Stingray Festival 4K
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch344%29/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="" group-title="Music",Stingray Now 4K
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Music",Stingray Now 4K
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch345%29/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="" group-title="Knowledge & Documentary",DMAX
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Knowledge & Documentary",DMAX
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch347%29/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="" group-title="Knowledge & Documentary",Crime & Investigation
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Knowledge & Documentary",Crime & Investigation
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch349%29/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="" group-title="Moslem Channel",TV9
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Moslem Channel",TV9
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch352%29/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="" group-title="Knowledge & Documentary",HGTV
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Knowledge & Documentary",HGTV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch354%29/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="" group-title="News",IDX TV
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="News",IDX TV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch389%29/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="" group-title="Indonesia Channels",BTV
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Indonesia Channels",BTV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch360%29/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="" group-title="Christian Channels",Reformed 21
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Christian Channels",Reformed 21
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch365%29/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="" group-title="Knowledge & Documentary",Global Trekker
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Knowledge & Documentary",Global Trekker
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch366%29/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="" group-title="Knowledge & Documentary",Stingray Nature Escape
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Knowledge & Documentary",Stingray Nature Escape
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch367%29/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="" group-title="Knowledge & Documentary",Love Nature
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Knowledge & Documentary",Love Nature
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch368%29/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="" group-title="Kids,Cartoonito
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Kids,Cartoonito
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch372%29/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="" group-title="Entertainment & Lifestyle",Citra Entertainment
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Entertainment & Lifestyle",Citra Entertainment
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch379%29/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo=""  group-title="Entertainment & Lifestyle",Citra Drama
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo=""  group-title="Entertainment & Lifestyle",Citra Drama
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch378%29/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo=""  group-title="Entertainment & Lifestyle",Citra Bioskop
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo=""  group-title="Entertainment & Lifestyle",Citra Bioskop
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch376%29/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="" group-title="Entertainment & Lifestyle",Citra Dangdut
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Entertainment & Lifestyle",Citra Dangdut
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch377%29/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="" group-title="Premium Movies",Celestial Movies
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Premium Movies",Celestial Movies
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch204%29/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="" group-title="Entertainment & Lifestyle",Asian Food Network
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Entertainment & Lifestyle",Asian Food Network
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch76%29/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="" group-title="Christian Channels",TBN Asia
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Christian Channels",TBN Asia
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch61%29/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="" group-title="Kids",Animax
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Kids",Animax
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch52%29/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="" group-title="Indonesia Channels",Garuda TV
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Indonesia Channels",Garuda TV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch45%29/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="" group-title="Entertainment & Lifestyle"",TLC
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Entertainment & Lifestyle"",TLC
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch35%29/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo=""  group-title="Knowledge & Documentary",Animal Planet
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo=""  group-title="Knowledge & Documentary",Animal Planet
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch31%29/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="" group-title="Entertainment & Lifestyle",First Lifestyle
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Entertainment & Lifestyle",First Lifestyle
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3%29/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="" group-title="Knowledge & Documentary",Discovery Channel
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Knowledge & Documentary",Discovery Channel
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch29%29/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="" group-title="Christian Channels",Kairos
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Christian Channels",Kairos
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch23%29/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="" group-title="Sports",Eurosports
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Sports",Eurosports
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch21%29/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="" group-title="News",Jakarta Globe News
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="News",Jakarta Globe News
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch2%29/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="" group-title="News",IDTV
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="News",IDTV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch19%29/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="" group-title="Entertainment & Life4style",Sony Max
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Entertainment & Life4style",Sony Max
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch174%29/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="" group-title="Entertainment & Life4style",Sony Television
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Entertainment & Life4style",Sony Television
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch173%29/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="" group-title="Local Channels",JTV Surabaya
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Local Channels",JTV Surabaya
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch17%29/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="" group-title="Entertainment & Life4style",Fashion TV
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Entertainment & Life4style",Fashion TV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch168%29/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="" group-title="Premium Movies",Zee Bioskop
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Premium Movies",Zee Bioskop
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch161%29/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="" group-title="Entertainment & Life4style",Lifetime
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Entertainment & Life4style",Lifetime
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch155%29/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo=""  group-title="News",Bloomberg TV
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo=""  group-title="News",Bloomberg TV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch14%29/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="" group-title="Knowledge & Documentary",History Channel
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Knowledge & Documentary",History Channel
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch131%29/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="" group-title="Indonesia Channels",Daai TV
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Indonesia Channels",Daai TV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch128%29/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="" group-title="Kids",Nick JR
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Kids",Nick JR
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch124%29/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="" group-title="Kids",Nickelodeon
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Kids",Nickelodeon
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch105%29/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="" group-title="Kids",Cartoon Network
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Kids",Cartoon Network
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch103%29/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="" group-title="News",Rusia Today
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="News",Rusia Today
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3981%29/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="" group-title="Christian Channels",Shine
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Christian Channels",Shine
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3900%29/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="" group-title="Sports",SPOTV 2
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Sports",SPOTV 2
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3300%29/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="" group-title="Music,Stingray Djazz
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Music,Stingray Djazz
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3344%29/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="" group-title="Premium Movies,GEM
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Premium Movies,GEM
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3400%29/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="" group-title="Christian Channels",Praise
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Christian Channels",Praise
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3888%29/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="" group-title="Christian Channels",Light
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="" group-title="Christian Channels",Light
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3922%29/index.m3u8
 
 
