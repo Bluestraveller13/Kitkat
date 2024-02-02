@@ -946,7 +946,7 @@ https://mam.jogjaprov.go.id:1937/tv/jitv_720p/chunklist_w850229424.m3u8
 https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1c/Kawanua_TV.png" group-title="Local Channels",Kawanua TV
-http://63b2dc7196c38.streamlock.net:1935/ch18/myStream/playlist.m3u8
+https://63b2dc7196c38.streamlock.net:1937/ch18/myStream/chunklist_w912292865.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1003,6 +1003,47 @@ https://63b2dc7196c38.streamlock.net:1937/ch25/myStream/chunklist_w500135136.m3u
 
 #EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://p7.hiclipart.com/preview/7/684/965/logo-radar-cirebon-tv-radar-cirebon-televisi-television-rctv-cirebon-others.jpg" group-title="Local Channels",RCTV Cirebon
 https://63b2dc7196c38.streamlock.net:1937/ch9/myStream/chunklist_w1718673554.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Logo_Timor_TV.png" group-title="Local Channels",Timor TV
+https://63b2dc7196c38.streamlock.net:1937/timortv/myStream/chunklist_w689544014.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://jpmtelevisi.com/img/atambua.png" group-title="Local Channels",Atambua TV
+https://63b2dc7196c38.streamlock.net:1937/atambua/myStream/chunklist_w1110314352.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/39/Padang_TV_2007.png/revision/latest/scale-to-width-down/1200?cb=20181001034349" group-title="Local Channels",Padang TV
+https://63b2dc7196c38.streamlock.net:1937/ch16/myStream/chunklist_w1993412302.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://jpmtelevisi.com/img/sabanten.png" group-title="Local Channels",Sabanten - Banten
+https://63b2dc7196c38.streamlock.net:1937/sabantentv/myStream/chunklist_w1424683093.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://jpmtelevisi.com/img/batamtv.png" group-title="Local Channels",Batam TV
+https://63b2dc7196c38.streamlock.net:1937/ch5/myStream/chunklist_w1096211175.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://jpmtelevisi.com/img/natuna.png" group-title="Local Channels",Natuna TV
+https://63b2dc7196c38.streamlock.net:1937/natuna/myStream/chunklist_w1179708856.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://jpmtelevisi.com/img/anambas.png" group-title="Local Channels",Anambas TV
+https://63b2dc7196c38.streamlock.net:1937/anambas/myStream/chunklist_w1235165625.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://jpmtelevisi.com/img/simpang5.png" group-title="Local Channels",Simpang TV Semarang
+https://63b2dc7196c38.streamlock.net:1937/ch4/myStream/chunklist_w1782045087.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://jpmtelevisi.com/img/btv.png" group-title="Local Channels",Balikpapan TV
+https://63b2dc7196c38.streamlock.net:1937/ch10/myStream/chunklist_w1862740263.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://jpmtelevisi.com/img/pontianak.png" group-title="Local Channels",PON TV Pontianak
+https://63b2dc7196c38.streamlock.net:1937/ch15/myStream/chunklist_w330464297.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://jpmtelevisi.com/img/singkawang.png" group-title="Local Channels",Singkawang TV
+https://63b2dc7196c38.streamlock.net:1937/singkawang/myStream/chunklist_w104533869.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://jpmtelevisi.com/img/sambas.png" group-title="Local Channels",Sambas TV
+https://63b2dc7196c38.streamlock.net:1937/ch21/myStream/chunklist_w2128698489.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/8/8a/-PadjadjaranTVLogo_Baru.jpg" group-title="Local Channels",PJTV Bandung
+https://63b2dc7196c38.streamlock.net:1937/ch30/myStream/chunklist_w38627436.m3u8
+
+
 
 
 
