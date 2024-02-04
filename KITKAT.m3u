@@ -94,20 +94,20 @@ https://etv-cdn.kdb.co.id/GarudaTV-Stream/tracks-v1a1/mono.m3u8
 
 
 <========================= HBO Group ===================================>
-#EXTINF:-1 tvg-id="HBO HD" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://seeklogo.com/images/H/hbo-logo-9BCB43E157-seeklogo.com.png" group-title="Premium Movies",HBO (Transcorp)
+#EXTINF:-1 tvg-id="HBO HD" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://seeklogo.com/images/H/hbo-logo-9BCB43E157-seeklogo.com.png" group-title="Premium Movies",HBO 
 http://103.113.116.150:25461/mtm1/12345/16
 
-#EXTINF:-1 tvg-id="HBO Hits HD" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/HBO%20HITS.png" group-title="Premium Movies",HBO Hits (Transcorp)
+#EXTINF:-1 tvg-id="HBO Hits HD" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/HBO%20HITS.png" group-title="Premium Movies",HBO Hits 
 http://103.113.116.150:25461/mtm1/12345/17
 
-#EXTINF:-1 tvg-id="HBO Family HD" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/HBO%20Family.png" group-title="Premium Movies",HBO Family (Transcorp)
+#EXTINF:-1 tvg-id="HBO Family HD" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/HBO%20Family.png" group-title="Premium Movies",HBO Family 
 http://103.113.116.150:25461/mtm1/12345/19
 
 
-#EXTINF:-1 tvg-id="HBO Signature HD" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="Premium Movies",HBO Signature (Transcorp)
+#EXTINF:-1 tvg-id="HBO Signature HD" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="Premium Movies",HBO Signature 
 http://103.113.116.150:25461/mtm1/12345/18
 
-#EXTINF:-1 tvg-id="Cinemax HD" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/Cinemax.png" group-title="Premium Movies",Cinemax (Transcorp)
+#EXTINF:-1 tvg-id="Cinemax HD" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/Cinemax.png" group-title="Premium Movies",Cinemax 
 http://103.113.116.150:25461/mtm1/12345/20
 
 <======================== Premium Movies ==========================>
@@ -1204,3 +1204,110 @@ http://103.113.116.150:25461/mtm1/12345/166
 http://103.113.116.150:25461/mtm1/12345/167
 
 
+#EXTINF:-1 group-title="USA Channel" tvg-url="https://bit.ly/JejeVisionEPG"  tvg-id="" tvg-chno="" tvg-logo="https://getvectorlogo.com/wp-content/uploads/2020/02/cooking-channel-vector-logo.png",Cooking Channel
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12770
+
+#EXTINF:-1 group-title="USA Channel" tvg-url="https://bit.ly/JejeVisionEPG"  tvg-id="" tvg-chno="" tvg-logo="https://iconape.com/wp-content/files/tb/285240/png/285240.png",Discovery Family
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/22621
+
+#EXTINF:-1 group-title="USA Channel" tvg-url="https://bit.ly/JejeVisionEPG"  tvg-id="" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/99/Discovery_life_logo.png",Discovery Life
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/22620
+
+#EXTINF:-1 group-title="USA Channel" tvg-url="https://bit.ly/JejeVisionEPG"  tvg-id="" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Science_Channel_2016.png",Science
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/22642
+
+#EXTINF:-1 group-title="USA Channel" tvg-url="https://bit.ly/JejeVisionEPG"  tvg-id="" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/E%21_Logo.png",E!
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12761
+
+#EXTINF:-1 group-title="USA Channel" tvg-url="https://bit.ly/JejeVisionEPG"  tvg-id="" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/MGM%2B_Hits_2023.svg/2560px-MGM%2B_Hits_2023.svg.png",MGM + Hits
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12759
+
+#EXTINF:-1 group-title="USA Channel" tvg-url="https://bit.ly/JejeVisionEPG"  tvg-id="" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Food_Network_Canada_%282013%29_Logo.png/240px-Food_Network_Canada_%282013%29_Logo.png",Food Network
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12758
+
+#EXTINF:-1 group-title="USA Channel" tvg-url="https://bit.ly/JejeVisionEPG"  tvg-id="" tvg-chno="" tvg-logo="https://seeklogo.com/images/F/fx-logo-48C5D871CC-seeklogo.com.png",FX HD
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12752
+
+#EXTINF:-1 group-title="USA Channel" tvg-url="https://bit.ly/JejeVisionEPG"  tvg-id="" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/FYI%2C_logo.svg/1280px-FYI%2C_logo.svg.png",FYI HD
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12748
+
+#EXTINF:-1 group-title="USA Channel" tvg-url="https://bit.ly/JejeVisionEPG"  tvg-id="" tvg-chno="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/Grit_TV_White.png",Grit TV
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12746
+
+#EXTINF:-1 group-title="USA Channel" tvg-url="https://bit.ly/JejeVisionEPG"  tvg-id="" tvg-chno="" tvg-logo="https://w7.pngwing.com/pngs/518/1011/png-transparent-hallmark-cards-logo-greeting-note-cards-shopping-centre-coroa-miscellaneous-purple-television.png",Hallmark HD
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12745
+
+#EXTINF:-1 group-title="USA Channel" tvg-url="https://bit.ly/JejeVisionEPG"  tvg-id="" tvg-chno="" tvg-logo="https://w7.pngwing.com/pngs/518/1011/png-transparent-hallmark-cards-logo-greeting-note-cards-shopping-centre-coroa-miscellaneous-purple-television.png",Hallmark Drama
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/26496
+
+#EXTINF:-1 group-title="USA Channel" tvg-url="https://bit.ly/JejeVisionEPG"  tvg-id="" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png",HGTV
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12737
+
+#EXTINF:-1 group-title="USA Channel" tvg-url="https://bit.ly/JejeVisionEPG"  tvg-id="" tvg-chno="" tvg-logo="https://seeklogo.com/images/T/the-history-channel-logo-A5BA467B18-seeklogo.com.png",History HD
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12738
+
+#EXTINF:-1 group-title="USA Channel" tvg-url="https://bit.ly/JejeVisionEPG"  tvg-id="" tvg-chno="" tvg-logo="https://www.effectv.com/wp-content/uploads/2021/10/IFC-White-Small.png",IFC HD
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12733
+
+#EXTINF:-1 group-title="USA Channel" tvg-url="https://bit.ly/JejeVisionEPG"  tvg-id="" tvg-chno="" tvg-logo="https://seeklogo.com/images/L/Lifetime_Movies_Network-logo-E2E88DE7F4-seeklogo.com.png",Lifetime Movies
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12731
+
+#EXTINF:-1 group-title="USA Channel" tvg-url="https://bit.ly/JejeVisionEPG"  tvg-id="" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Lifetime_logo17.svg/1200px-Lifetime_logo17.svg.png",Lifetime
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12732
+
+#EXTINF:-1 group-title="USA Channel" tvg-url="https://bit.ly/JejeVisionEPG"  tvg-id="" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Mhistory.png",Military History
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/25023
+
+#EXTINF:-1 group-title="USA Channel" tvg-url="https://bit.ly/JejeVisionEPG"  tvg-id="" tvg-chno="" tvg-logo="https://seeklogo.com/images/M/mtv-logo-B88195D873-seeklogo.com.png",MTV
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12726
+
+#EXTINF:-1 group-title="USA Channel" tvg-url="https://bit.ly/JejeVisionEPG"  tvg-id="" tvg-chno="" tvg-logo="https://i.pinimg.com/originals/b7/3e/23/b73e23e220403513f34bb6689172a744.jpg",MTV Live
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28270
+
+#EXTINF:-1 group-title="USA Channel" tvg-url="https://bit.ly/JejeVisionEPG"  tvg-id="" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/MTVU_Logo_%282016%E2%80%93present%29.svg/1200px-MTVU_Logo_%282016%E2%80%93present%29.svg.png",MTV U
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28269
+
+#EXTINF:-1 group-title="USA Channel" tvg-url="https://bit.ly/JejeVisionEPG"  tvg-id="" "tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/Newsy_2015_Logo.png",NEWSY
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28877
+
+#EXTINF:-1 group-title="USA Channel" tvg-url="https://bit.ly/JejeVisionEPG"  tvg-id="" "tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Outdoor_Channel_logo_2017.svg/1280px-Outdoor_Channel_logo_2017.svg.png" tvg-logo="",Outdoor Channel
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28869
+
+#EXTINF:-1 group-title="USA Channel" tvg-url="https://bit.ly/JejeVisionEPG"  tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Outsidetv_logo_2016.png",Outside TV
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28870
+
+#EXTINF:-1 group-title="USA Channel" tvg-url="https://bit.ly/JejeVisionEPG"  tvg-id=""  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/80/Ovation.svg/200px-Ovation.svg.png",Ovation TV
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/28871
+
+#EXTINF:-1 group-title="USA Channel" tvg-url="https://bit.ly/JejeVisionEPG"  tvg-id="" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/OWN_2011_logo.svg/1200px-OWN_2011_logo.svg.png",Own TV
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12716
+
+#EXTINF:-1 group-title="USA Channel" tvg-url="https://bit.ly/JejeVisionEPG"  tvg-id="" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/Oxygen_TV_%282017_Logo%29.png",OXIGEN TV
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12715
+
+#EXTINF:-1 group-title="USA Channel" tvg-url="https://bit.ly/JejeVisionEPG"  tvg-id="" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/800px-Paramount_Network.svg.png",Paramount Network
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12714
+
+#EXTINF:-1 group-title="USA Channel" tvg-url="https://bit.ly/JejeVisionEPG"  tvg-id="" tvg-chno="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1280px-TLC_Logo.svg.png" tvg-logo="",TLC
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12695
+
+#EXTINF:-1 group-title="USA Channel" tvg-url="https://bit.ly/JejeVisionEPG"  tvg-id="" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2018_Travel_Channel_logo.svg/1280px-2018_Travel_Channel_logo.svg.png",Travel Channel
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12693
+
+#EXTINF:-1 group-title="USA Channel" tvg-url="https://bit.ly/JejeVisionEPG"  tvg-id="" tvg-chno="" tvg-logo="https://seeklogo.com/images/T/trutv-logo-525E61889C-seeklogo.com.png",TRU TV HD
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12692
+
+#EXTINF:-1 group-title="USA Channel" tvg-url="https://bit.ly/JejeVisionEPG"  tvg-id="" tvg-chno="" tvg-logo="https://w7.pngwing.com/pngs/291/895/png-transparent-tvone-pakistan-television-channel-drama-news-live-television-emblem-trademark-thumbnail.png",TV ONE
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12690
+
+#EXTINF:-1 group-title="USA Channel" tvg-url="https://bit.ly/JejeVisionEPG"  tvg-id="" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/1280px-USA_Network_logo_%282016%29.svg.png",USA NETWORK HD
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12689
+
+#EXTINF:-1 group-title="USA Channel" tvg-url="https://bit.ly/JejeVisionEPG"  tvg-id="" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/VH1_logo.svg/1024px-VH1_logo.svg.png",VH1
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12685
+
+#EXTINF:-1 group-title="USA Channel" tvg-url="https://bit.ly/JejeVisionEPG"  tvg-id="" tvg-chno="" tvg-logo="https://w7.pngwing.com/pngs/528/445/png-transparent-we-tv-television-show-television-channel-logo-others-love-miscellaneous-television.png",WE TV
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12684
+
+#EXTINF:-1 group-title="USA Channel" tvg-url="https://bit.ly/JejeVisionEPG"  tvg-id="" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/220px-Sony_Movies_Logo.svg.png",Sony Movie Channel
+https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/26820
