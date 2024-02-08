@@ -1190,28 +1190,28 @@ http://103.113.116.150:25461/mtm1/12345/49
 #EXTINF:-1 group-title="Sports" tvg-url="https://s.id/KITKATTV  tvg-id="AstroSuperSport4.my" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png",Astro Super Sport 4
 http://103.113.116.150:25461/mtm1/12345/50
 
-#EXTINF:-1 group-title="SPORTS" tvg-url="https://s.id/KITKATTV tvg-id=""https://www.pngkit.com/png/detail/28-288122_eleven-sports-hq-eleven-sports-png.png",DAZN ELEVEN 1
+#EXTINF:-1 group-title="Sports" tvg-url="https://s.id/KITKATTV tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/800px-Fox_Sports_logo1.svg.png",FOX SPORT 505 HDhttp://103.113.116.150:25461/mtm1/12345/122
+
+#EXTINF:-1 group-title="Sports" tvg-url="https://s.id/KITKATTV  tvg-id="" tvg-chno="" tvg-logo="https://www.pngkit.com/png/detail/28-288122_eleven-sports-hq-eleven-sports-png.png",DAZN Eleven Sport 1
 http://103.113.116.150:25461/mtm1/12345/163
 
-#EXTINF:-1 group-title="SPORTS" tvg-url="https://s.id/KITKATTV tvg-id="" https://www.pngkit.com/png/detail/28-288122_eleven-sports-hq-eleven-sports-png.png",DAZN ELEVEN 2
+#EXTINF:-1 group-title="Sports" tvg-url="https://s.id/KITKATTV  tvg-id="" tvg-chno="" tvg-logo="https://www.pngkit.com/png/detail/28-288122_eleven-sports-hq-eleven-sports-png.png",DAZN Eleven Sport 2
 http://103.113.116.150:25461/mtm1/12345/164
 
-#EXTINF:-1 group-title="SPORTS" tvg-url="https://s.id/KITKATTV tvg-id="" tvg-logo="https://www.pngkit.com/png/detail/28-288122_eleven-sports-hq-eleven-sports-png.png",DAZN ELEVEN 3
+#EXTINF:-1 group-title="Sports" tvg-url="https://s.id/KITKATTV  tvg-id="" tvg-chno="" tvg-logo="https://www.pngkit.com/png/detail/28-288122_eleven-sports-hq-eleven-sports-png.png",DAZN Eleven Sport 3
 http://103.113.116.150:25461/mtm1/12345/165
 
-#EXTINF:-1 group-title="SPORTS" tvg-url="https://s.id/KITKATTV tvg-id="" tvg-logo="https://www.pngkit.com/png/detail/28-288122_eleven-sports-hq-eleven-sports-png.png",DAZN ELEVEN 4
+#EXTINF:-1 group-title="Sports" tvg-url="https://s.id/KITKATTV  tvg-id="" tvg-chno="" tvg-logo="https://www.pngkit.com/png/detail/28-288122_eleven-sports-hq-eleven-sports-png.png",DAZN Eleven Sport 4
 http://103.113.116.150:25461/mtm1/12345/166
 
-#EXTINF:-1 group-title="SPORTS" tvg-url="https://s.id/KITKATTV tvg-id="" tvg-logo="https://www.pngkit.com/png/detail/28-288122_eleven-sports-hq-eleven-sports-png.png",DAZN ELEVEN 5
+#EXTINF:-1 group-title="Sports" tvg-url="https://s.id/KITKATTV  tvg-id="" tvg-chno="" tvg-logo="https://www.pngkit.com/png/detail/28-288122_eleven-sports-hq-eleven-sports-png.png",DAZN Eleven Sport 5
 http://103.113.116.150:25461/mtm1/12345/167
 
-#EXTINF:-1 group-title="SPORTS" tvg-url="https://s.id/KITKATTV tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/800px-Fox_Sports_logo1.svg.png",FOX SPORT 505 HD
-http://103.113.116.150:25461/mtm1/12345/122
 
-#EXTINF:-1 group-title="SPORTS" tvg-url="https://s.id/KITKATTV tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/800px-Fox_Sports_logo1.svg.png",FOX SPORT 506 HD
+#EXTINF:-1 group-title="Sports" tvg-url="https://s.id/KITKATTV tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/800px-Fox_Sports_logo1.svg.png",FOX SPORT 506 HD
 http://103.113.116.150:25461/mtm1/12345/123
 
-#EXTINF:-1 group-title="SPORTS" tvg-url="https://s.id/KITKATTV tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/800px-Fox_Sports_logo1.svg.png",FOX SPORT 507 HD
+#EXTINF:-1 group-title="Sports" tvg-url="https://s.id/KITKATTV tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/800px-Fox_Sports_logo1.svg.png",FOX SPORT 507 HD
 http://103.113.116.150:25461/mtm1/12345/124
 
 #EXTINF:-1 group-title="Sports" tvg-url="https://s.id/KITKATTV  tvg-id="" tvg-chno="" tvg-logo="https://e7.pngegg.com/pngimages/672/288/png-clipart-ufc-logo-ufc-1-the-beginning-ufc-197-jones-vs-saint-preux-mixed-martial-arts-the-joe-rogan-experience-logo-mma-event-angle-emblem-thumbnail.png",UFC TV
@@ -1275,19 +1275,5 @@ http://103.113.116.150:25461/mtm1/12345/154
 #EXTINF:-1 group-title="Sports" tvg-url="https://s.id/KITKATTV  tvg-id="" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Eurosport_2_Logo_%282011-2015%29.svg/2560px-Eurosport_2_Logo_%282011-2015%29.svg.png",Eurosport 2
 http://103.113.116.150:25461/mtm1/12345/155
 
-#EXTINF:-1 group-title="Sports" tvg-url="https://s.id/KITKATTV  tvg-id="" tvg-chno="" tvg-logo="https://www.pngkit.com/png/detail/28-288122_eleven-sports-hq-eleven-sports-png.png",DAZN Eleven Sport 1
-http://103.113.116.150:25461/mtm1/12345/163
-
-#EXTINF:-1 group-title="Sports" tvg-url="https://s.id/KITKATTV  tvg-id="" tvg-chno="" tvg-logo="https://www.pngkit.com/png/detail/28-288122_eleven-sports-hq-eleven-sports-png.png",DAZN Eleven Sport 2
-http://103.113.116.150:25461/mtm1/12345/164
-
-#EXTINF:-1 group-title="Sports" tvg-url="https://s.id/KITKATTV  tvg-id="" tvg-chno="" tvg-logo="https://www.pngkit.com/png/detail/28-288122_eleven-sports-hq-eleven-sports-png.png",DAZN Eleven Sport 3
-http://103.113.116.150:25461/mtm1/12345/165
-
-#EXTINF:-1 group-title="Sports" tvg-url="https://s.id/KITKATTV  tvg-id="" tvg-chno="" tvg-logo="https://www.pngkit.com/png/detail/28-288122_eleven-sports-hq-eleven-sports-png.png",DAZN Eleven Sport 4
-http://103.113.116.150:25461/mtm1/12345/166
-
-#EXTINF:-1 group-title="Sports" tvg-url="https://s.id/KITKATTV  tvg-id="" tvg-chno="" tvg-logo="https://www.pngkit.com/png/detail/28-288122_eleven-sports-hq-eleven-sports-png.png",DAZN Eleven Sport 5
-http://103.113.116.150:25461/mtm1/12345/167
 
 
