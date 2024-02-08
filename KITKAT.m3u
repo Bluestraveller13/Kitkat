@@ -1020,7 +1020,25 @@ https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12684
 
 #EXTINF:-1 group-title="USA Channel" tvg-url="https://s.id/KITKATTV"  tvg-id="" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/220px-Sony_Movies_Logo.svg.png",Sony Movie Channel
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/26820
+<================================ Moslem Channels ================================>
 
+#EXTINF:-1  tvg-id="" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d0/TvMu.png" group-title="Moslem Channels",TV MU
+https://e.siar.us/live/tvmu.m3u8
+
+#EXTINF:-1  tvg-id="" tvg-url="" tvg-logo="https://cdn.timesmedia.co.id/images/2020/05/13/logo-tv9.png" group-title="Moslem Channels",TV9
+https://5bf7b725107e5.streamlock.net/tv9/tv9/chunklist_w101129335.m3u8
+
+#EXTINF:-1  tvg-id="" tvg-url="" tvg-logo="https://static.visionplus.id/images/channel/0a9f9dab/9715.png" group-title="Moslem Channels",Tawaf TV
+https://streamtawaf.asfatv.com/hls/tawaftv.m3u8
+
+#EXTINF:-1  tvg-id="" tvg-url="" tvg-logo="https://photos.live-tv-channels.org/tv-logo/id-aswaja-tv-4350.jpg" group-title="Moslem Channels",Aswaja TV
+https://stream-12.dc3.dailymotion.com/sec(86G48EQSWKUUFPhHXEV5xjXGvhX16pInIuK88BypZfY2OewzVXH-RdCfoI-NgldD)/dm/3/x748iuo/s/live-1.m3u8
+
+#EXTINF:-1  tvg-id="" tvg-url="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/Madani_TV.jpg/revision/latest?cb=20180922033822" group-title="Moslem Channels",Madani TV
+https://stream.asianastream.com/madani/madanitv.smil/chunklist_w173613236_b2800000.m3u8
+
+#EXTINF:-1  tvg-id="" tvg-url="" tvg-logo="https://www.surautv.id/wp-content/uploads/2024/01/logosurautvvalid.png" group-title="Moslem Channels",Surau TV
+https://ams.juraganstreaming.com:5443/LiveApp/streams/surautv.m3u8
 
 <=======================Local Channels===============>
 
