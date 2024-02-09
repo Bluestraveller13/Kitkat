@@ -1389,4 +1389,10 @@ http://103.113.116.150:25461/mtm1/12345/154
 http://103.113.116.150:25461/mtm1/12345/155
 
 
+#EXTINF:0 tvg-logo="https://w7.pngwing.com/pngs/446/546/png-transparent-mnc-sports-mnc-vision-soccer-channel-mnc-play-media-nusantara-citra-others-text-trademark-sport.png" group-title="Trial",Soccer Channel 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz 
+https://nyanv-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
+
+
 
