@@ -1232,8 +1232,6 @@ http://103.113.116.150:25461/mtm1/12345/123
 #EXTINF:-1 group-title="Sports" tvg-url="https://s.id/KITKATTV tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/800px-Fox_Sports_logo1.svg.png",FOX SPORT 507 HD
 http://103.113.116.150:25461/mtm1/12345/124
 
-#EXTINF:-1 group-title="Sports" tvg-url="https://s.id/KITKATTV  tvg-id="" tvg-chno="" tvg-logo="https://e7.pngegg.com/pngimages/672/288/png-clipart-ufc-logo-ufc-1-the-beginning-ufc-197-jones-vs-saint-preux-mixed-martial-arts-the-joe-rogan-experience-logo-mma-event-angle-emblem-thumbnail.png",UFC TV
-http://103.113.116.150:25461/mtm1/12345/51
 
 #EXTINF:-1 group-title="Sports" tvg-url="https://s.id/KITKATTV  tvg-id="" tvg-chno="" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/7lxofw1656964140.png",SuperSport FootBall
 http://103.113.116.150:25461/mtm1/12345/56
@@ -1250,8 +1248,10 @@ http://103.113.116.150:25461/mtm1/12345/59
 #EXTINF:-1 group-title="Sports" tvg-url="https://s.id/KITKATTV  tvg-id="" tvg-chno="" tvg-logo="https://images.supersport.com/media/krybzs0y/action-1.png",SuperSport Action
 http://103.113.116.150:25461/mtm1/12345/60
 
-#EXTINF:-1 group-title="Sports" tvg-url="https://s.id/KITKATTV  tvg-id="" tvg-chno="" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/srtijz1643382350.png",SuperSport Cricket
+#EXTINF:-1 group-title="Sports" tvg-url="https://s.id/KITKATTV  tvg-id="" tvg-chno="" tvg-logo="https://www.freeshot.live/upload/source/SuperSportGolf-logo.png",SuperSport Golf
 http://103.113.116.150:25461/mtm1/12345/61
+
+#EXTINF:-1 group-title="Sports" tvg-url="https://s.id/KITKATTV  tvg-id="" tvg-chno="" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/srtijz1643382350.png",SuperSport Cricket
 http://103.113.116.150:25461/mtm1/12345/62
 
 #EXTINF:-1 group-title="Sports" tvg-url="https://s.id/KITKATTV  tvg-id="" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1200px-TNT_Sports_2021_logo.svg.png",TNT Sports 1
