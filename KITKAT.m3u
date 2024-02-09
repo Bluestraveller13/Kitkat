@@ -285,7 +285,7 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch343%29/index
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch338%29/index.m3u8
 
 #EXTINF:-1 tvg-id= "KPlus.sg" tvg-url="https://s.id/KITKATTV" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1557989718_k-plus.png" group-title="Korean Channels",K+
-http://210.210.155.37/session/193aa22c-25f6-11ed-8260-83b5bb6e22c3/uq2663/h/h08/01.m3u8
+http://210.210.155.37/uq2663/h/h08/01.m3u8
 
 #EXTINF:-1 tvg-id="KBS World HD" tvg-url="https://s.id/KITKATTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/KBS_World.svg/2560px-KBS_World.svg.png" group-title="Korean Channels",KBS WORLD
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch262%29/index.m3u8
