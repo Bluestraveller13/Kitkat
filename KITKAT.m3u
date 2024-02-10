@@ -721,21 +721,6 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch21%29/index.
 http://210.210.155.37/uq2663/h/h09/index.m3u8
 
 <=========================== Sport Pengganti ==========================>
-#EXTINF:-1 tvg-id="" tvg-name="ASTRO SPORTS 1 HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/Astro_Supersport_HD.png" group-title="Sports",Astro Supersports 1 HD
-http://4ksuper.live:80/00112233/00112233/918986
-
-#EXTINF:-1 tvg-id="" tvg-name="ASTRO SPORTS 2 HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/Astro_Supersport_HD.png" group-title="Sports",Astro Supersports 2 HD
-http://4ksuper.live:80/00112233/00112233/918985
-
-#EXTINF:-1 tvg-id="" tvg-name="ASTRO SPORTS 3 HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/Astro_Supersport_HD.png" group-title="Sports",Astro Supersports 3 HD
-http://4ksuper.live:80/00112233/00112233/918984
-
-#EXTINF:-1 tvg-id="" tvg-name="ASTRO SPORTS 4 HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/Astro_Supersport_HD.png" group-title="Sports",Astro Supersports 4 HD
-http://4ksuper.live:80/00112233/00112233/918983
-
-#EXTINF:-1 tvg-id="" tvg-name="ASTRO SPORTS 5 HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/Astro_Supersport_HD.png" group-title="Sports",Astro Supersports 5 HD
-http://4ksuper.live:80/00112233/00112233/918982
-
 
 #EXTINF:1 tvg-id="TruePremierFootball1.th" tvg-logo="https://i.postimg.cc/vBC00YZJ/20220927-064509.png" group-title="Sports", True Premier HD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
