@@ -634,6 +634,22 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch345%29/index
 
 <=============================== EPL and LaLiga =========================>
 
+#EXTINF:-1 tvg-id="Champions TV 5" tvg-url="https://bit.ly/JejeVisionEPG" group-title="World Soccer League" tvg-logo="https://w7.pngwing.com/pngs/127/860/png-transparent-premier-league-logo-thumbnail.png",Premiere League 1 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://srtv.my.id/vd/play.php?id=9182&type=drm 
+https://srtv.my.id/vd/play.mpd?id=9182&type=dash
+
+#EXTINF:-1 tvg-id="Champions TV 6" tvg-url="https://bit.ly/JejeVisionEPG" group-title="World Soccer League" tvg-logo="https://w7.pngwing.com/pngs/127/860/png-transparent-premier-league-logo-thumbnail.png",Premiere League 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://srtv.my.id/vd/play.php?id=9183&type=drm 
+https://srtv.my.id/vd/play.mpd?id=9183&type=dash
+
 #EXTINF:-1 group-title="World Soccer League" tvg-url="https://s.id/KITKATTV"  tvg-id="AstroSuperSport.my" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png",Astro Super Sport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 http://103.113.116.150:25461/mtm1/12345/47
