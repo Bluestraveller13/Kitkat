@@ -2,6 +2,43 @@
 #EXTM3U url-tvg="https://s.id/KITKATTV"
 #EXTM3U x-url-tvg="https://s.id/KITKATTV"
 
+<================================== Live Event EPL ===============================>
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/K/kit-kat-logo-20E18590D6-seeklogo.com.png" group-title="Live Event EPL", LIVE 1
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:3B:8F:38&stream=1110622&extension=ts
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/K/kit-kat-logo-20E18590D6-seeklogo.com.png" group-title="Live Event EPL", LIVE 2
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:3B:8F:38&stream=144412&extension=ts
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/K/kit-kat-logo-20E18590D6-seeklogo.com.png" group-title="Live Event EPL", LIVE 3
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:3B:8F:38&stream=355925&extension=ts
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/K/kit-kat-logo-20E18590D6-seeklogo.com.png" group-title="Live Event EPL", LIVE 4
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:3B:8F:38&stream=833281&extension=ts
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/K/kit-kat-logo-20E18590D6-seeklogo.com.png" group-title="Live Event EPL", LIVE 5
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:3B:8F:38&stream=1032471&extension=ts
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/K/kit-kat-logo-20E18590D6-seeklogo.com.png" group-title="Live Event EPL", LIVE 6
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:3B:8F:38&stream=918984&extension=ts
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/K/kit-kat-logo-20E18590D6-seeklogo.com.png" group-title="Live Event EPL", LIVE 7
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:3B:8F:38&stream=239078&extension=ts
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/K/kit-kat-logo-20E18590D6-seeklogo.com.png" group-title="Live Event EPL", LIVE 8
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:3B:8F:38&stream=79473&extension=ts
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/K/kit-kat-logo-20E18590D6-seeklogo.com.png" group-title="Live Event EPL", LIVE 9
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:3B:8F:38&stream=79476&extension=ts
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/K/kit-kat-logo-20E18590D6-seeklogo.com.png" group-title="Live Event EPL", LIVE 10
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=2591&extension=ts
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/K/kit-kat-logo-20E18590D6-seeklogo.com.png" group-title="Live Event EPL", Live 11
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1757338&extension=ts
+
+<=========================================== Indonesia Channels  ======================================>
+
 #EXTINF:-1 tvg-id="RCTI - [Channel 80].id" tvg-url="https://s.id/KITKATTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png" group-title="Indonesia Channels",RCTI HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 http://103.113.116.150:25461/mtm1/12345/5
