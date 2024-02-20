@@ -209,11 +209,11 @@ http://uhd3.one:80/play/live.php?mac=00:1A:79:19:06:50&stream=282639&extension=t
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch309%29/index.m3u8
 
-#EXTINF:-1 tvg-id="HITS - [Channel 160].id" tvg-url="https://s.id/KITKATTV" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/Hits.png" group-title="Premium Movies",Hits
+#EXTINF:-1 tvg-id="Hits HD" tvg-url="https://s.id/KITKATTV" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/Hits.png" group-title="Premium Movies",Hits
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch326%29/index.m3u8
 
-#EXTINF:-1 tvg-id="HITS MOVIES HD - [Channel 409].id" tvg-url="https://s.id/KITKATTV" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/Hits%20Movies.png" group-title="Premium Movies",HitsMovies
+#EXTINF:-1 tvg-id="HITS MOVIES HD" tvg-url="https://s.id/KITKATTV" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/Hits%20Movies.png" group-title="Premium Movies",HitsMovies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch324%29/index.m3u8
 
@@ -561,7 +561,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 #EXTINF:-1 tvg-id="Okezone TV - [Channel 90].id" tvg-url="https://s.id/KITKATTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/Okezone_%282007%29.png" group-title="Entertainment & LifeStyle",OkZoneTV
 https://nyanv-live-cdn.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyleFashion.mpd
 
-#EXTINF:-1 tvg-id="TV5MondeAsia.fr" tvg-url="https://s.id/KITKATTV" tvg-logo="https://static.mncnow.id/images/channel/93861924/4ebd_r32.jpg" group-title="Entertainment & LifeStyle",TV5 Monde
+#EXTINF:-1 tvg-id="TV5MONDE HD" tvg-url="https://s.id/KITKATTV" tvg-logo="https://static.mncnow.id/images/channel/93861924/4ebd_r32.jpg" group-title="Entertainment & LifeStyle",TV5 Monde
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch260%29/index.m3u8
 
@@ -569,7 +569,7 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch260%29/index
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch253%29/index.m3u8
 
-#EXTINF:-1 group-title="Entertainment & LifeStyle" tvg-id="Fashion TV Midnight Secrets" tvg-url="https://s.id/KITKATTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1280px-Fashion_TV_logo.svg.png",Fashion TV
+#EXTINF:-1 group-title="Entertainment & LifeStyle" tvg-id="FashionTV HD" tvg-url="https://s.id/KITKATTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1280px-Fashion_TV_logo.svg.png",Fashion TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch168%29/index.m3u8
 
@@ -718,11 +718,11 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 #EXTINF:-1 tvg-id="Soccer Channel HD - [Channel 420].id" tvg-url="https://s.id/KITKATTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_101.png" group-title="Sports",Soccer Channel-HD
 https://nyanv-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
 
-#EXTINF:-1 tvg-id= "SPOTV HD - [Channel 427].id" tvg-url="https://s.id/KITKATTV" tvg-logo="https://static.mncnow.id/images/channel/9e11438e/f5ad_r32.jpg" group-title="Sports",SpoTV
+#EXTINF:-1 tvg-id= "SPOTV" tvg-url="https://s.id/KITKATTV" tvg-logo="https://static.mncnow.id/images/channel/9e11438e/f5ad_r32.jpg" group-title="Sports",SpoTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch329%29/index.m3u8
 
-#EXTINF:-1 tvg-id="SPOTV 2 HD - [Channel 428].id"tvg-url="https://s.id/KITKATTV" tvg-logo="https://static.mncnow.id/images/channel/9c1465ab/79a6_r32.jpg" group-title="Sports",SpoTV 2
+#EXTINF:-1 tvg-id="SPOTV2" tvg-url="https://s.id/KITKATTV" tvg-logo="https://static.mncnow.id/images/channel/9c1465ab/79a6_r32.jpg" group-title="Sports",SpoTV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3300%29/index.m3u8
 
@@ -1059,7 +1059,7 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch273%29/index
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 http://103.113.116.150:25461/mtm1/12345/36
 
-#EXTINF:-1 tvg-id="NHK World - [Channel 355].id" tvg-name="NHKWorldJapan.jp" tvg-url="https://s.id/KITKATTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_355.jpeg" group-title="News",NHK World Japan
+#EXTINF:-1 tvg-id="NHK WORLD - JAPAN HD" tvg-name="" tvg-url="https://s.id/KITKATTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_355.jpeg" group-title="News",NHK World Japan
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch223%29/index.m3u8
 
 #EXTINF:-1 tvg-id="NHK World - [Channel 355].id" tvg-name="NHKWorldJapan.jp" tvg-url="https://s.id/KITKATTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_355.jpeg" group-title="News",NHK World Japan
@@ -1070,7 +1070,7 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch223%29/index
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 group-title="News" tvg-id="NHK World Premium - [Channel 354].id" tvg-url="https://s.id/KITKATTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/nhk_150.png",NHK World Premium
+#EXTINF:-1 group-title="News" tvg-id="NHK World Premium HD" tvg-url="https://s.id/KITKATTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/nhk_150.png",NHK World Premium
 https://nyanv-live-cdn.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremium.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -1104,7 +1104,7 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch310%29/index
 https://nyanv-live-cdn.mncnow.id/live/eds/TRTWorld/sa_dash_vmx/TRTWorld.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-#EXTINF:-1 tvg-id="SEA TODAY - [Channel 336].id" tvg-url="https://s.id/KITKATTV"tvg-logo="https://static.mncnow.id/images/channel/7bdd87fc/0cb7_r32.jpg" group-title="News",SEA Today 
+#EXTINF:-1 tvg-id="SEA Today" tvg-url="https://s.id/KITKATTV"tvg-logo="https://static.mncnow.id/images/channel/7bdd87fc/0cb7_r32.jpg" group-title="News",SEA Today 
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/manifest.mpd
 
 #EXTINF:-1 group-title="News" tvg-id="CNBC - [Channel 337].id" tvg-url="https://s.id/KITKATTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/cnbc.png",CNBC Asia
@@ -1131,7 +1131,7 @@ https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/m
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 http://103.113.116.150:25461/mtm1/12345/42
 
-#EXTINF:-1 tvg-id="Deutschewelle Deutsch" tvg-url="https://s.id/KITKATTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Deutsche_Welle_Logo.svg/1280px-Deutsche_Welle_Logo.svg.png" group-title="News",DW Deutsch
+#EXTINF:-1 tvg-id="DW (Deutsch)" tvg-url="https://s.id/KITKATTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Deutsche_Welle_Logo.svg/1280px-Deutsche_Welle_Logo.svg.png" group-title="News",DW Deutsch
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 https://dwamdstream105.akamaized.net/hls/live/2015531/dwstream105/index.m3u8
 
@@ -1495,7 +1495,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs08
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs10#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 &isp=10&bind=0&uin=159413&playseek=0
 
-#EXTINF:-1 group-title="Japan" tvg-id="historych" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/history_us.png", History
+#EXTINF:-1 group-title="Japan" tvg-id="HISTORY HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/history_us.png", History
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs09&isp=10&bind=0&uin=159413&playseek=0
 
@@ -1522,7 +1522,7 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch221%29/index
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch219%29/index.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-#EXTINF:-1 tvg-id="" tvg-url="https://s.id/KITKATTV" tvg-logo="https://seeklogo.com/images/D/dragon-television-logo-6942D37A27-seeklogo.com.png" group-title="China",Shanghai Dragon TV
+#EXTINF:-1 tvg-id="Dragon TV" tvg-url="https://s.id/KITKATTV" tvg-logo="https://seeklogo.com/images/D/dragon-television-logo-6942D37A27-seeklogo.com.png" group-title="China",Shanghai Dragon TV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch220%29/index.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
