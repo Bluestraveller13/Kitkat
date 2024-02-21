@@ -1759,3 +1759,14 @@ https://stream.asianastream.com/madani/madanitv.smil/chunklist_w173613236_b28000
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1  tvg-id="" tvg-url="" tvg-logo="https://www.surautv.id/wp-content/uploads/2024/01/logosurautvvalid.png" group-title="Moslem Channels",Surau TV
 https://ams.juraganstreaming.com:5443/LiveApp/streams/surautv.m3u8
+
+
+
+
+<================================== TEST ==================================>
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://multidrm.core.verimatrixcloud.net/widevine?Authorization=eyJraWQiOiJjMTgxOTkzYy1mODUyLTQ0MmQtOTY1Yi1hMmI3MzU4ZGI5NjkiLCJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJ2ZXIiOjEsImlzcyI6InZpc2lvbnBsdXMiLCJzdWIiOiIwMDAwMDAwMDAwMDAwMDAwMDAwMiIsImlhdCI6MTcwODUxMDA5NSwiZXhwIjoxNzA4NTEwNjk1LCJqdGkiOiJjZjczZThmNC0xMDMwLTQxNzAtOWNlYS1hZmIxOTFkZjdjODciLCJhdWQiOiJ1cm46dmVyaW1hdHJpeDptdWx0aWRybSIsInBvbGljeSI6eyJ3aWRldmluZSI6eyJsaWNlbnNlX2R1cmF0aW9uX3NlY29uZHMiOjE0NDAwLCJjYW5fcGxheSI6dHJ1ZSwiY2FuX3JlbmV3Ijp0cnVlLCJjYW5fcGVyc2lzdCI6ZmFsc2V9fX0.qPfjt6nB6OcLwTbJnORtwPyrhp6IOLzWXhJYeAnwPXn2C1zlESJd05jeKizvTdcpVRlHQyQ-l4tPzVANZULu3w
+#EXTINF:-1 tvg-id="MNCTV HD - [Channel 432].id" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_82.png" group-title="Trial",MNC TV
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
