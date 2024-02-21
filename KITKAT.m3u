@@ -60,28 +60,28 @@ http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1757338&exte
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-id="RCTI - [Channel 80].id" tvg-url="https://s.id/KITKATTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png" group-title="Indonesia Channels",RCTI HD
+#EXTINF:-1 tvg-id="RCTI" tvg-url="https://s.id/KITKATTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png" group-title="Indonesia Channels",RCTI HD
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-id="MNCTV HD - [Channel 432].id" tvg-url="https://s.id/KITKATTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_82.png" group-title="Indonesia Channels",MNC TV
+#EXTINF:-1 tvg-id="MNC" tvg-url="https://s.id/KITKATTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_82.png" group-title="Indonesia Channels",MNC TV
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-id="GTV HD - [Channel 431].id" tvg-url="https://s.id/KITKATTV" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/GTV.png" group-title="Indonesia Channels",GTV
+#EXTINF:-1 tvg-id="GTV" tvg-url="https://s.id/KITKATTV" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/GTV.png" group-title="Indonesia Channels",GTV
 https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd
 
-#EXTINF:-1 tvg-id="Trans TV - [Channel 87].id" tvg-url="https://s.id/KITKATTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_87.png" group-title="Indonesia Channels",TransTV HD
+#EXTINF:-1 tvg-id="TransTV" tvg-url="https://s.id/KITKATTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_87.png" group-title="Indonesia Channels",TransTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 http://103.113.116.150:25461/mtm1/12345/2
 
-#EXTINF:-1 tvg-id="Trans 7 - [Channel 110].id" tvg-url="https://s.id/KITKATTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_110.png" group-title="Indonesia Channels",Trans7 HD
+#EXTINF:-1 tvg-id="Trans7" tvg-url="https://s.id/KITKATTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_110.png" group-title="Indonesia Channels",Trans7 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 http://103.113.116.150:25461/mtm1/12345/1
 
@@ -93,19 +93,19 @@ http://op-group1-swiftservesd-1.dens.tv/s/s41/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 http://103.113.116.150:25461/mtm1/12345/15
 
-#EXTINF:-1 tvg-id="SCTV - [Channel 89].id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" group-title="Indonesia Channels" tvg-url="https://s.id/KITKATTV",SCTV 
+#EXTINF:-1 tvg-id="SCTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" group-title="Indonesia Channels" tvg-url="https://s.id/KITKATTV",SCTV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
-#EXTINF:-1 tvg-id="SCTV - [Channel 89].id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" group-title="Indonesia Channels" tvg-url="https://s.id/KITKATTV",SCTV 
+#EXTINF:-1 tvg-id="SCTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" group-title="Indonesia Channels" tvg-url="https://s.id/KITKATTV",SCTV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 http://103.113.116.150:25461/mtm1/12345/4
 
-#EXTINF:-1 tvg-id="Indosiar - [Channel 78].id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/Indosiar.png" group-title="Indonesia Channels" tvg-url="https://s.id/KITKATTV",Indosiar HD 
+#EXTINF:-1 tvg-id="Indosiar" tvg-logo="https://www.mncvision.id/userfiles/image/channel/Indosiar.png" group-title="Indonesia Channels" tvg-url="https://s.id/KITKATTV",Indosiar HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 
-#EXTINF:-1 tvg-id="Indosiar - [Channel 78].id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/Indosiar.png" group-title="Indonesia Channels" tvg-url="https://s.id/KITKATTV",Indosiar HD 
+#EXTINF:-1 tvg-id="Indosiar" tvg-logo="https://www.mncvision.id/userfiles/image/channel/Indosiar.png" group-title="Indonesia Channels" tvg-url="https://s.id/KITKATTV",Indosiar HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 http://103.113.116.150:25461/mtm1/12345/3
 
@@ -113,20 +113,20 @@ http://103.113.116.150:25461/mtm1/12345/3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-id="NET TV - [Channel 116].id" group-title="Indonesia Channels" tvg-url="https://s.id/KITKATTV" tvg-logo="https://static.mncnow.id/images/channel/b32939e5/00e6_r32.jpg",NET TV HD
+#EXTINF:-1 tvg-id="Net." group-title="Indonesia Channels" tvg-url="https://s.id/KITKATTV" tvg-logo="https://static.mncnow.id/images/channel/b32939e5/00e6_r32.jpg",NET.
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/3aefa03d32954b678e5faab6daa04b58/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
-#EXTINF:-1 tvg-id="NET TV - [Channel 116].id" group-title="Indonesia Channels" tvg-url="https://s.id/KITKATTV" tvg-logo="https://static.mncnow.id/images/channel/b32939e5/00e6_r32.jpg",NET TV HD
+#EXTINF:-1 tvg-id="Net." group-title="Indonesia Channels" tvg-url="https://s.id/KITKATTV" tvg-logo="https://static.mncnow.id/images/channel/b32939e5/00e6_r32.jpg",NET.
 https://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8?app_type=web&userid=lite&chname=NET
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-id="ANTV - [Channel 115].id" tvg-url="https://s.id/KITKATTV" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/ANTV.png" group-title="Indonesia Channels",ANTV
+#EXTINF:-1 tvg-id="ANTV" tvg-url="https://s.id/KITKATTV" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/ANTV.png" group-title="Indonesia Channels",ANTV
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -147,21 +147,21 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/b0eebcecfb12424cb5f3c3cdb239f3c1/ind
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-id="Kompas TV - [Channel 106].id" tvg-url="https://s.id/KITKATTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_106.png" group-title="Indonesia Channels",Kompas TV HD
+#EXTINF:-1 tvg-id="Kompas TV" tvg-url="https://s.id/KITKATTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_106.png" group-title="Indonesia Channels",Kompas TV HD
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/dafcaf8b26064ae7b27702088240b535/index.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-id="Metro TV - [Channel 107].id" group-title="Indonesia Channels" tvg-url="https://s.id/KITKATTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/metro_tv.png",Metro TV
+#EXTINF:-1 tvg-id="Metro TV" group-title="Indonesia Channels" tvg-url="https://s.id/KITKATTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/metro_tv.png",Metro TV
 https://d2tjypxxy769fn.cloudfront.net/out/v1/fd4360b1c12c4375848c8f085fd51d41/index.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-id="tvOne - [Channel 97].id" group-title="Indonesia Channels" tvg-url="https://s.id/KITKATTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/tvone.png",TVOne
+#EXTINF:-1 tvg-id="TV One" group-title="Indonesia Channels" tvg-url="https://s.id/KITKATTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/tvone.png",TVOne
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f3df48faafaf4198a65b9763140fce30/index.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -171,11 +171,11 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f3df48faafaf4198a65b9763140fce30/in
 #EXTINF:-1 tvg-id="SEA Today" tvg-url="https://s.id/KITKATTV"tvg-logo="https://static.mncnow.id/images/channel/7bdd87fc/0cb7_r32.jpg" group-title="Indonesia Channels",SEA Today 
 https://d2tjypxxy769fn.cloudfront.net/out/v1/9cebfb76975f470d8d3dff0b3d27bdd9/index.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" tvg-url="https://s.id/KITKATTV" group-title="Indonesia Channels",CNBC Indonesia
+#EXTINF:-1 tvg-id="CNBC Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" tvg-url="https://s.id/KITKATTV" group-title="Indonesia Channels",CNBC Indonesia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1230509683_b384000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Logo_of_CNN_Indonesia.svg/1200px-Logo_of_CNN_Indonesia.svg.png" group-title="Indonesia Channels",CNN Indonesia
+#EXTINF:-1 tvg-id="CNN Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Logo_of_CNN_Indonesia.svg/1200px-Logo_of_CNN_Indonesia.svg.png" group-title="Indonesia Channels",CNN Indonesia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w733133162_b384000_sleng.m3u8
 
@@ -186,21 +186,21 @@ https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 group-title="Indonesia Channels" tvg-id="Sindo News TV HD - [Channel 434].id" tvg-url="https://s.id/KITKATTV" tvg-logo="https://static.mncnow.id/images/channel/1f476919/6c87_r32.jpg",SindoNews
+#EXTINF:-1 group-title="Indonesia Channels" tvg-id="MNC News" tvg-url="https://s.id/KITKATTV" tvg-logo="https://static.mncnow.id/images/channel/1f476919/6c87_r32.jpg",SindoNews
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 group-title="Indonesia Channels" tvg-id="iNews HD - [Channel 433].id" tvg-url="https://s.id/KITKATTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_83.png",iNews
+#EXTINF:-1 group-title="Indonesia Channels" tvg-id="iNews" tvg-url="https://s.id/KITKATTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_83.png",iNews
 https://d2tjypxxy769fn.cloudfront.net/out/v1/7b0404cd6a8a4a908123f10774854e46/index.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-id="Berita Satu - [Channel 103].id" group-title="Indonesia Channels" tvg-url="https://s.id/KITKATTV" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/BTV.png",BTV
+#EXTINF:-1 tvg-id="BTV" group-title="Indonesia Channels" tvg-url="https://s.id/KITKATTV" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/BTV.png",BTV
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/3112ca4fbc2642e79ecaf9b2b0999e07/index.mpd
 
 #EXTINF:-1 group-title="Indonesia Channels" tvg-id="IDX HD - [Channel 436].id" tvg-url="https://s.id/KITKATTV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/b7/IDTV.png",Investor Daily TV
@@ -211,7 +211,7 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch19%29/index.
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-id="TVRI - [Channel 118].id" tvg-url="https://s.id/KITKATTV" tvg-logo="https://static.mncnow.id/images/channel/c57573a6/f784_r32.jpg" group-title="Indonesia Channels",TVRI Nasional
+#EXTINF:-1 tvg-id="TVRI" tvg-url="https://s.id/KITKATTV" tvg-logo="https://static.mncnow.id/images/channel/c57573a6/f784_r32.jpg" group-title="Indonesia Channels",TVRI Nasional
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/85f6d3da0e064dbe99e7bf1e18bc47c4/index.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/MagnaChannel.png" group-title="Indonesia Channels", Magna Channel
@@ -263,54 +263,54 @@ http://uhd3.one:80/play/live.php?mac=00:1A:79:19:06:50&stream=282639&extension=t
 #http://xtv.ooo:8080/Ijaaz123/aijaz321/66213
 
 <======================== Premium Movies ==========================>
-#EXTINF:-1 group-title="Premium Movies" tvg-id="PARAMOUNT HD - [Channel 441].id" tvg-url="https://s.id/KITKATTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Paramount_Network_%28Blue%29_Logo.png",Paramount Network
+#EXTINF:-1 group-title="Premium Movies" tvg-id="Paramount" tvg-url="https://s.id/KITKATTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Paramount_Network_%28Blue%29_Logo.png",Paramount Network
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch309%29/index.m3u8
 
-#EXTINF:-1 tvg-id="Hits HD" tvg-url="https://s.id/KITKATTV" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/Hits.png" group-title="Premium Movies",Hits
+#EXTINF:-1 tvg-id="Hits" tvg-url="https://s.id/KITKATTV" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/Hits.png" group-title="Premium Movies",Hits
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch326%29/index.m3u8
 
-#EXTINF:-1 tvg-id="HITS MOVIES HD" tvg-url="https://s.id/KITKATTV" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/Hits%20Movies.png" group-title="Premium Movies",HitsMovies
+#EXTINF:-1 tvg-id="HIts Movie" tvg-url="https://s.id/KITKATTV" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/Hits%20Movies.png" group-title="Premium Movies",HitsMovies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch324%29/index.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-id="Rock Action - [Channel 248].id" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://static.mncnow.id/images/channel/b104eede/2fe8_r32.jpg" group-title="Premium Movies",Rock Action
+#EXTINF:-1 tvg-id="Rock Action" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://static.mncnow.id/images/channel/b104eede/2fe8_r32.jpg" group-title="Premium Movies",Rock Action
 https://nyanv-live-cdn.mncnow.id/live/eds/Rockaction/sa_dash_vmx/Rockaction.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 group-title="Premium Movies" tvg-id="Galaxy Premium - [Channel 12].id" tvg-url="https://s.id/KITKATTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_12.png",Galaxy Premium
+#EXTINF:-1 group-title="Premium Movies" tvg-id="Galaxy Premium" tvg-url="https://s.id/KITKATTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_12.png",Galaxy Premium
 https://nyanv-live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 group-title="Premium Movies" tvg-id="Galaxy - [Channel 13].id" tvg-url="https://s.id/KITKATTV" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/Galaxy%20Premium.png",Galaxy
+#EXTINF:-1 group-title="Premium Movies" tvg-id="Galaxy" tvg-url="https://s.id/KITKATTV" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/Galaxy%20Premium.png",Galaxy
 https://nyanv-live-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 group-title="Premium Movies" tvg-id= "KIX - [Channel 161].id" tvg-url="https://s.id/KITKATTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/KIX_LOGO_150x150.jpg",KIX
+#EXTINF:-1 group-title="Premium Movies" tvg-id= "Kix" tvg-url="https://s.id/KITKATTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/KIX_LOGO_150x150.jpg",KIX
 https://nyanv-live-cdn.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-id="Thrill - [Channel 19].id" tvg-url="https://s.id/KITKATTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/thrill_150x150px.jpg" group-title="Premium Movies",Thriil
+#EXTINF:-1 tvg-id="Thrill" tvg-url="https://s.id/KITKATTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/thrill_150x150px.jpg" group-title="Premium Movies",Thriil
 https://nyanv-live-cdn.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-#EXTINF:-1 tvg-id="Celestial Movies - [Channel 20].id" tvg-url="https://s.id/KITKATTV" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/Celestial%20Movies.png" group-title="Premium Movies",Celestial Movies
+#EXTINF:-1 tvg-id="Celestial Movie" tvg-url="https://s.id/KITKATTV" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/Celestial%20Movies.png" group-title="Premium Movies",Celestial Movies
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch204%29/index.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -324,7 +324,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/Celestial
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 group-title="Premium Movies" tvg-id= "CinemaWorld HD" tvg-url="https://s.id/KITKATTV" tvg-logo="https://yt3.googleusercontent.com/kLDF64sdHJiS3n7t59yPqtNTsp3xjx4FhnTXg5RDubB2Ps7Pxc-mZpV8YezhdsJl7xB6r4Kpqg=s900-c-k-c0x00ffffff-no-rj",Cinema World HD
+#EXTINF:-1 group-title="Premium Movies" tvg-id="Cinema World" tvg-url="https://s.id/KITKATTV" tvg-logo="https://yt3.googleusercontent.com/kLDF64sdHJiS3n7t59yPqtNTsp3xjx4FhnTXg5RDubB2Ps7Pxc-mZpV8YezhdsJl7xB6r4Kpqg=s900-c-k-c0x00ffffff-no-rj",Cinema World HD
 https://nyanv-live-cdn.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Premium Movies" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" tvg-logo="https://ws.kapallayar.cc//image//Logo//ENT//New//E_SonyPix.png",SONY PIX
@@ -338,15 +338,15 @@ https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3400%29/index.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-#EXTINF:-1 tvg-id="My Cinema - [Channel 16].id" tvg-url="https://s.id/KITKATTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_16.jpg" group-title="Premium Movies",MyCinema
+#EXTINF:-1 tvg-id="My Cinema" tvg-url="https://s.id/KITKATTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_16.jpg" group-title="Premium Movies",MyCinema
 http://210.210.155.37/uq2663/h/h192/index.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-#EXTINF:-1 tvg-id="My Cinema Asia - [Channel 17].id" tvg-url="https://s.id/KITKATTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_17.jpg" group-title="Premium Movies",MyCinema Asia
+#EXTINF:-1 tvg-id="My Cinema Asia" tvg-url="https://s.id/KITKATTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_17.jpg" group-title="Premium Movies",MyCinema Asia
 http://210.210.155.37/uq2663/h/h193/index.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-#EXTINF:-1 tvg-id="My Family - [Channel 15].id" tvg-url="https://s.id/KITKATTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_15.jpg" group-title="Premium Movies",My Family
+#EXTINF:-1 tvg-id="My Family" tvg-url="https://s.id/KITKATTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_15.jpg" group-title="Premium Movies",My Family
 http://210.210.155.37/uq2663/h/h194/index.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -384,7 +384,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Max-HD/sa_dash_vmx/Cinemachi
 #EXTINF:-1 tvg-id="CINEMACHI XTRA HD - [Channel 405].id" tvg-url="https://s.id/KITKATTV" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/Cinemachi%20Xtra.png" group-title="Premium Movies",Cinemachi Xtra HD
 https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemachi-Xtra-HD.mpd
 
-#EXTINF:-1 tvg-id="IMC - [Channel 14].id" tvg-url="https://s.id/KITKATTV" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/IMC.png" group-title="Premium Movies",Indonesia Movie Channel
+#EXTINF:-1 tvg-id="IMC" tvg-url="https://s.id/KITKATTV" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/IMC.png" group-title="Premium Movies",Indonesia Movie Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 http://103.113.116.150:25461/mtm1/12345/21
 
@@ -392,7 +392,7 @@ http://103.113.116.150:25461/mtm1/12345/21
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 http://103.113.116.150:25461/mtm1/12345/22
 
-#EXTINF:-1 tvg-id="" tvg-url="https://s.id/KITKATTV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a7/Bioskop_Indonesia_TV.png" group-title="Premium Movies",Bioskop Indonesia
+#EXTINF:-1 tvg-id="Bioskop Indonesia" tvg-url="https://s.id/KITKATTV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a7/Bioskop_Indonesia_TV.png" group-title="Premium Movies",Bioskop Indonesia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 http://103.113.116.150:25461/mtm1/12345/23
 
@@ -407,7 +407,7 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch376%29/index
 #EXTINF:-1 tvg-id="FMN - [Channel 150].id" tvg-url="https://s.id/KITKATTV" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/FMN.png" group-title="Premium Movies",FMN (Telenovela)
 https://nyanv-live-cdn.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
 
-#EXTINF:-1 group-title="Premium Movies" tvg-id="Zee Bioskop - [Channel 23].id" tvg-url="https://s.id/KITKATTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_23.png",Zee Bioskop
+#EXTINF:-1 group-title="Premium Movies" tvg-id="ZBioskop" tvg-url="https://s.id/KITKATTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_23.png",Zee Bioskop
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch161%29/index.m3u8
 
@@ -440,10 +440,10 @@ http://iptvtree.net:8080/F14995/a84c0963/298529
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-id="tvN HD - [Channel 446].id" tvg-url="https://s.id/KITKATTV" tvg-logo="https://static.mncnow.id/images/channel/8226bb83/185e_r32.jpg" group-title="Korean Channels",TVN
+#EXTINF:-1 tvg-id="TVN" tvg-url="https://s.id/KITKATTV" tvg-logo="https://static.mncnow.id/images/channel/8226bb83/185e_r32.jpg" group-title="Korean Channels",TVN
 https://nyanv-live-cdn.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
 
-#EXTINF:-1 tvg-id="tvN Movies HD - [Channel 415].id" tvg-url="https://s.id/KITKATTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_25.png" group-title="Korean Channels",TvN movies HD
+#EXTINF:-1 tvg-id="TVN Movies" tvg-url="https://s.id/KITKATTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_25.png" group-title="Korean Channels",TvN movies HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch343%29/index.m3u8
 
@@ -451,11 +451,11 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch343%29/index
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch338%29/index.m3u8
 
-#EXTINF:-1 tvg-id= "KPlus.sg" tvg-url="https://s.id/KITKATTV" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1557989718_k-plus.png" group-title="Korean Channels",K+
+#EXTINF:-1 tvg-id= "Kplus" tvg-url="https://s.id/KITKATTV" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1557989718_k-plus.png" group-title="Korean Channels",K+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 http://210.210.155.35/uq2663/h/h08/index.m3u8
 
-#EXTINF:-1 tvg-id="KBS World HD" tvg-url="https://s.id/KITKATTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/KBS_World.svg/2560px-KBS_World.svg.png" group-title="Korean Channels",KBS WORLD
+#EXTINF:-1 tvg-id="KBS World" tvg-url="https://s.id/KITKATTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/KBS_World.svg/2560px-KBS_World.svg.png" group-title="Korean Channels",KBS WORLD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch262%29/index.m3u8
 
@@ -483,7 +483,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChanne
 #EXTINF:-1 tvg-id="Nat Geo Wild HD - [Channel 463].id" tvg-url="https://s.id/KITKATTV" tvg-logo="https://lovenature.com/wp-content/uploads/2020/08/love-nature-logo_peacock.png" group-title="Knowledge & Documentary",Love Nature
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch368%29/index.m3u8
 
-#EXTINF:-1 tvg-url="https://s.id/KITKATTV" tvg-id="DiscoveryChannelIndonesia.id" tvg-logo="https://w7.pngwing.com/pngs/482/735/png-transparent-discovery-channel-television-channel-logo-television-show-others-television-globe-logo.png" group-title="Knowledge & Documentary",Discovery Channel 
+#EXTINF:-1 tvg-url="https://s.id/KITKATTV" tvg-id="Discovery Channel" tvg-logo="https://w7.pngwing.com/pngs/482/735/png-transparent-discovery-channel-television-channel-logo-television-show-others-television-globe-logo.png" group-title="Knowledge & Documentary",Discovery Channel 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch29%29/index.m3u8
 
@@ -510,7 +510,7 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch366%29/index
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch347%29/index.m3u8
 
-#EXTINF:-1 group-title="Knowledge & Documentary" tvg-id="Crime Investigation - [Channel 207].id" tvg-url="https://s.id/KITKATTV" tvg-logo="https://static.mncnow.id/images/channel/4b3d8210/eb4c_r32.jpg",Crime Investigation
+#EXTINF:-1 group-title="Knowledge & Documentary" tvg-id="Crime Investigation" tvg-url="https://s.id/KITKATTV" tvg-logo="https://static.mncnow.id/images/channel/4b3d8210/eb4c_r32.jpg",Crime Investigation
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch349%29/index.m3u8
 
@@ -526,7 +526,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/curiosity/manifest.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/trvlchannel.m3u8
 
-#EXTINF:-1 group-title="Knowledge & Documentary" tvg-id="CGTN Documentary - [Channel 205].id" tvg-url="https://s.id/KITKATTV" tvg-logo="https://static.mncnow.id/images/channel/bce8fc0f/7f20_r32.jpg",CGTN Documentary
+#EXTINF:-1 group-title="Knowledge & Documentary" tvg-id="CGTN Documentary" tvg-url="https://s.id/KITKATTV" tvg-logo="https://static.mncnow.id/images/channel/bce8fc0f/7f20_r32.jpg",CGTN Documentary
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch405%29/index.m3u8
 
@@ -534,25 +534,25 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch405%29/index
 
 <=================== Entertainment & Lifestyle =============================>
 
-#EXTINF:-1 tvg-id="AXN HD - [Channel 438].id" tvg-url="https://s.id/KITKATTV" tvg-logo="https://static.mncnow.id/images/channel/9c1a8446/733c_r32.jpg" group-title="Entertainment & LifeStyle",AXN
+#EXTINF:-1 tvg-id="AXN" tvg-url="https://s.id/KITKATTV" tvg-logo="https://static.mncnow.id/images/channel/9c1a8446/733c_r32.jpg" group-title="Entertainment & LifeStyle",AXN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch332%29/index.m3u8
 
-#EXTINF:-1 group-title="Entertainment & LifeStyle" tvg-id="hitsnow.sg" tvg-logo="https://www.hitstv.com/assets/hits-now-logo-white.png",HITS NOW
+#EXTINF:-1 group-title="Entertainment & LifeStyle" tvg-id="HITS Now" tvg-logo="https://www.hitstv.com/assets/hits-now-logo-white.png",HITS NOW
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 https://cdn08jtedge.indihometv.com/dassdvr/134/hitsnow/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-id="Rock Entertainment - [Channel 240].id" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://static.mncnow.id/images/channel/72287d1c/3aef_r32.jpg" group-title="Entertainment & LifeStyle",Rock Entertainment
+#EXTINF:-1 tvg-id="Rock Entertainment" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://static.mncnow.id/images/channel/72287d1c/3aef_r32.jpg" group-title="Entertainment & LifeStyle",Rock Entertainment
 https://nyanv-live-cdn.mncnow.id/live/eds/Rockentertainment/sa_dash_vmx/Rockentertainment.mpd
 
-#EXTINF:-1 tvg-id="HGTVAsia.us" tvg-url="https://s.id/KITKATTV" tvg-logo="https://mncvision.id/userfiles/image/channel/HGTV_150x150px-01.png" group-title="Entertainment & LifeStyle",HGTV 
+#EXTINF:-1 tvg-id="HGTV" tvg-url="https://s.id/KITKATTV" tvg-logo="https://mncvision.id/userfiles/image/channel/HGTV_150x150px-01.png" group-title="Entertainment & LifeStyle",HGTV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch354%29/index.m3u8
 
-#EXTINF:-1 tvg-id="AsianFoodNetwork.sg" tvg-url="https://s.id/KITKATTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/640px-Asian_Food_Network.svg.png" group-title="Entertainment & LifeStyle",Asian Food Network
+#EXTINF:-1 tvg-id="Asian Food Network" tvg-url="https://s.id/KITKATTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/640px-Asian_Food_Network.svg.png" group-title="Entertainment & LifeStyle",Asian Food Network
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch76%29/index.m3u8
 
@@ -560,7 +560,7 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch76%29/index.
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch355%29/index.m3u8
 
-#EXTINF:-1 tvg-id="TLCSoutheastAsia.sg" tvg-url="https://s.id/KITKATTV" tvg-logo="https://1000logos.net/wp-content/uploads/2020/08/TLC-Logo.png" group-title="Entertainment & LifeStyle",TLC
+#EXTINF:-1 tvg-id="TLC" tvg-url="https://s.id/KITKATTV" tvg-logo="https://1000logos.net/wp-content/uploads/2020/08/TLC-Logo.png" group-title="Entertainment & LifeStyle",TLC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch35%29/index.m3u8
 
@@ -568,7 +568,7 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch35%29/index.
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 http://103.113.116.150:25461/mtm1/12345/24
 
-#EXTINF:-1 tvg-id="Lifetime - [Channel 167].id" tvg-url="https://s.id/KITKATTV" tvg-logo="https://static.mncnow.id/images/channel/ff9ab40f/566e_r32.jpg" group-title="Entertainment & LifeStyle",Lifetime
+#EXTINF:-1 tvg-id="Lifetime" tvg-url="https://s.id/KITKATTV" tvg-logo="https://static.mncnow.id/images/channel/ff9ab40f/566e_r32.jpg" group-title="Entertainment & LifeStyle",Lifetime
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch155%29/index.m3u8
 
@@ -590,7 +590,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mp
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch379%29/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="https://s.id/KITKATTV" tvg-logo="https://indihome.co.id/subsystem/cms-ih/assets/uploads/channel_list/UPLOAD-1586672831-.png" group-title="Entertainment & LifeStyle",Citra Dangdut
+#EXTINF:-1 tvg-id="Citra Dangdut" tvg-url="https://s.id/KITKATTV" tvg-logo="https://indihome.co.id/subsystem/cms-ih/assets/uploads/channel_list/UPLOAD-1586672831-.png" group-title="Entertainment & LifeStyle",Citra Dangdut
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch377%29/index.m3u8
 
@@ -619,15 +619,15 @@ https://nyanv-live-cdn.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 #EXTINF:-1 tvg-id="Okezone TV - [Channel 90].id" tvg-url="https://s.id/KITKATTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/Okezone_%282007%29.png" group-title="Entertainment & LifeStyle",OkZoneTV
 https://nyanv-live-cdn.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyleFashion.mpd
 
-#EXTINF:-1 tvg-id="TV5MONDE HD" tvg-url="https://s.id/KITKATTV" tvg-logo="https://static.mncnow.id/images/channel/93861924/4ebd_r32.jpg" group-title="Entertainment & LifeStyle",TV5 Monde
+#EXTINF:-1 tvg-id="TV5Monde" tvg-url="https://s.id/KITKATTV" tvg-logo="https://static.mncnow.id/images/channel/93861924/4ebd_r32.jpg" group-title="Entertainment & LifeStyle",TV5 Monde
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch260%29/index.m3u8
 
-#EXTINF:-1 group-title="Entertainment & LifeStyle" tvg-id="Arirang - [Channel 351].id" tvg-url="https://s.id/KITKATTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_351.png",Arirang
+#EXTINF:-1 group-title="Entertainment & LifeStyle" tvg-id="Arirang" tvg-url="https://s.id/KITKATTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_351.png",Arirang
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch253%29/index.m3u8
 
-#EXTINF:-1 group-title="Entertainment & LifeStyle" tvg-id="FashionTV HD" tvg-url="https://s.id/KITKATTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1280px-Fashion_TV_logo.svg.png",Fashion TV
+#EXTINF:-1 group-title="Entertainment & LifeStyle" tvg-id="FashionTV" tvg-url="https://s.id/KITKATTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1280px-Fashion_TV_logo.svg.png",Fashion TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch168%29/index.m3u8
 
@@ -653,12 +653,12 @@ https://c.mjh.nz/abc-me.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch103%29/index.m3u8
 
-#EXTINF:-1 tvg-id="Boomerang HD" tvg-url="https://s.id/KITKATTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/2560px-Cartoonito_-_Logo_2021.svg.png" group-title="Kids",Cartoonito
+#EXTINF:-1 tvg-id="Boomerang" tvg-url="https://s.id/KITKATTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/2560px-Cartoonito_-_Logo_2021.svg.png" group-title="Kids",Cartoonito
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch372%29/index.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-#EXTINF:-1 tvg-id="My Kidz - [Channel 50].id" tvg-url="https://s.id/KITKATTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_50.jpg" group-title="Kids",MyKids
+#EXTINF:-1 tvg-id="MyKidz" tvg-url="https://s.id/KITKATTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_50.jpg" group-title="Kids",MyKids
 http://210.210.155.37/uq2663/h/h191/index.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -672,7 +672,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Zoomoo/sa_dash_vmx/Zoomoo.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch375%29/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="https://s.id/KITKATTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png" group-title="Kids",Mentari TV
+#EXTINF:-1 tvg-id="Mentari TV" tvg-url="https://s.id/KITKATTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png" group-title="Kids",Mentari TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 http://103.113.116.150:25461/mtm1/12345/25
 
@@ -680,7 +680,7 @@ http://103.113.116.150:25461/mtm1/12345/25
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-id="Dreamworks - [Channel 47].id" tvg-url="https://s.id/KITKATTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_47.png" group-title="Kids",Dreamworks HD
+#EXTINF:-1 tvg-id="Dreamworks" tvg-url="https://s.id/KITKATTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_47.png" group-title="Kids",Dreamworks HD
 https://nyanv-live-cdn.mncnow.id/live/eds/Dreamwork-HD/sa_dash_vmx/Dreamwork-HD.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -690,11 +690,11 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Dreamwork-HD/sa_dash_vmx/Dreamwork-HD.
 #EXTINF:-1 tvg-id="Kids TV - [Channel 46].id" tvg-url="https://s.id/KITKATTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_46.png" group-title="Kids",Kids TV
 https://nyanv-live-cdn.mncnow.id/live/eds/Kids-HD/sa_dash_vmx/Kids-HD.mpd
 
-#EXTINF:-1 tvg-id="Nickelodeon - [Channel 49].id" tvg-url="https://s.id/KITKATTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/nickelodeon.png" group-title="Kids",Nickelodeon
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-url="https://s.id/KITKATTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/nickelodeon.png" group-title="Kids",Nickelodeon
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch105%29/index.m3u8
 
-#EXTINF:-1 tvg-id="Nick Jr. HD - [Channel 472].id" tvg-url="https://s.id/KITKATTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/nickjr.jpg" group-title="Kids",Nickelodeon Junior
+#EXTINF:-1 tvg-id="Nick Junior" tvg-url="https://s.id/KITKATTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/nickjr.jpg" group-title="Kids",Nickelodeon Junior
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch124%29/index.m3u8
 
@@ -707,7 +707,7 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch124%29/index
 #EXTINF:-1 tvg-id="CBeebies - [Channel 41].id" tvg-url="https://s.id/KITKATTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/cbeebies_150.png" group-title="Kids",Cbeebies
 https://nyanv-live-cdn.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
 
-#EXTINF:-1 tvg-id="Animax - [Channel 157].id" tvg-url="https://s.id/KITKATTV" tvg-logo="https://static.mncnow.id/images/channel/7f3aed08/01ac_r32.jpg" group-title="Kids",Animax
+#EXTINF:-1 tvg-id="Animax" tvg-url="https://s.id/KITKATTV" tvg-logo="https://static.mncnow.id/images/channel/7f3aed08/01ac_r32.jpg" group-title="Kids",Animax
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 #http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch52)/index.m3u8
 
@@ -724,7 +724,7 @@ http://103.113.116.150:25461/mtm1/12345/26
 #EXTINF:-1 tvg-id="Music TV - [Channel 111].id" tvg-url="https://s.id/KITKATTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_111.png" group-title="Music",Music TV
 https://nyanv-live-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
 
-#EXTINF:-1 tvg-id="MTV LIVE - [Channel 148].id" tvg-url="https://s.id/KITKATTV" tvg-logo="https://static.mncnow.id/images/channel/681901f0/400d_r32.jpg" group-title="Music",MTV Live HD
+#EXTINF:-1 tvg-id="MTV Live" tvg-url="https://s.id/KITKATTV" tvg-logo="https://static.mncnow.id/images/channel/681901f0/400d_r32.jpg" group-title="Music",MTV Live HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch242%29/index.m3u8
 
@@ -793,7 +793,7 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3300%29/inde
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-id="Fight Sports - [Channel 304].id" tvg-url="https://s.id/KITKATTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/150x150fightsport.jpg" group-title="Sports",Fight Sports
+#EXTINF:-1 tvg-id="Fight Sport" tvg-url="https://s.id/KITKATTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/150x150fightsport.jpg" group-title="Sports",Fight Sports
 https://nyanv-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 
 #EXTINF:-1 tvg-id="" tvg-url="https://s.id/KITKATTV" tvg-logo="https://static.wixstatic.com/media/607f0e_a262ae68111345b19517bd9e353dbb4f~mv2.png/v1/fit/w_2500,h_1330,al_c/607f0e_a262ae68111345b19517bd9e353dbb4f~mv2.png" group-title="Sports",Fight TV
@@ -1069,23 +1069,23 @@ https://ssc-extra3-ak.akamaized.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/inde
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist_1080.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/51-517961_cnn-logo-with-earth-png-cnn-international.png" group-title="News",CNN International
+#EXTINF:-1 tvg-id="CNN International" tvg-logo="https://www.seekpng.com/png/detail/51-517961_cnn-logo-with-earth-png-cnn-international.png" group-title="News",CNN International
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch236%29/index.m3u8
 
-#EXTINF:-1 group-title="News" tvg-id="ABC Australia - [Channel 350].id" tvg-url="https://s.id/KITKATTV" tvg-logo="https://i.imgur.com/kHM0jUd.png" ,ABC Australia
+#EXTINF:-1 group-title="News" tvg-id="ABC Australia" tvg-url="https://s.id/KITKATTV" tvg-logo="https://i.imgur.com/kHM0jUd.png" ,ABC Australia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch251%29/index.m3u8
 
-#EXTINF:-1 group-title="News" tvg-id="Al Jazeera English - [Channel 331].id" tvg-url="https://s.id/KITKATTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/aljazeera.png",Al Jazeera
+#EXTINF:-1 group-title="News" tvg-id="Aljazeera" tvg-url="https://s.id/KITKATTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/aljazeera.png",Al Jazeera
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 http://103.113.116.150:25461/mtm1/12345/35
 
-#EXTINF:-1 group-title="News" tvg-id="IDX HD - [Channel 436].id" tvg-url="https://www.mncvision.id/userfiles/image/channel/iBcm_IDX.jpg",IDX
+#EXTINF:-1 group-title="News" tvg-id="IDX" tvg-url="https://www.mncvision.id/userfiles/image/channel/iBcm_IDX.jpg",IDX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 http://103.113.116.150:25461/mtm1/12345/43
 
-#EXTINF:-1 group-title="News" tvg-id="IDX HD - [Channel 436].id" tvg-url="https://www.mncvision.id/userfiles/image/channel/iBcm_IDX.jpg",IDX
+#EXTINF:-1 group-title="News" tvg-id="IDX" tvg-url="https://www.mncvision.id/userfiles/image/channel/iBcm_IDX.jpg",IDX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 #http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch389%29/index.m3u8
 
@@ -1101,15 +1101,11 @@ https://edge.medcom.id/live-edge/smil:mgnch.smil/chunklist_w139395680_b2692000_s
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch273%29/index.m3u8
 
-#EXTINF:-1 tvg-name="Bloomberg" tvg-id="Bloomberg - [Channel 338].id" tvg-url="https://s.id/KITKATTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/bloomberg.png" group-title="News",Bloomberg
+#EXTINF:-1 tvg-name="Bloomberg" tvg-id="Bloomberg" tvg-url="https://s.id/KITKATTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/bloomberg.png" group-title="News",Bloomberg
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 http://103.113.116.150:25461/mtm1/12345/36
 
-#EXTINF:-1 tvg-id="NHK WORLD - JAPAN HD" tvg-name="" tvg-url="https://s.id/KITKATTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_355.jpeg" group-title="News",NHK World Japan
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch223%29/index.m3u8
-
-#EXTINF:-1 tvg-id="NHK World - [Channel 355].id" tvg-name="NHKWorldJapan.jp" tvg-url="https://s.id/KITKATTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_355.jpeg" group-title="News",NHK World Japan
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+#EXTINF:-1 tvg-id="nhk world Japan" tvg-name="" tvg-url="https://s.id/KITKATTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_355.jpeg" group-title="News",NHK World Japan
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch223%29/index.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -1130,14 +1126,14 @@ https://nyanv-live-cdn.mncnow.id/live/eds/FoxNews/sa_dash_vmx/FoxNews.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 group-title="News" tvg-id="DW English - [Channel 357].id" tvg-url="https://s.id/KITKATTV" tvg-logo="https://static.mncnow.id/images/channel/ec5ca17f/9a41_r32.jpg",DW
+#EXTINF:-1 group-title="News" tvg-id="DW (English)" tvg-url="https://s.id/KITKATTV" tvg-logo="https://static.mncnow.id/images/channel/ec5ca17f/9a41_r32.jpg",DW
 https://d2tjypxxy769fn.cloudfront.net/out/v1/3c64eec3b1594ec98aa758ed334fa6a0/index.mpd
 
-#EXTINF:-1 group-title="News" tvg-id="France 24 English - [Channel 352].id" tvg-url="https://s.id/KITKATTV" tvg-logo="https://static.mncnow.id/images/channel/feee5d98/3c51_r32.jpg",France 24
+#EXTINF:-1 group-title="News" tvg-id="France 24" tvg-url="https://s.id/KITKATTV" tvg-logo="https://static.mncnow.id/images/channel/feee5d98/3c51_r32.jpg",France 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch261%29/index.m3u8
 
-#EXTINF:-1 group-title="News" tvg-id="EURONEWS - [Channel 333].id" tvg-url="https://s.id/KITKATTV" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/TVLogo/main/euronews.png",Euronews
+#EXTINF:-1 group-title="News" tvg-id="Euronews" tvg-url="https://s.id/KITKATTV" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/TVLogo/main/euronews.png",Euronews
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch341%29/index.m3u8
 
@@ -1149,10 +1145,10 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch310%29/index
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 group-title="News" tvg-id="TRTWorld.tr" tvg-url="https://s.id/KITKATTV" tvg-logo="https://static.mncnow.id/images/channel/ab7f9e6a/4023_r32.jpg",TRT World
+#EXTINF:-1 group-title="News" tvg-id="TRT World" tvg-url="https://s.id/KITKATTV" tvg-logo="https://static.mncnow.id/images/channel/ab7f9e6a/4023_r32.jpg",TRT World
 https://nyanv-live-cdn.mncnow.id/live/eds/TRTWorld/sa_dash_vmx/TRTWorld.mpd
 
-#EXTINF:-1 group-title="News" tvg-id="CNBC - [Channel 337].id" tvg-url="https://s.id/KITKATTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/cnbc.png",CNBC Asia
+#EXTINF:-1 group-title="News" tvg-id="CNBC Asia" tvg-url="https://s.id/KITKATTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/cnbc.png",CNBC Asia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 http://103.113.116.150:25461/mtm1/12345/32
 
@@ -1547,7 +1543,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs08
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs10#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 &isp=10&bind=0&uin=159413&playseek=0
 
-#EXTINF:-1 group-title="Japan" tvg-id="HISTORY HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/history_us.png", History
+#EXTINF:-1 group-title="Japan" tvg-id="History" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/history_us.png", History
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs09&isp=10&bind=0&uin=159413&playseek=0
 
@@ -1758,17 +1754,17 @@ https://63b2dc7196c38.streamlock.net:1937/ch18/myStream/chunklist_w912292865.m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 group-title="Local Channels" tvg-id="BaliTV.id" tvg-url="https://s.id/KITKATTV" tvg-logo="https://static.mncnow.id/images/channel/cda6a457/7e41_r32.jpg",Bali TV
+#EXTINF:-1 group-title="Local Channels" tvg-id="Bali TV" tvg-url="https://s.id/KITKATTV" tvg-logo="https://static.mncnow.id/images/channel/cda6a457/7e41_r32.jpg",Bali TV
 https://d2tjypxxy769fn.cloudfront.net/out/v1/44a2d1ab71a740babb233cf14832c59d/index.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-id="JAKTV - [Channel 113].id" tvg-url="https://s.id/KITKATTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_113.jpg" group-title="Local Channels",JAK TV
+#EXTINF:-1 tvg-id="JakTV" tvg-url="https://s.id/KITKATTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_113.jpg" group-title="Local Channels",JAK TV
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/fea2c4b90ae2472d891389eb8b95571c/index.mpd
 
-#EXTINF:-1 group-title="Local Channels" "jtv.id" tvg-url="https://s.id/KITKATTV" tvg-logo="https://static.mncnow.id/images/channel/9e658daa/252e_r32.jpg",JTV
+#EXTINF:-1 group-title="Local Channels" "JTV" tvg-url="https://s.id/KITKATTV" tvg-logo="https://static.mncnow.id/images/channel/9e658daa/252e_r32.jpg",JTV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch17%29/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1896,21 +1892,21 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/099aba2d60b44679915cd56f303b975d/ind
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1  tvg-id="" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d0/TvMu.png" group-title="Moslem Channels",TV MU
+#EXTINF:-1  tvg-id="Muhammadiyah TV" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d0/TvMu.png" group-title="Moslem Channels",TV MU
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/980cfe26ff00479c97eb8057a1129c7f/index.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1  tvg-id="" tvg-url="" tvg-logo="https://cdn.timesmedia.co.id/images/2020/05/13/logo-tv9.png" group-title="Moslem Channels",TV9
+#EXTINF:-1  tvg-id="TV9 NU" tvg-url="" tvg-logo="https://cdn.timesmedia.co.id/images/2020/05/13/logo-tv9.png" group-title="Moslem Channels",TV9 NU
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9688c51b534d4165bf4b0b328e53b980/index.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1  tvg-id="" tvg-url="" tvg-logo="https://static.visionplus.id/images/channel/0a9f9dab/9715.png" group-title="Moslem Channels",Tawaf TV
+#EXTINF:-1  tvg-id="Tawaf TV" tvg-url="" tvg-logo="https://static.visionplus.id/images/channel/0a9f9dab/9715.png" group-title="Moslem Channels",Tawaf TV
 https://d2tjypxxy769fn.cloudfront.net/out/v1/319544fbde164be4b023d62fcd116d14/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
