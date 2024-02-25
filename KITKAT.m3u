@@ -1751,6 +1751,213 @@ https://stream.asianastream.com/madani/madanitv.smil/chunklist_w173613236_b28000
 #EXTINF:-1  tvg-id="" tvg-url="" tvg-logo="https://www.surautv.id/wp-content/uploads/2024/01/logosurautvvalid.png" group-title="Moslem Channels",Surau TV
 https://ams.juraganstreaming.com:5443/LiveApp/streams/surautv.m3u8
 
+<==================== OXIGEN TV ================================>
+
+#EXTM3U #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_oxygentv.png" group-title="oxygen", OXYGEN.ID
+https://gachor99.my.id/play.m3u8?id=oxygentv
+
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/93a0add4ed871fcabfd7.jpg" group-title="oxygen", IDX CHANNEL 
+https://gachor99.my.id/play.m3u8?id=idx 
+
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_nettv.png" group-title="oxygen", NET TV 
+https://gachor99.my.id/play.m3u8?id=nettv-hd 
+
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_metrotv.png" group-title="oxygen", METRO TV
+https://gachor99.my.id/play.m3u8?id=metrotv
+
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_kompastv.png" group-title="oxygen", KOMPAS TV 
+https://gachor99.my.id/play.m3u8?id=kompastv 
+
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_tvri.png" group-title="oxygen", TVRI NASIONAL
+https://gachor99.my.id/play.m3u8?id=tvri 
+
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_sctv.png" group-title="oxygen", SCTV 
+https://gachor99.my.id/play.m3u8?id=sctv 
+
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_trans7.png" group-title="oxygen", TRANS 7
+https://gachor99.my.id/play.m3u8?id=trans7 
+
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_transtv.png" group-title="oxygen", TRANS TV 
+https://gachor99.my.id/play.m3u8?id=transtv 
+
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_indosiar.png" group-title="oxygen", INDOSIAR 
+https://gachor99.my.id/play.m3u8?id=indosiar
+
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_antv.png" group-title="oxygen", ANTV 
+https://gachor99.my.id/play.m3u8?id=antv 
+
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_tvone.png" group-title="oxygen", TV ONE https://gachor99.my.id/play.m3u8?id=tvone #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_rtv.png" group-title="oxygen", RTV 
+https://gachor99.my.id/play.m3u8?id=rtv 
+
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_jaktv.png" group-title="oxygen", JAK TV
+https://gachor99.my.id/play.m3u8?id=jaktv 
+
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/95f4745784313c1ab222.png" group-title="oxygen", MOJI TV
+https://gachor99.my.id/play.m3u8?id=moji 
+
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_daaitv.png" group-title="oxygen", DAAI INDONESIA
+https://gachor99.my.id/play.m3u8?id=daaitv 
+
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/b00977f498ea7ad4aa26.jpeg" group-title="oxygen", BTV 
+https://gachor99.my.id/play.m3u8?id=btv 
+
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_ntv.png" group-title="oxygen", NUSANTARA TV 
+https://gachor99.my.id/play.m3u8?id=nusantaratv 
+
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/7b3b11534b9ac313e5be.png" group-title="oxygen", VIVA TELEVISI 
+https://gachor99.my.id/play.m3u8?id=vtv 
+
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_jitv" group-title="oxygen", JITV 
+https://gachor99.my.id/play.m3u8?id=jitv 
+
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_ktv.png" group-title="oxygen", KTV 
+https://gachor99.my.id/play.m3u8?id=ktv 
+
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/64a420f0f62df497206a.png" group-title="oxygen", JPM
+https://gachor99.my.id/play.m3u8?id=jpm 
+
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_nhk.png" group-title="oxygen", NHK WORLD (HD) 
+https://gachor99.my.id/play.m3u8?id=nhkworld 
+
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_phoenixhk.png" group-title="oxygen", PHOENIX HK
+https://gachor99.my.id/play.m3u8?id=phoenixhongkong 
+
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_dw.png" group-title="oxygen", DW TV ASIA 
+https://gachor99.my.id/play.m3u8?id=dwenglish
+ 
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_france24.png" group-title="oxygen", FRANCE 24 
+https://gachor99.my.id/play.m3u8?id=france24
+
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_arirang.png" group-title="oxygen", ARIRANG WORLD 
+https://gachor99.my.id/play.m3u8?id=arirangworld
+
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_CCTV.png" group-title="oxygen", CCTV 4
+https://gachor99.my.id/play.m3u8?id=cctv4asia 
+
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_voa.png" group-title="oxygen", VOA 
+https://gachor99.my.id/play.m3u8?id=voa
+
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_cetv1.png" group-title="oxygen", CETV 1 
+https://gachor99.my.id/play.m3u8?id=cetv1 
+
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_cgtndoc.png" group-title="oxygen", CGTN DOCUMENTARY 
+https://gachor99.my.id/play.m3u8?id=cgtndocumentary 
+
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_tv5monde.png" group-title="oxygen", TV5 MONDE
+https://gachor99.my.id/play.m3u8?id=tv5monde 
+
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_nippontv.png" group-title="oxygen", NIPPON TV 
+https://gachor99.my.id/play.m3u8?id=nihontv 
+
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/9c10edc898148799639f.png" group-title="oxygen", KBS KOREA 
+https://gachor99.my.id/play.m3u8?id=kbs-korea 
+
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_salamtv.png" group-title="oxygen", SALAM TV
+https://gachor99.my.id/play.m3u8?id=salamtv 
+
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_rodja.png" group-title="oxygen", RODJA TV
+https://gachor99.my.id/play.m3u8?id=rodjatv 
+
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_uchannel.png" group-title="oxygen", U CHANNEL 
+https://gachor99.my.id/play.m3u8?id=uchannel 
+
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_tawaftv.png" group-title="oxygen", TAWAF TV 
+https://gachor99.my.id/play.m3u8?id=tawaftv 
+
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_qurantv.png" group-title="oxygen", QURAN TV 
+https://gachor99.my.id/play.m3u8?id=qurantv 
+
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_inews.png" group-title="oxygen", INEWS TV 
+https://gachor99.my.id/play.m3u8?id=inews 
+
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_aljazeera.png" group-title="oxygen", AL JAZEERA 
+https://gachor99.my.id/play.m3u8?id=aljazeera 
+
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_trt.png" group-title="oxygen", TRT WORLD 
+https://gachor99.my.id/play.m3u8?id=trtworld 
+
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_phoenixchinese.png" group-title="oxygen", PHOENIX CHINESE 
+https://gachor99.my.id/play.m3u8?id=phoenixchinese 
+
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_cna.png" group-title="oxygen", CHANNEL NEWS ASIA 
+https://gachor99.my.id/play.m3u8?id=channelnewsasia 
+
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_euronews.png" group-title="oxygen", EURONEWS 
+https://gachor99.my.id/play.m3u8?id=euronewsasia 
+
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_cgtn.png" group-title="oxygen", CGTN 
+https://gachor99.my.id/play.m3u8?id=cgtn 
+
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/9c8b3b8177e3fb267a74.png" group-title="oxygen", TVBS 
+https://gachor99.my.id/play.m3u8?id=tvbnews 
+
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_bloomberg.png" group-title="oxygen", BLOOMBERG 
+https://gachor99.my.id/play.m3u8?id=bloomberg 
+
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_cnbcint.png" group-title="oxygen", CNBC 
+https://gachor99.my.id/play.m3u8?id=cnbc 
+
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_b4umovies.png" group-title="oxygen", B4U MOVIES 
+https://gachor99.my.id/play.m3u8?id=b4umovieindia 
+
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_xingkong.png" group-title="oxygen", XING KONG CHINA 
+https://gachor99.my.id/play.m3u8?id=xingkong 
+
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_lotusmacau.png" group-title="oxygen", LOTUS MACAU 
+https://gachor99.my.id/play.m3u8?id=lotusmacau 
+
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/994ca4439869fb20cfc6.png" group-title="oxygen", LTN FAMILY 
+https://gachor99.my.id/play.m3u8?id=ltn-family 
+
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/ca22c587c19948f1567e.png" group-title="oxygen", FILMAX 
+https://gachor99.my.id/play.m3u8?id=filmax 
+
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_fashiontv.png" group-title="oxygen", FASHION TV 
+https://gachor99.my.id/play.m3u8?id=fashiontv 
+
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_channelv.png" group-title="oxygen", CHANNEL V CHINA 
+https://gachor99.my.id/play.m3u8?id=vchina 
+
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_b4u.png" group-title="oxygen", B4U MUSIC 
+https://gachor99.my.id/play.m3u8?id=b4umusicindia 
+
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/79e2dab75c3bfcea933c.png" group-title="oxygen", INSIGHT TV 
+https://gachor99.my.id/play.m3u8?id=insight 
+
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_toonmax.png" group-title="oxygen", TOONMAX 
+https://gachor99.my.id/play.m3u8?id=toonmax 
+
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_spacetoon.png" group-title="oxygen", SPACETOON 
+https://gachor99.my.id/play.m3u8?id=spacetoon 
+
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_ebskids.png" group-title="oxygen", EBS KIDS 
+https://gachor99.my.id/play.m3u8?id=ebskids 
+
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_mentari.png" group-title="oxygen", MENTARI TV 
+https://gachor99.my.id/play.m3u8?id=mentaritv 
+
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_kidszone.png" group-title="oxygen", KIDS ZONE PLUS
+https://gachor99.my.id/play.m3u8?id=kidszoneplus
+
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/b12d9de0667a6dbcff5f.png" group-title="oxygen", POP TV 
+https://gachor99.my.id/play.m3u8?id=pop 
+
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/f48a09f215f6bc907aaa.png" group-title="oxygen", PLANET FUN 
+https://gachor99.my.id/play.m3u8?id=planetfun 
+
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_tvrisport.png" group-title="oxygen", TVRI SPORT 
+https://gachor99.my.id/play.m3u8?id=tvrisport 
+
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_dubaisport3.png" group-title="oxygen", DUBAI SPORTS 3 
+https://gachor99.my.id/play.m3u8?id=dubaisport3 
+
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_redbull.png" group-title="oxygen", RED BULL TV 
+https://gachor99.my.id/play.m3u8?id=redbulltv 
+
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/c01f7cb2fad4cfbcf0a7.png" group-title="oxygen", EDGE SPORT 
+https://gachor99.my.id/play.m3u8?id=edgesport
+
+
 
 
 
