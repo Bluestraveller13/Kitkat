@@ -1,6 +1,69 @@
 #EXTM3U
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/indonesia.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indonesiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml" refresh="1440" max-conn="1" refresh="24"
 
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="💥⚽️ LIGA INGGRIS💥⚽️ ", LIVE 1
+http://foxx.pure-iptv.net:8080/play/live.php?mac=00:1A:79:55:11:BA&stream=457085_&extension=ts
+
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="💥⚽️ LIGA INGGRIS💥⚽️ ", LIVE 4
+http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=585217_&extension=ts
+
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="💥⚽️ LIGA INGGRIS💥⚽️ ", LIVE 5
+http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=482839_&extension=ts
+
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="💥⚽️ LIGA INGGRIS💥⚽️ ", LIVE 6
+http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=5481_&extension=ts
+
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="💥⚽️ LIGA INGGRIS💥⚽️ ", LIVE 7
+http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=208134_&extension=ts
+
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="💥⚽️ LIGA INGGRIS💥⚽️ ", LIVE 8
+http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=564955_&extension=ts
+
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="💥⚽️ LIGA INGGRIS💥⚽️ ", LIVE 9
+http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=564969_&extension=ts
+
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="💥⚽️ LIGA INGGRIS💥⚽️ ", LIVE 10
+http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=564978_&extension=ts
+
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="💥⚽️ LIGA INGGRIS💥⚽️ ", LIVE 11
+http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=727904_&extension=ts
+
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="💥⚽️ LIGA INGGRIS💥⚽️ ", LIVE 12
+http://foxx.pure-iptv.net:8080/play/live.php?mac=00:1A:79:55:11:BA&stream=57804_&extension=ts
+
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="💥⚽️ LIGA INGGRIS💥⚽️ ", LIVE 13
+http://foxx.pure-iptv.net:8080/play/live.php?mac=00:1A:79:55:11:BA&stream=649227_&extension=ts
+
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="💥⚽️ LIGA INGGRIS💥⚽️ ", LIVE 14
+http://pal.alphatx.me/play/live.php?mac=00:1A:79:C6:20:7D&stream=833284&extension=ts&play_token=yK7Ppvy2j
+
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="💥⚽️ LIGA INGGRIS💥⚽️ ", LIVE 15
+http://pal.alphatx.me/play/live.php?mac=00:1A:79:C6:20:7D&stream=425666&extension=ts&play_token=yK7Ppvy2j
+
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="💥⚽️ LIGA INGGRIS💥⚽️ ", LIVE 16
+http://pal.alphatx.me/play/live.php?mac=00:1A:79:C6:20:7D&stream=116252&extension=ts&play_token=yK7Ppvy2j
+
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="💥⚽️ LIGA INGGRIS💥⚽️ ", LIVE 17
+http://pal.alphatx.me/play/live.php?mac=00:1A:79:C6:20:7D&stream=71907&extension=ts&play_token=yK7Ppvy2j
+
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="💥⚽️ LIGA INGGRIS💥⚽️ ", LIVE 18
+http://pal.alphatx.me/play/live.php?mac=00:1A:79:C6:20:7D&stream=636921&extension=ts&play_token=yK7Ppvy2j
+
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="💥⚽️ LIGA INGGRIS💥⚽️ ", LIVE 19
+http://pal.alphatx.me/play/live.php?mac=00:1A:79:C6:20:7D&stream=1078724&extension=ts&play_token=yK7Ppvy2j
+
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="💥⚽️ LIGA INGGRIS💥⚽️ ", LIVE 20
+http://pal.alphatx.me/play/live.php?mac=00:1A:79:C6:20:7D&stream=1078723&extension=ts&play_token=yK7Ppvy2j
+
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="💥⚽️ LIGA INGGRIS💥⚽️ ", LIVE 21
+http://pal.alphatx.me/play/live.php?mac=00:1A:79:C6:20:7D&stream=1078722&extension=ts&play_token=yK7Ppvy2j
+
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="💥⚽️ LIGA INGGRIS💥⚽️ ", LIVE 22
+http://pal.alphatx.me/play/live.php?mac=00:1A:79:C6:20:7D&stream=1078720&extension=ts&play_token=yK7Ppvy2j
+
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="💥⚽️ LIGA INGGRIS💥⚽️ ", LIVE 23
+http://king4k.tv:80/play/live.php?mac=00:1A:79:A5:DD:10&stream=607458&extension=ts&play_token=jX6fRmXSK2
+
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
