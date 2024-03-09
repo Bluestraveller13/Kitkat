@@ -32,16 +32,22 @@ https://nyanv-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 https://nyanv-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-id="MOJI" tvg-name="Moji" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="Indonesia Channels",Moji
-http://103.113.116.150:25461/mtm1/12345/31
+https://srtv.my.id/vd/play.m3u8?id=206&type=hls
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTINF:-1 tvg-id="SCTV - [Channel 89].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" group-title="Indonesia Channels" ,SCTV 
-http://103.113.116.150:25461/mtm1/12345/20
+https://srtv.my.id/vd/play.m3u8?id=204&type=hls
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTINF:-1 tvg-id="Indosiar - [Channel 78].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="Indonesia Channels",Indosiar
-http://103.113.116.150:25461/mtm1/12345/19
+https://srtv.my.id/vd/play.m3u8?id=205&type=hls
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -159,6 +165,12 @@ https://dgwubfppws111.cloudfront.net/out/v1/667a86e35ddd496c886fa11598dc184d/ind
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Logo_GarudaTV_Merah_Putih_Silver_Merah.png/1200px-Logo_GarudaTV_Merah_Putih_Silver_Merah.png" group-title="Indonesia Channels",Garuda TV
 https://etv-cdn.kdb.co.id/GarudaTV-Stream/tracks-v1a1/mono.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://tempo-tv.com/dosyalar/tempo-tv-logo-light-300x110.png" group-title="Indonesia Channels",TV Tempo
+https://srtv.my.id/vd/play.m3u8?id=7946&type=hls
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IGIX3o8.jpg" group-title="Indonesia Channels",TV Kesehatan
@@ -343,10 +355,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/
 #KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856fd0d66d0170341bf1000905/manifest.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTINF: -1 tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://1.bp.blogspot.com/-nBglMMe-UwM/XYTVyvQBUKI/AAAAAAAAojg/RMUFuuH7N3cqMJsGKEDhqY8sYAoEMhihwCLcBGAsYHQ/s1600/citra-bioskop-channel-tv-logo.png" group-title="Premium Movies",Citra Bioskop
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch376%29/index.m3u8
-
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -390,7 +398,7 @@ http://210.210.155.35/uq2663/h/h08/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 tvg-id="KBSWorld.kr" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/KBS_World.svg/2560px-KBS_World.svg.png" group-title="Korean Channels",KBS WORLD
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch262%29/index.m3u8
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 tvg-id="" tvg-url="tvg-logo="https://i.imgur.com/vbV0KKG.jpg" group-title="Korean Channels",Nadoo Korean
@@ -432,7 +440,8 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch302%29/index
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-id="AnimalPlanetSoutheastAsia.sg" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_203.png" group-title="Knowledge & Documentary",Animal Planet 
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch31%29/index.m3u8
+http://metatvpro.com:25461/live/LT186743/8181/308.m3u8
+#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch31%29/index.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -457,7 +466,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeIn
 https://nyanv-live-cdn.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
 
 
-
 <=================== Entertainment & Lifestyle =============================>
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -478,7 +486,8 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch354%29/index
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 tvg-id="AsianFoodNetwork.sg" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/640px-Asian_Food_Network.svg.png" group-title="Entertainment & LifeStyle",Asian Food Network
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch76%29/index.m3u8
+#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch76%29/index.m3u8
+http://metatvpro.com:25461/live/LT186743/8181/289.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-id="FoodNetworkAsia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/492px-Food_Network_New_Logo.png" group-title="Entertainment & LifeStyle",Food Network
@@ -513,22 +522,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfotai
 #EXTINF:-1 tvg-id="Vision Prime HD - [Channel 1].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_94.png" group-title="Entertainment & LifeStyle",Vision Prime
 https://nyanv-live-cdn.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/Citra_Entertainment_Logo_September_2019.png" group-title="Entertainment & LifeStyle",Citra Entertainment
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch379%29/index.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTINF:-1 tvg-id="Citra Dangdut" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://indihome.co.id/subsystem/cms-ih/assets/uploads/channel_list/UPLOAD-1586672831-.png" group-title="Entertainment & LifeStyle",Citra Dangdut
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch377%29/index.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTINF:-1 tvg-id="Citra Drama" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Citra_Drama.PNG/revision/latest?cb=20210307072503" group-title="Entertainment & LifeStyle",Citra Drama
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch378%29/index.m3u8
-
-#EXTM3U #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_oxygentv.png" group-title="Entertainment & LifeStyle", OXYGEN.ID
-https://gachor99.my.id/play.m3u8?id=oxygentv
-
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -560,14 +553,43 @@ https://nyanv-live-cdn.mncnow.id/live/eds/TV5/sa_dash_vmx/TV5.mpd
 https://nyanv-live-cdn.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTINF:-1 tvg-id="FashionTV HD" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" group-title="Entertainment & LifeStyle" tvg-id="Fashion TV Midnight Secrets" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1280px-Fashion_TV_logo.svg.png",Fashion TV
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch168%29/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTINF:-1 tvg-id="" tvg-url="" group-title="Entertainment & LifeStyle" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1280px-Fashion_TV_logo.svg.png",Fashion TV
+https://srtv.my.id/vd/play.m3u8?id=6507&type=hls
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTINF:-1 tvg-id="" tvg-url="" group-title="Entertainment & LifeStyle" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1280px-Fashion_TV_logo.svg.png",Fashion TV
+https://srtv.my.id/vd/play.m3u8?id=6504&type=hls
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTINF:-1 tvg-id="" tvg-url="" group-title="Entertainment & LifeStyle" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1280px-Fashion_TV_logo.svg.png",Fashion TV
+https://srtv.my.id/vd/play.m3u8?id=6511&type=hls
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTINF:-1 tvg-id="" tvg-url="" group-title="Entertainment & LifeStyle" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1280px-Fashion_TV_logo.svg.png",Fashion TV
+https://srtv.my.id/vd/play.m3u8?id=6503&type=hls
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTINF:-1 tvg-id="" tvg-url="" group-title="Entertainment & LifeStyle" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1280px-Fashion_TV_logo.svg.png",Fashion TV
+https://srtv.my.id/vd/play.m3u8?id=7734&type=hls
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 tvg-id="Sony Entertainment Television" tvg-name="" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/Sony_TV_new.png" group-title="Entertainment & LifeStyle",Sony Entertainment
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch173%29/index.m3u8
 
 <=============== Kids Channels =====================>
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYuhU2GnXAt6dqPBJMqpBr563_t4mUDG8Ihw&usqp=CAU" group-title="Kids" tvg-id="DaVinci.de" tvg-name="DaVinci.de", Da Vinci
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00406-tinizinelimited-davinciuk-lggb/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Disney_Channel_Germany_Logo_2014.png" tvg-name="" group-title="Kids",Disney Channel
@@ -582,20 +604,8 @@ http://m3u.4klion.xyz:80/play/live.php?mac=00:1A:79:78:59:F9&stream=479219&exten
 http://m3u.4klion.xyz:80/play/live.php?mac=00:1A:79:78:59:F9&stream=479221&extension=ts
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://image.pngaaa.com/583/3120583-middle.png" tvg-name="" group-title="Kids",ABC ME
-https://c.mjh.nz/abc-me.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/7b3b11534b9ac313e5be.png" group-title="Kids",Viva Televisi
-https://gachor99.my.id/play.m3u8?id=vtv 
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://www.freepnglogos.com/uploads/cartoon-network-png-logo/c-n-png-logo-3.png" tvg-id="CartoonNetworkAsia.sg" tvg-name="Cartoon Network" group-title="Kids",Cartoon Network
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch103%29/index.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTINF:-1 tvg-id="Boomerang HD" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/2560px-Cartoonito_-_Logo_2021.svg.png" group-title="Kids",Cartoonito
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch372%29/index.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -614,12 +624,16 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Zoomoo/sa_dash_vmx/Zoomoo.mpd
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch375%29/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium4.xml" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Hip_Hip_Horee%21.png" group-title="Kids",Hip Hip Horee
+https://srtv.my.id/vd/play.m3u8?id=7052&type=hls
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTINF:-1 tvg-id="Mentari TV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png" group-title="Kids",Mentari TV
-https://gachor99.my.id/play.m3u8?id=mentaritv 
-
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/f48a09f215f6bc907aaa.png" group-title="Kids",PLANET FUN 
-https://gachor99.my.id/play.m3u8?id=planetfun 
-
+https://srtv.my.id/vd/play.m3u8?id=8237&type=hls
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -653,7 +667,8 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 tvg-id="Aniplus" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Aniplus_Asia_Logo.png" group-title="Kids",Aniplus
-http://103.113.116.150:25461/mtm1/12345/37
+http://metatvpro.com:25461/live/LT186743/8181/268.m3u8
+
 
 <======================= Music ==========================>
 
@@ -768,11 +783,6 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch21%29/index.
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 group-title="Sports" tvg-id="" tvg-chno="" tvg-logo="https://www.clipartmax.com/png/middle/439-4397957_download-now-motorvision-tv.png",MOTORVISION
 http://210.210.155.37/uq2663/h/h09/index.m3u8
-
-#EXTINF:-1 tvg-name="WWE Network" tvg-logo="" group-title="Sports",WWE Network
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://webhdrus.onlinehdhls.ru/lb/premium376/index.m3u8
 
 <====================== News ========================>
 
@@ -982,15 +992,6 @@ https://live-streams-ssai-01.tonton.com.my/live/2dd2b7cd-1b34-4871-b669-57b5c9be
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTINF:-1 group-title="Malaysia" tvg-id="AstroCitra.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Astro_Citra.png",Astro Citra
-http://50.7.234.10:8278/Citra/playlist.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTINF:-1 tvg-id="AstroCeria.my" tvg-name="Astro Ceria" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" group-title="Malaysia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/da/611%281%29.png/revision/latest?cb=20200521080605" , Astro Ceria 
-http://50.7.234.10:8278/Ceria/playlist.m3u8
-
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 tvg-id="Okey" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium1.xml" group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png",TV Okey
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 
@@ -1098,37 +1099,37 @@ https://d2kziuzkf9oizb.cloudfront.net/rd005/chunklist.m3u8
 #EXTM3U
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZQOWgwOEZaeE5sNDJ2RG01c20tZXQxYTFWV2N2cWF2RXBHbVFycGVDRUhXbGd2ZnBTRVhaSHpmN3VfZDNSSkJzcW9MV3UyNkN0S2l3emh3cE1EVXlNWFBnT1Jqd0NucDQ3ZVdYb2xEdGZzXzA5bVZrUEdQa0JKQVItWnJVM3NEQVFDdF8yeEV1TUpPUEcwOXRJTU9vd2JRRENEckhiN2NQQ0lmVEpkdlhqSUdxWS1KT0toalA2cDIyRDZNTEswVVF1dkhxbUE5bkNYU01DQzh1b3RFSm51MUdGTzBDZzhoQ0hjdnpHcUtVOUZLY1BqMkw4WHJGR1k3ajZndGpId2tnNFhfMWV3UG1BYmJsNTVvNXJZbTRnN2ptRXh3SlBvZi1XNWFPS3g2MEYyNWQ1RUxvT3pEYU9FeGFBWllzRjFtZC02U291eWNFS0xER2p4bFhvQnNxRlRTeGgzQjFnb0Y4aUFDV2FqZkRTYWEmY29udGV4dFR5cGU9bm9uZSZpZD01NzU0MTE2IiwiYWNjb3VudF9pZCI6MjA4MjMxMSwiY29udGVudF9pZCI6ImZ0YV9jaDVfZGFzaF90dl9kcm0iLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TVRRM2ZQOWgwOEZaeE5sNDJ2RG01c20tZXQxYTFWV2N2cWF2RXBHbVFycGVDRUhXbGd2ZnBTRVhaSHpmN3VfZDNSSkJzcW9MV3UyNkN0S2l3emh3cE1EVXlNWFBnT1Jqd0NucDQ3ZVdYb2xEdGZzXzA5bVZrUEdQa0JKQVItWnJVM3NEQVFDdF8yeEV1TUpPUEcwOXRJTU9vd2JRRENEckhiN2NQQ0lmVEpkdlhqSUdxWS1KT0toalA2cDIyRDZNTEswVVF1dkhxbUE5bkNYU01DQzh1b3RFSm51MUdGTzBDZzhoQ0hjdnpHcUtVOUZLY1BqMkw4WHJGR1k3ajZndGpId2tnNFhfMWV3UG1BYmJsNTVvNXJZbTRnN2ptRXh3SlBvZi1XNWFPS3g2MEYyNWQ1RUxvT3pEYU9FeGFBWllzRjFtZC02U291eWNFS0xER2p4bFhvQnNxRlRTeGgzQjFnb0Y4aUFDV2FqZkRTYWEiLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjoxNDd9&signature=VgV2G5MKTujIOJA3BIsCuvBLetA%3d
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZLd2pfLVZpVmxMSi1YYkNOUWgzZDJHd2VHUVpvZ1FValJFQ3hHek5MSC1acFhLNENUM3g2eW9xVHJ0S1lTNmZlNlduSEtNMzUxSHBnZnE3QWw3aEZ3Y21WaHl2ZUdtbUNJcGkwZkpLVUsyMVBUM0FYTEd1RFJBQkhvdW9ndWxCVkJnNDFrWEhCQWstNUFVcG1IUmt3cnBOLUFKQ2x5ZEFrTFUtbmQxVF9heTFzZnhrTmhGRWM0MzdXVUNPSmV0eVk1WnRYQ0k4QnozS3BzQ3dOUkhHZUhLVkpjaE4yMEd5N1JTbUNiSW5OQXQ5dXdpcF9BYzlKZzRMSlduNkNlUk1GY1lYZDZTQjlkVjFXVXFPSHAyMWRoT01yM0tMbVR4QmpFbk1yQUpta1B0V3padHB0ank3eG9YNUxscklGZXlTVVE9PSZjb250ZXh0VHlwZT1ub25lJmlkPTU3NTQxMTYiLCJhY2NvdW50X2lkIjoyMDgyMzExLCJjb250ZW50X2lkIjoiZnRhX2NoNV9kYXNoX3R2X2RybSIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNVFEzZkt3al8tVmlWbExKLVhiQ05RaDNkMkd3ZUdRWm9nUVVqUkVDeEd6TkxILVpwWEs0Q1QzeDZ5b3FUcnRLWVM2ZmU2V25IS00zNTFIcGdmcTdBbDdoRndjbVZoeXZlR21tQ0lwaTBmSktVSzIxUFQzQVhMR3VEUkFCSG91b2d1bEJWQmc0MWtYSEJBay01QVVwbUhSa3dycE4tQUpDbHlkQWtMVS1uZDFUX2F5MXNmeGtOaEZFYzQzN1dVQ09KZXR5WTVadFhDSThCejNLcHNDd05SSEdlSEtWSmNoTjIwR3k3UlNtQ2JJbk5BdDl1d2lwX0FjOUpnNExKV242Q2VSTUZjWVhkNlNCOWRWMVdVcU9IcDIxZGhPTXIzS0xtVHhCakVuTXJBSm1rUHRXelp0cHRqeTd4b1g1TGxySUZleVNVUT09IiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MTQ3fQ%3d%3d&signature=rmnCnLsRpiYvC%2bjwULgJwZbSBPQ%3d
 #EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" group-title="Mediacorp SG" tvg-id="Channel 5 HD" tvg-chno="Channel 5" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format=%27png%27&Quality=85&ImageId=%271776036%27&EntityType=%27Item%27&EntityId=%2797098%27&Width=114&Height=114&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Channel 5
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/316288/assetType/media/assetFileId/5754116/contextType/PLAYBACK/isAltUrl/False/a.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZHT2ZDY2cyMFdqOV84WHVrMlJoWXNrRF9oOVh5ekwwaWVGY05tc0F6UlZDdVlmWFFEYmNoVlJqM1JSMlRSRTl0eE5Ea2NaSTlNQmxIZDJEdkkxVk5EWmRVVFdTMTZtMVkzU1ZobmZaejB5bHF1bjFDVE1sV3I4bEFmMkdoOXBHU1Z6OEpFOGJQc21SS3FZSTl3RWtsaHMtbkUxVEpRcXdOVjd3eHBfRDBBeEVJWElGTnFsdWJmWHE5N09OV09aaDlvbmh6YTlUanIxMTR0SFVmY1dsU2xkVk5MX0h0SkozdkhZVkluak14NmNSZXB3WW00Rm03Wi1RODhoMGZRZVM1SDh4dGF4cGNueXdjV2dWZFFWQ3l4TjA3eEJtR1hRXy0zemFFUUxES3NMWV9iaUNyOUd3aUdab3U1TDZnM3p0dHdfZjU2RDFVcFRhQUkzbVdQQkdZQ1Z5ZEc3WW5mWnd6aHV2REVYb0g3NVdsbXQ4UmktVjlWYnJxckRzVnZfcnN3PT0mY29udGV4dFR5cGU9bm9uZSZpZD01NzU0MTI0IiwiYWNjb3VudF9pZCI6MjA4MjMxMSwiY29udGVudF9pZCI6ImZ0YV9jaDhfZGFzaF90dl9kcm0iLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TVRRM2ZHT2ZDY2cyMFdqOV84WHVrMlJoWXNrRF9oOVh5ekwwaWVGY05tc0F6UlZDdVlmWFFEYmNoVlJqM1JSMlRSRTl0eE5Ea2NaSTlNQmxIZDJEdkkxVk5EWmRVVFdTMTZtMVkzU1ZobmZaejB5bHF1bjFDVE1sV3I4bEFmMkdoOXBHU1Z6OEpFOGJQc21SS3FZSTl3RWtsaHMtbkUxVEpRcXdOVjd3eHBfRDBBeEVJWElGTnFsdWJmWHE5N09OV09aaDlvbmh6YTlUanIxMTR0SFVmY1dsU2xkVk5MX0h0SkozdkhZVkluak14NmNSZXB3WW00Rm03Wi1RODhoMGZRZVM1SDh4dGF4cGNueXdjV2dWZFFWQ3l4TjA3eEJtR1hRXy0zemFFUUxES3NMWV9iaUNyOUd3aUdab3U1TDZnM3p0dHdfZjU2RDFVcFRhQUkzbVdQQkdZQ1Z5ZEc3WW5mWnd6aHV2REVYb0g3NVdsbXQ4UmktVjlWYnJxckRzVnZfcnN3PT0iLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjoxNDd9&signature=8Akm3BfhJ1vPEAOvyJPjkTYDkAI%3d
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZFNVl4TUNvdVFvZEF5MWgtMjAtVWhKRW5WaXhrSF9aSGgzdXVLYnVYMW1VY1JnQkNidEhFdUFLcHdGb2xjU05mRVlCTUpzb0h4RnhPbGdGU2FwY0t4Q2lKVHAxTTc3c203YS1sQzFsQ1Q2UGVfWTlVaXFzcVExcGVoWERQUlhhZ1lGRDUySzR6a0pNUUZSdm5Zb01WSU1pRzVOVWtXeTh1VTQteHhkVGs3V2VJWkZ1YVQ2REVPUVh3UVJHZllSVktUenY3VEF4bW04YVNKNDlDSXViN0dnZDBmWlEwaVFUTTNQMkpIM2p4RTRRdVZGdHdrWjJPZkktT0ljOUllWmEyLUI3VEJNSnNUYW5wbnJ2Z1BlalU1eDJMaDZ5aVFydXZRWC0xa05yT1d0UFpHVUR3djBWMzJiSHpoM0tQOU9XdkpXU2Y2UV9DNW9OSzFSYUJBbE9QS0k9JmNvbnRleHRUeXBlPW5vbmUmaWQ9NTc1NDEyNCIsImFjY291bnRfaWQiOjIwODIzMTEsImNvbnRlbnRfaWQiOiJmdGFfY2g4X2Rhc2hfdHZfZHJtIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE1UUTNmRTVZeE1Db3VRb2RBeTFoLTIwLVVoSkVuVml4a0hfWkhoM3V1S2J1WDFtVWNSZ0JDYnRIRXVBS3B3Rm9sY1NOZkVZQk1Kc29IeEZ4T2xnRlNhcGNLeENpSlRwMU03N3NtN2EtbEMxbENUNlBlX1k5VWlxc3FRMXBlaFhEUFJYYWdZRkQ1Mks0emtKTVFGUnZuWW9NVklNaUc1TlVrV3k4dVU0LXh4ZFRrN1dlSVpGdWFUNkRFT1FYd1FSR2ZZUlZLVHp2N1RBeG1tOGFTSjQ5Q0l1YjdHZ2QwZlpRMGlRVE0zUDJKSDNqeEU0UXVWRnR3a1oyT2ZJLU9JYzlJZVphMi1CN1RCTUpzVGFucG5ydmdQZWpVNXgyTGg2eWlRcnV2UVgtMWtOck9XdFBaR1VEd3YwVjMyYkh6aDNLUDlPV3ZKV1NmNlFfQzVvTksxUmFCQWxPUEtJPSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjE0N30%3d&signature=QJ3WScpPPNcZaxfx%2bEsaPFqehnI%3d
 #EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" group-title="Mediacorp SG" tvg-id="Channel 8 HD" tvg-chno="Channel 8" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format=%27png%27&Quality=85&ImageId=%271776034%27&EntityType=%27Item%27&EntityId=%2797104%27&Width=75&Height=101&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Channel 8 / 8 频道
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/260581/assetType/media/assetFileId/5754124/contextType/PLAYBACK/isAltUrl/False/a.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZIVE4wVzdkdGZ2SEtQc1pIYk1fYUtEdDNHdVV0OTRmXzlwTDNvMllXd3JEY0VrRUx2S09CRFpBNGlTSXhxOVdPSjR5NUV5Q3h3bjJmcjNSMGhPZ2lrakZWUzlIOENXTXFLX3Z5M29HaUh2eGx3akFLLVdYYWU3N0I0ejVzLVgtNllUSWpUTTlUUW5EaVZVTFNrTEg0NExQLTZpMkRfS1V2MC1GNWgyOFlEZndNbVU1Wm96eXZUelhQUW5GQmYyZVZUdVc5WnU1SGt4Y283ZWNDQm85YWx6aWlDVEV0eW95ajNWRW0yajVMekhVempJdS1Cbmk5aHdVQy1sTEFuT3B5bEFXa2dQOUFmSjVXb01hUzJnQ2drOUFsTmpuZFJSRnRKXzNZYjJNcERWYVd0WDZYZGNwT2ptaEpBU1pLYkNfU1E9PSZjb250ZXh0VHlwZT1ub25lJmlkPTU3NTQxNTciLCJhY2NvdW50X2lkIjoyMDgyMzExLCJjb250ZW50X2lkIjoiZnRhX2NoVV9kYXNoX3R2X2RybSIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNVFEzZkhUTjBXN2R0ZnZIS1BzWkhiTV9hS0R0M0d1VXQ5NGZfOXBMM28yWVd3ckRjRWtFTHZLT0JEWkE0aVNJeHE5V09KNHk1RXlDeHduMmZyM1IwaE9naWtqRlZTOUg4Q1dNcUtfdnkzb0dpSHZ4bHdqQUstV1hhZTc3QjR6NXMtWC02WVRJalRNOVRRbkRpVlVMU2tMSDQ0TFAtNmkyRF9LVXYwLUY1aDI4WURmd01tVTVab3p5dlR6WFBRbkZCZjJlVlR1VzladTVIa3hjbzdlY0NCbzlhbHppaUNURXR5b3lqM1ZFbTJqNUx6SFV6akl1LUJuaTlod1VDLWxMQW5PcHlsQVdrZ1A5QWZKNVdvTWFTMmdDZ2s5QWxOam5kUlJGdEpfM1liMk1wRFZhV3RYNlhkY3BPam1oSkFTWktiQ19TUT09IiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MTQ3fQ%3d%3d&signature=EmoJlmP%2btvr4gmG%2baUFoCSmntBY%3d
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZLX1BwUy1LQi05WlgzNjdHOWFyYUd1a2hMd0Q3S0J4MlZ0UTRTTXVWbU8zTHozZlgwcGpwczE4cldvakxYQnEzZTFDaDhaNF90MmVGdGh4VDVYU0tkR1VWNTZ3V2g2ZG9SZXJMMXcxdEg1Zk5pQ2Vkd2I3cUxueTY0a1E0dDdQa0luMXhVV0ZraWh6a2J6eUNoaXdac2ZVWFhzcHVhR2pMWFNJSThOR0t5M3BzdEZPakRXdno5cE1PVkhFeEtpbHdxWmdCZXJ5UWduUU1jSkFHTzJfVlRmcDFsQkhfQ0tiUjZqMDhVMkZoUW04V1BNMUIyMm0yUVZaYWJDVUlJcWRYVTB3QW9Gdm5URHRMRXJNWkJIbXlEQWVuSXpmNkhoVVA1WWFYRjBod1doSmx0Wjk1eHUyWDBEWm5YQUg1ZlBaSDF3ektVUEl5dEdURTVKb2FtQjZ6dHM9JmNvbnRleHRUeXBlPW5vbmUmaWQ9NTc1NDE1NyIsImFjY291bnRfaWQiOjIwODIzMTEsImNvbnRlbnRfaWQiOiJmdGFfY2hVX2Rhc2hfdHZfZHJtIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE1UUTNmS19QcFMtS0ItOVpYMzY3RzlhcmFHdWtoTHdEN0tCeDJWdFE0U011Vm1PM0x6M2ZYMHBqcHMxOHJXb2pMWEJxM2UxQ2g4WjRfdDJlRnRoeFQ1WFNLZEdVVjU2d1doNmRvUmVyTDF3MXRINWZOaUNlZHdiN3FMbnk2NGtRNHQ3UGtJbjF4VVdGa2loemtienlDaGl3WnNmVVhYc3B1YUdqTFhTSUk4TkdLeTNwc3RGT2pEV3Z6OXBNT1ZIRXhLaWx3cVpnQmVyeVFnblFNY0pBR08yX1ZUZnAxbEJIX0NLYlI2ajA4VTJGaFFtOFdQTTFCMjJtMlFWWmFiQ1VJSXFkWFUwd0FvRnZuVER0TEVyTVpCSG15REFlbkl6ZjZIaFVQNVlhWEYwaHdXaEpsdFo5NXh1MlgwRFpuWEFINWZQWkgxd3pLVVBJeXRHVEU1Sm9hbUI2enRzPSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjE0N30%3d&signature=Ff787Eh4r6uAXy5iJl%2f13XD1V3w%3d
 #EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" group-title="Mediacorp SG" tvg-id="Channel U HD" tvg-chno="Channel U" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format=%27png%27&Quality=85&ImageId=%271776040%27&EntityType=%27Item%27&EntityId=%2797129%27&Width=114&Height=114&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Channel U / U 频道
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/330332/assetType/media/assetFileId/5754157/contextType/PLAYBACK/isAltUrl/False/a.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZHRUMtRVVDY3JwWlZWRWFWa05pU2NITVRtc3BfMWsyZ3NjY2lpUWxRdnNUenM3MXJfVEh1NkIxZTlabEtIekF4bXV2Y0ZuSVRqejhsVTlEdGFjNHNQa1VST0lNVHJIUEQ3WUNpSWhYVzlJUC1ETXFqeTdOcWZGcEQxdzU2TldzQzhqc01pNEhLeUlkc0llZEk2aXdrUUpDdFJCMFFScExWQm55SHVwTlpjaDh0endfbnBXcnctNkI5ZjFRZk9OMGxfYVhxbjJkbGUyaUI3dE1Ia01RaENSa2tDYXpkYktMdUVncnRXSFBzQjNfOW4xVXNHWWN1RF9BWVByZWdyblFUa1VaSFdydW9la1RtUXpxamRRQmN6UWNmYVpDNmxDNnNqZHhFcFFMaGxSWiZjb250ZXh0VHlwZT1ub25lJmlkPTU3NTQxNDkiLCJhY2NvdW50X2lkIjoyMDgyMzExLCJjb250ZW50X2lkIjoiZnRhX2NuYVNfZGFzaF90dl9kcm0iLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TVRRM2ZHRUMtRVVDY3JwWlZWRWFWa05pU2NITVRtc3BfMWsyZ3NjY2lpUWxRdnNUenM3MXJfVEh1NkIxZTlabEtIekF4bXV2Y0ZuSVRqejhsVTlEdGFjNHNQa1VST0lNVHJIUEQ3WUNpSWhYVzlJUC1ETXFqeTdOcWZGcEQxdzU2TldzQzhqc01pNEhLeUlkc0llZEk2aXdrUUpDdFJCMFFScExWQm55SHVwTlpjaDh0endfbnBXcnctNkI5ZjFRZk9OMGxfYVhxbjJkbGUyaUI3dE1Ia01RaENSa2tDYXpkYktMdUVncnRXSFBzQjNfOW4xVXNHWWN1RF9BWVByZWdyblFUa1VaSFdydW9la1RtUXpxamRRQmN6UWNmYVpDNmxDNnNqZHhFcFFMaGxSWiIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjE0N30%3d&signature=fzRmNmP3qNUNzZCdUCy2d%2f1MIKU%3d
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZFY3hWbG9OUnRwSEZURE1TVGR5bU5yaFN6NHJjaEZELXpzTW10MkdUVXJDenNLZGxpRU12WDJtQ3V2VjJrNHY1YWI2V2xPWE44MkxDWl9OemxBSGlCRTdlaWh2SWRham9wR2RVX2xRSmlQSEJfMEJvZUVabzg3QVgyOVJvNnN1SjA3UmVoSG5qVlNwZG42aUZDTXY3bmx0QXVVcndqRWtRLTVEcHhIMlB4UGJXemZEVUoxZ1diUUtDZWQ1RTNtNnZ6amdRRVREMVMzbVBXdzZWQ3E3SUhNWVRDa3NZcjZTWjRpN0xEeVJPNUd0WHBnbzBseDVPd0I1T3dtck1BZXNWc0Y0eGVUQ3ltOGg0TmNQbFVpMmpKMFpwTHpHc0lsakQwVnVuN29TRmJoUzh4RjR6aW8zUlozOXAzUU5IVVlOeGc9PSZjb250ZXh0VHlwZT1ub25lJmlkPTU3NTQxNDkiLCJhY2NvdW50X2lkIjoyMDgyMzExLCJjb250ZW50X2lkIjoiZnRhX2NuYVNfZGFzaF90dl9kcm0iLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TVRRM2ZFY3hWbG9OUnRwSEZURE1TVGR5bU5yaFN6NHJjaEZELXpzTW10MkdUVXJDenNLZGxpRU12WDJtQ3V2VjJrNHY1YWI2V2xPWE44MkxDWl9OemxBSGlCRTdlaWh2SWRham9wR2RVX2xRSmlQSEJfMEJvZUVabzg3QVgyOVJvNnN1SjA3UmVoSG5qVlNwZG42aUZDTXY3bmx0QXVVcndqRWtRLTVEcHhIMlB4UGJXemZEVUoxZ1diUUtDZWQ1RTNtNnZ6amdRRVREMVMzbVBXdzZWQ3E3SUhNWVRDa3NZcjZTWjRpN0xEeVJPNUd0WHBnbzBseDVPd0I1T3dtck1BZXNWc0Y0eGVUQ3ltOGg0TmNQbFVpMmpKMFpwTHpHc0lsakQwVnVuN29TRmJoUzh4RjR6aW8zUlozOXAzUU5IVVlOeGc9PSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjE0N30%3d&signature=MLwEMXD%2bV%2fLnsZdBV%2bB2lgnSOMc%3d
 #EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" group-title="Mediacorp SG" tvg-id="Channel NewsAsia HD" tvg-chno="CNA" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format=%27png%27&Quality=85&ImageId=%271776042%27&EntityType=%27Item%27&EntityId=%2797072%27&Width=78&Height=96&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",CNA
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/197985/assetType/media/assetFileId/5754149/contextType/PLAYBACK/isAltUrl/False/a.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZENThHTWNLTzhtT1N3UFdFQnIwRUJXQjBZOUg5SV95YWRaN1lNZUhrWHc3VklOZWt2ZUVSdkFheW1KRG9aQlNoMmJraWJreDBQYTlKTU1EQW1na0FTVjFuWTR4QWdZZWRkZXFCaVNRSWxhQ1ZHWUtYNTVtb2VvcGRGTTNud3dNT2UycVFvUF9JV1JCT2lPc3BFWVNWWGR2UHRYRFlwUEFXMEx0bmRVVFBWajhPbjl5cVN5dXRfaVBIMXVadi1td0JWdWtwWHNZNHJaRVZQdmlBbjlVTHNuODBjdzUtZHZxSHBFa1YxQUJZbmFibmpJVlZjVW1xV1hqV2lvVTdpMWlvWTQtdHI4RGM2LW1jajJuWC1uSFJhemhnTTdoYWh5b3hQNjNVcWRHenRSRCZjb250ZXh0VHlwZT1ub25lJmlkPTU3NTQwNjYiLCJhY2NvdW50X2lkIjoyMDgyMzExLCJjb250ZW50X2lkIjoiZnRhX3N1cmlhX2Rhc2hfdHZfZHJtIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE1UUTNmRDU4R01jS084bU9Td1BXRUJyMEVCV0IwWTlIOUlfeWFkWjdZTWVIa1h3N1ZJTmVrdmVFUnZBYXltSkRvWkJTaDJia2lia3gwUGE5Sk1NREFtZ2tBU1Yxblk0eEFnWWVkZGVxQmlTUUlsYUNWR1lLWDU1bW9lb3BkRk0zbnd3TU9lMnFRb1BfSVdSQk9pT3NwRVlTVlhkdlB0WERZcFBBVzBMdG5kVVRQVmo4T245eXFTeXV0X2lQSDF1WnYtbXdCVnVrcFhzWTRyWkVWUHZpQW45VUxzbjgwY3c1LWR2cUhwRWtWMUFCWW5hYm5qSVZWY1VtcVdYaldpb1U3aTFpb1k0LXRyOERjNi1tY2oyblgtbkhSYXpoZ003aGFoeW94UDYzVXFkR3p0UkQiLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjoxNDd9&signature=h6P7yLWIJQZh2c4nzCNPQHBz3KA%3d
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZKM1pITW5GSXBWZlJkNFZMN1NsN05ta0FoMUktelVZaTd0SUR2X1dFTG1BUWRyZTBQTmlraXBVdUlsaV9xY0lVX1dnN2FFSTE3eUE4bXBGcS1LaG9oYUpuN0V6UVM2a0xtU0ZXSUlYczQtOVpKLUd0MjVWY3hoSDFJQndvNzl0U1BSakV0c3d5NDREbERhQkpLQ1FEd2RFSmxTcGlkZEN3WmFnNzBLbEp5LVdXRnM5eTFKTTdYUjN2Vkxkc0htZEpqQmV0a0wxR2E1ZVFiRDAxM0dMU0tHbDJzUWQyenpWLTAzY1VKT0M2RHE0bmFUUG1MS0xzLVJJU3k2NEYtbTVicVB4WXdFT3ZHWmlnRjNselZHU0Jjc0JfOHoyRmthWlI5RW1GelV6QjZzbDB0QWpXeW83YVUwclMwSW04SGJTR2xOaE9UV2pvbGlVUHFPVHhnLV9ybzQ9JmNvbnRleHRUeXBlPW5vbmUmaWQ9NTc1NDA2NiIsImFjY291bnRfaWQiOjIwODIzMTEsImNvbnRlbnRfaWQiOiJmdGFfc3VyaWFfZGFzaF90dl9kcm0iLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TVRRM2ZKM1pITW5GSXBWZlJkNFZMN1NsN05ta0FoMUktelVZaTd0SUR2X1dFTG1BUWRyZTBQTmlraXBVdUlsaV9xY0lVX1dnN2FFSTE3eUE4bXBGcS1LaG9oYUpuN0V6UVM2a0xtU0ZXSUlYczQtOVpKLUd0MjVWY3hoSDFJQndvNzl0U1BSakV0c3d5NDREbERhQkpLQ1FEd2RFSmxTcGlkZEN3WmFnNzBLbEp5LVdXRnM5eTFKTTdYUjN2Vkxkc0htZEpqQmV0a0wxR2E1ZVFiRDAxM0dMU0tHbDJzUWQyenpWLTAzY1VKT0M2RHE0bmFUUG1MS0xzLVJJU3k2NEYtbTVicVB4WXdFT3ZHWmlnRjNselZHU0Jjc0JfOHoyRmthWlI5RW1GelV6QjZzbDB0QWpXeW83YVUwclMwSW04SGJTR2xOaE9UV2pvbGlVUHFPVHhnLV9ybzQ9IiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MTQ3fQ%3d%3d&signature=Vk6gCMWdZBMWbEcGMjKlETplzKc%3d
 #EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" group-title="Mediacorp SG" tvg-id="Suria HD" tvg-chno="Suria" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format=%27png%27&Quality=85&ImageId=%271375229%27&EntityType=%27Item%27&EntityId=%2797084%27&Width=300&Height=300&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Suria
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/237652/assetType/media/assetFileId/5754066/contextType/PLAYBACK/isAltUrl/False/a.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZFaFFQWV9MTGdURk1YTUFrd2RSS1B4aFFHaTlQTFdjWGJTOUdYZEw0aTR4M1FrNU16SGR5Ykp1NXNYZnJZcnVXaVEwZXhYdE4zMFI0RDNXQjBNYzNnbXNtNGRVMjVhR3hTdHNyYU5vbHA2S0pvVk1lam5ScG1OWnZ6czZSb2c5SUpHd2Vod1htN29QUzJkSjR2TlFfbHdKVklfZ1VWRk9fRGR4em9kblFBVjV5cXhkakN1VE1QbmhGX0JJdXI4T0Y3MEJzU21jUWUzb1pmTW0zNGxUdXVsWGE3Mm0xMDh3NEp5TFp2dWlBQjlOd3BtUWxBQkU4cFc5Y2NERHJCVFN1ZVdoamFlbk9jUnU3QjBPeG9YeEw2eThTOTFtaXdrcEp3MFRyWm1pSUpPQkNlWDMybldzYWVFZ3JKVWl1b3lKcXlyRmw4dTQzeGVDNU9mbGxRaVFfYW89JmNvbnRleHRUeXBlPW5vbmUmaWQ9NTc1NDEwOCIsImFjY291bnRfaWQiOjIwODIzMTEsImNvbnRlbnRfaWQiOiJmdGFfdmFzYW50aGFtX2Rhc2hfdHZfZHJtIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE1UUTNmRWhRUFlfTExnVEZNWE1Ba3dkUktQeGhRR2k5UExXY1hiUzlHWGRMNGk0eDNRazVNekhkeWJKdTVzWGZyWXJ1V2lRMGV4WHROMzBSNEQzV0IwTWMzZ21zbTRkVTI1YUd4U3RzcmFOb2xwNktKb1ZNZWpuUnBtTlp2enM2Um9nOUlKR3dlaHdYbTdvUFMyZEo0dk5RX2x3SlZJX2dVVkZPX0RkeHpvZG5RQVY1eXF4ZGpDdVRNUG5oRl9CSXVyOE9GNzBCc1NtY1FlM29aZk1tMzRsVHV1bFhhNzJtMTA4dzRKeUxadnVpQUI5TndwbVFsQUJFOHBXOWNjRERyQlRTdWVXaGphZW5PY1J1N0IwT3hvWHhMNnk4UzkxbWl3a3BKdzBUclptaUlKT0JDZVgzMm5Xc2FlRWdySlVpdW95SnF5ckZsOHU0M3hlQzVPZmxsUWlRX2FvPSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjE0N30%3d&signature=xQVZxbXwghO0FcuSPaPofyKPF3Y%3d
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZPeHV6N2hwMUNiMl9uM004djc3TUJUTDZxVElMVWhjZEJtckRqOXRNTmtSVU1VdkNCc0FDS3h2b2hvcGFXLUt3UUVUWHFha0ljdVNVY3NxM1RyTmp3Tk1tYU5rWmRaWHl2bUtITXJFcFRNdDdpanBZV01oM0VvbTREM29TVmNrVlhKR29kRU1kTndfWVJjSEIxelZNbWI2MHJ5elAxeGNvY09WNjQ5dlJfaVp3Y2daZVFQSWNBcHpQUWRrc2lPckl0MThwdW9NOGRWQldicWtiZExzWGxTc001dGpkX3Z2bHQ3NVd2NDlpM2lTZjBlRDhoWTVZSm5OdDFkVmVBempqQVBUc1BFdWRnOHNtQ2d0c3hwVWd5MmZhVGVEbWVDSHBYX3k0QzZ1MmZyNFZaUVdUU2FxeERuQXNXSGV3emVGcTRnaFpHbXB0YTJ5czlBMUxka20xM0k9JmNvbnRleHRUeXBlPW5vbmUmaWQ9NTc1NDEwOCIsImFjY291bnRfaWQiOjIwODIzMTEsImNvbnRlbnRfaWQiOiJmdGFfdmFzYW50aGFtX2Rhc2hfdHZfZHJtIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE1UUTNmT3h1ejdocDFDYjJfbjNNOHY3N01CVEw2cVRJTFVoY2RCbXJEajl0TU5rUlVNVXZDQnNBQ0t4dm9ob3BhVy1Ld1FFVFhxYWtJY3VTVWNzcTNUck5qd05NbWFOa1pkWlh5dm1LSE1yRXBUTXQ3aWpwWVdNaDNFb200RDNvU1Zja1ZYSkdvZEVNZE53X1lSY0hCMXpWTW1iNjByeXpQMXhjb2NPVjY0OXZSX2lad2NnWmVRUEljQXB6UFFka3NpT3JJdDE4cHVvTThkVkJXYnFrYmRMc1hsU3NNNXRqZF92dmx0NzVXdjQ5aTNpU2YwZUQ4aFk1WUpuTnQxZFZlQXpqakFQVHNQRXVkZzhzbUNndHN4cFVneTJmYVRlRG1lQ0hwWF95NEM2dTJmcjRWWlFXVFNhcXhEbkFzV0hld3plRnE0Z2haR21wdGEyeXM5QTFMZGttMTNJPSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjE0N30%3d&signature=6gshvBDUgMfpvfL0OqzQi139m5c%3d
 #EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" group-title="Mediacorp SG" tvg-id="Vasantham HD" tvg-chno="Vasantham" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format=%27png%27&Quality=85&ImageId=%271776032%27&EntityType=%27Item%27&EntityId=%2797096%27&Width=129&Height=63&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Vasantham
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/237653/assetType/media/assetFileId/5754108/contextType/PLAYBACK/isAltUrl/False/a.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZBYXFKLTdXc1dPdWN6ZXBVZWYtSjMwd3BoX1I1cXU2SDgxVnRJRng4RHpIVU9FZnNwYVdQWktrOVhCeTJpZXlWZEk2S2J5ZE5Ub3pmNlI0bUxZQjZmVUtkbThwWWU5YTZIWWJnUFh5bUo5bnRaWWRxcHFveTlTMGR0dEJrbFRBOEdXYTNobWlDeVZWbjhlT2w3ZXBpRHk0aXZZblhhWkQ4Sm9TNHRWZzhCTTJqNW1fUEVBTjNINVFTMWpqUTJxeTkta2k3QUw4cTNNSllsY3hqb3BnSnVhaV9OR09KRVpUWGRtaW5lYVZnRm1hb19sV1BuMlNLOXpzeTJoN2g4NkhsdGdpTFJxT1dqYXM2YkY2a0x2VUpJVUtUOGs4ZElJWXdxVm9pTkZyYTRPUkp3RmduU2k3eWR4dHN4OEUyc2l5VFhCSUlnMkQ0eEt5OC10MGk3TnA2NnM9JmNvbnRleHRUeXBlPW5vbmUmaWQ9MTIzNjYzMjAiLCJhY2NvdW50X2lkIjoyMDgyMzExLCJjb250ZW50X2lkIjoiYWRob2Nfb2t0b2xpZGF5c19kYXNoX3R2X2RybSIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNVFEzZkFhcUotN1dzV091Y3plcFVlZi1KMzB3cGhfUjVxdTZIODFWdElGeDhEekhVT0Vmc3BhV1BaS2s5WEJ5MmlleVZkSTZLYnlkTlRvemY2UjRtTFlCNmZVS2RtOHBZZTlhNkhZYmdQWHltSjludFpZZHFwcW95OVMwZHR0QmtsVEE4R1dhM2htaUN5VlZuOGVPbDdlcGlEeTRpdlluWGFaRDhKb1M0dFZnOEJNMmo1bV9QRUFOM0g1UVMxampRMnF5OS1raTdBTDhxM01KWWxjeGpvcGdKdWFpX05HT0pFWlRYZG1pbmVhVmdGbWFvX2xXUG4yU0s5enN5Mmg3aDg2SGx0Z2lMUnFPV2phczZiRjZrTHZVSklVS1Q4azhkSUlZd3FWb2lORnJhNE9SSndGZ25TaTd5ZHh0c3g4RTJzaXlUWEJJSWcyRDR4S3k4LXQwaTdOcDY2cz0iLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjoxNDd9&signature=9WGT9UyjZ6bcGjiOR9P27FjDFrU%3d
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZDZUtSQm5Pc0RqMXljVm1CT2UwQWw5U3JCMWFNcG5NcXpyLXI4R0ZGSmlaV1o2d09tYnRzS0xzWmNIdTliZXgyYVBpSWlDdGJvME81WHl1X08zWU4wZEVPaWJiSDRGUkVnQ3JCbVBKMklCdFVoV0lNaXdmUGZuUjVmcjNHZ1VYMlA4YTVoTmQtLXdLNlFzZHFsUlpyY0YzcEpnQWFJbk5CaGJvTm1fdTR2czhrMUs2eUp6TDVxXy1kemp4eUwydm1lOTBHTjBjWmZmV0RKb0hOaHR6Mk94cHNNX05kSE1DakdCdVpncGZBZUEtaXExME01Zmk3bmFia3NfR2RyVkFwX0JBM0lZSDZfTS1GSXhaX1VELXZWNkFOT3RNY3J0QzFwYVo4Tjk3c3J1MUdXT193UGQxTG5Db0VQZlZ6akoxbUw0N1Z6Qko5a3ZOYkF0NHdmTm1lWm89JmNvbnRleHRUeXBlPW5vbmUmaWQ9MTIzNjYzMjAiLCJhY2NvdW50X2lkIjoyMDgyMzExLCJjb250ZW50X2lkIjoiYWRob2Nfb2t0b2xpZGF5c19kYXNoX3R2X2RybSIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNVFEzZkNlS1JCbk9zRGoxeWNWbUJPZTBBbDlTckIxYU1wbk1xenItcjhHRkZKaVpXWjZ3T21idHNLTHNaY0h1OWJleDJhUGlJaUN0Ym8wTzVYeXVfTzNZTjBkRU9pYmJINEZSRWdDckJtUEoySUJ0VWhXSU1pd2ZQZm5SNWZyM0dnVVgyUDhhNWhOZC0td0s2UXNkcWxSWnJjRjNwSmdBYUluTkJoYm9ObV91NHZzOGsxSzZ5SnpMNXFfLWR6anh5TDJ2bWU5MEdOMGNaZmZXREpvSE5odHoyT3hwc01fTmRITUNqR0J1WmdwZkFlQS1pcTEwTTVmaTduYWJrc19HZHJWQXBfQkEzSVlINl9NLUZJeFpfVUQtdlY2QU5PdE1jcnRDMXBhWjhOOTdzcnUxR1dPX3dQZDFMbkNvRVBmVnpqSjFtTDQ3VnpCSjlrdk5iQXQ0d2ZObWVabz0iLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjoxNDd9&signature=RnIy%2bKx83IzVtvdfgFLUlwf55TA%3d
 #EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" group-title="Mediacorp SG" tvg-id="oktolidays.sg" tvg-chno="oktolidays.sg" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format='png'&Quality=85&ImageId='4132072'&EntityType='Item'&EntityId='258705'&Width=237&Height=237&ResizeAction='fill'&HorizontalAlignment='center'&VerticalAlignment='top'",Oktolidays
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/879237/assetType/media/assetFileId/12366320/contextType/PLAYBACK/isAltUrl/False/a.mpd
 <======================= Japan Channel ===============================================>
@@ -1536,7 +1537,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
 #EXTINF:-1 group-title="Local Channels" tvg-id="JTV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium4.xml" tvg-logo="https://static.mncnow.id/images/channel/9e658daa/252e_r32.jpg",JTV
 https://nyanv-live-cdn.mncnow.id/live/eds/JTV/sa_dash/JTV.mpd
 
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 group-title="Local Channels" tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://wiki.edunitas.com/_sepakbola/_baca_image.php?td=21&kodegb=200px-Kilisuci_TV.png",Kilisuci TV Kediri
 https://5bf7b725107e5.streamlock.net:443/kstv/kstv/playlist.m3u8
@@ -1677,13 +1677,11 @@ https://63b2dc7196c38.streamlock.net:1937/ch30/myStream/chunklist_w38627436.m3u8
 
 
 <======================= Internet Radio ===============================>
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTINF:-1  tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="http://p2k.unkris.ac.id/_sepakbola/_baca_image.php?td=12&kodegb=SSFM_Logo.png" group-title="Internet Radio",Suara Surabaya FM
-https://ssfm.siar.us/ssfm/live/playlist.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTINF:-1  tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/ea/IRadio_%282012%29.png/400px-IRadio_%282012%29.png" group-title="Internet Radio",iRadio
-http://stream.radiojar.com/4ywdgup3bnzuv
+KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTINF:-1  tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://thumbor.prod.vidiocdn.com/R0mWvffZYl2qD_SdG_nvMX_ZZMM=/filters:quality(70)/vidio-web-prod-channel/uploads/channel/image/236/musica-s-channel-6ec660.jpg" group-title="Internet Radio",MUSIKA
+https://srtv.my.id/vd/play.m3u8?id=7619&type=hls
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9Yvj1ch/nagaswara.png"  group-title="Internet Radio",Nagaswara POP
@@ -1694,8 +1692,204 @@ https://nagaswara-pop.fiqriaw8.workers.dev/stream/nagaswarafmbgr/master.m3u8
 https://nagaswarakoplo.fiqriaw8.workers.dev/stream/nagaswarafmbgr/master.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1  tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="http://p2k.unkris.ac.id/_sepakbola/_baca_image.php?td=12&kodegb=SSFM_Logo.png" group-title="Internet Radio",Suara Surabaya FM
+https://ssfm.siar.us/ssfm/live/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTINF:-1  tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/ea/IRadio_%282012%29.png/400px-IRadio_%282012%29.png" group-title="Internet Radio",iRadio
+https://srtv.my.id/vd/play.m3u8?id=7057&type=hls
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1  tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/Nagaswara-FM-Cirebon.png" group-title="Internet Radio",Nagaswara FM
 https://live.nagaswarafm.com:9900/stream
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTINF:-1  tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/c1/HARDROCK-FM-JAKARTA.png" group-title="Internet Radio",Hardrock FM
+https://srtv.my.id/vd/play.m3u8?id=7053&type=hls
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTINF:-1  tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://bravaradio.com/wp-content/uploads/2019/06/small-brava-logo.png" group-title="Internet Radio",Brava FM
+https://srtv.my.id/vd/play.m3u8?id=7054&type=hls
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTINF:-1  tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/Trax-banner-atas-website.png/revision/latest?cb=20230714191818" group-title="Internet Radio",Trax FM Jakarta
+https://srtv.my.id/vd/play.m3u8?id=7055&type=hls
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTINF:-1  tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Cosmopolitan_FM.png/revision/latest?cb=20200208064253" group-title="Internet Radio",Cosmoplitan FM
+https://srtv.my.id/vd/play.m3u8?id=7056&type=hls
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTINF:-1  tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Gajahmada_3.png" group-title="Internet Radio",Gajahmada FM
+https://srtv.my.id/vd/play.m3u8?id=7284&type=hls
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTINF:-1  tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f5/Bahana_FM.png/revision/latest/scale-to-width-down/200?cb=20190615155625" group-title="Internet Radio",Bahana FM
+https://srtv.my.id/vd/play.m3u8?id=7091&type=hls
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTINF:-1  tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/da/DeltaFMLogo.png/revision/latest/scale-to-width-down/1200?cb=20230623100317" group-title="Internet Radio",Delta FM
+https://srtv.my.id/vd/play.m3u8?id=7092&type=hls
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTINF:-1  tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/c/cd/Logo_FeMale_2019.png/799px-Logo_FeMale_2019.png" group-title="Internet Radio",Female FM
+https://srtv.my.id/vd/play.m3u8?id=7130&type=hls
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTINF:-1  tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://4.bp.blogspot.com/-D58NuNv4-j4/W_9p8uqDCMI/AAAAAAAAFto/C1C_oeyPOyEIqzp3FE3fXgrzY7qm1LYfgCLcBGAs/s1600/Radio%2BJiz%2BFM%2BJogja.png" group-title="Internet Radio",Jiz FM
+https://srtv.my.id/vd/play.m3u8?id=7792&type=hls
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTINF:-1  tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://elshinta.com/asset/upload/img/radio_elshinta.png" group-title="Internet Radio",ElShinta FM
+https://srtv.my.id/vd/play.m3u8?id=7166&type=hls
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTINF:-1  tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://www.radioelgangga.com/wp-content/uploads/2023/03/cropped-Logo-Elgangga-1.png" group-title="Internet Radio",Elgangga FM
+https://srtv.my.id/vd/play.m3u8?id=7169&type=hls
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTINF:-1  tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://elmitra95fm.com/wp-content/uploads/2022/12/logo-elmitra-min.png" group-title="Internet Radio",Elmitra FM
+https://srtv.my.id/vd/play.m3u8?id=7170&type=hls
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTINF:-1  tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://cdn-radiotime-logos.tunein.com/s24935d.png" group-title="Internet Radio",Ardan FM Bandung
+https://srtv.my.id/vd/play.m3u8?id=7184&type=hls
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTINF:-1  tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://www.mgtradio.com/wp-content/uploads/2019/04/MGT-Headphone-170x170.jpg" group-title="Internet Radio",MGT FM Bandung
+https://srtv.my.id/vd/play.m3u8?id=7188&type=hls
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTINF:-1  tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/37/Geronimo-Logo.jpg" group-title="Internet Radio",Geronimo FM
+https://srtv.my.id/vd/play.m3u8?id=7216&type=hls
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTINF:-1  tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/2/2f/Logo_Sushi_FM.jpg/640px-Logo_Sushi_FM.jpg" group-title="Internet Radio",Sushi FM Padang
+https://srtv.my.id/vd/play.m3u8?id=7218&type=hls
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTINF:-1  tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://thumbor.prod.vidiocdn.com/_6vjQwcdB-_c9NJ_CbVIyZMT0Ts=/640x360/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7685/paramuda-fm-5a8478.jpg" group-title="Internet Radio",Paramuda FM Bandung
+https://srtv.my.id/vd/play.m3u8?id=7685&type=hls
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTINF:-1  tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://static.mytuner.mobi/media/radios-150px/fwMnjsLxJM.png" group-title="Internet Radio",Dahlia FM Bandung
+https://srtv.my.id/vd/play.m3u8?id=7242&type=hls
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTINF:-1  tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://swaragamafm.com/wp-content/uploads/2016/04/rsz_11logo.png" group-title="Internet Radio",Swaragama Jogja
+https://srtv.my.id/vd/play.m3u8?id=7248&type=hls
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTINF:-1  tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://radioimeldafm.co.id/wp-content/uploads/2023/09/cropped-IMELDA-e1694394901910.png" group-title="Internet Radio",Imelda FM
+https://srtv.my.id/vd/play.m3u8?id=7281&type=hls
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTINF:-1  tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/dj8mdtherbja.jpg" group-title="Internet Radio",Swara Semarang
+https://srtv.my.id/vd/play.m3u8?id=7283&type=hls
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTINF:-1  tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://images.noiceid.cc/catalog/content-1636106414484.jpg" group-title="Internet Radio",Cakra FM Bandung
+https://srtv.my.id/vd/play.m3u8?id=7297&type=hls
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTINF:-1  tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://www.radio.net/images/broadcasts/9b/ff/21342/c300.png" group-title="Internet Radio",Rama FM Bandung
+https://srtv.my.id/vd/play.m3u8?id=7684&type=hls
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTINF:-1  tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://new-asset.cdn.svara.id/thumb/unsafe/300x300/svara-radio-logo/cdmz47811ndg008x78d0.p1000x1000.png" group-title="Internet Radio",GEN FM Jakarta
+https://srtv.my.id/vd/play.m3u8?id=7443&type=hls
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTINF:-1  tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://new-asset.cdn.svara.id/thumb/unsafe/300x300/svara-radio-logo/cdmz47811ndg008x78d0.p1000x1000.png" group-title="Internet Radio",GEN FM Surabaya
+https://srtv.my.id/vd/play.m3u8?id=7446&type=hls
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTINF:-1  tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/81/Logo_Kis951FM_%282017%29.png" group-title="Internet Radio",Kis FM
+https://srtv.my.id/vd/play.m3u8?id=7445&type=hls
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTINF:-1  tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://thumbor.prod.vidiocdn.com/32upIz2tUkGoTzzKw4gf3-dekvQ=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7447/test-radio-mustang-fm-cca93a.jpg" group-title="Internet Radio",Mustang FM
+https://srtv.my.id/vd/play.m3u8?id=7447&type=hls
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTINF:-1  tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://new-asset.cdn.svara.id/thumb/unsafe/300x300/svara-radio-logo/cdmz618h93s0008ax2kg.p1000x1000.png" group-title="Internet Radio",HOT FM
+https://srtv.my.id/vd/play.m3u8?id=7448&type=hls
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTINF:-1  tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/b7/LogoJak101FM.png" group-title="Internet Radio",JAK FM
+https://srtv.my.id/vd/play.m3u8?id=7449&type=hls
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTINF:-1  tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/de/MOSTRadio_Logo.png" group-title="Internet Radio",MOST FM
+https://srtv.my.id/vd/play.m3u8?id=7450&type=hls
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTINF:-1  tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://thumbor.prod.vidiocdn.com/SwUxTZybNjVSJ-j9dVD3weST70s=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7004/prambors-on-air-b3cb5a.jpg" group-title="Internet Radio",Prambors FM
+https://srtv.my.id/vd/play.m3u8?id=7004&type=hls
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1  tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8b/OZ_Radio_bandung.png" group-title="Internet Radio",OZ Radio FM
@@ -1724,9 +1918,32 @@ http://stream.radiojar.com/9k28wsbu5k8uv
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1  tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/Smooth_fm_jkt.png/" group-title="Internet Radio",KISI FM Bogor
 https://svara-stream.radioddns.net:8443/jakarta_smoothfm_mp3
+<==================== Trial ================================>
 
-<====================================Trial =====================================>
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://logos-world.net/wp-content/uploads/2023/02/Premier-League-Logo.png" group-title="Sports",Premier League TV
+https://srtv.my.id/vd/play.m3u8?id=105&type=hls
+https://srtv.my.id/vd/play.m3u8?id=102&type=hls
+https://srtv.my.id/vd/play.m3u8?id=6838&type=hls
+https://srtv.my.id/vd/play.m3u8?id=6953&type=hls
+https://srtv.my.id/vd/play.m3u8?id=7250&type=hls
+https://srtv.my.id/vd/play.m3u8?id=7573&type=hls
+https://srtv.my.id/vd/play.m3u8?id=7290&type=hls
+https://srtv.my.id/vd/play.m3u8?id=7644&type=hls
+https://srtv.my.id/vd/play.m3u8?id=7636&type=hls
+https://srtv.my.id/vd/play.m3u8?id=7607&type=hls
+https://srtv.my.id/vd/play.m3u8?id=7585&type=hls
+https://srtv.my.id/vd/play.m3u8?id=8034&type=hls
+https://srtv.my.id/vd/play.m3u8?id=8117&type=hls
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="" group-title="Sports",LFC TV
+https://srtv.my.id/vd/play.m3u8?id=7916&type=hls
+https://srtv.my.id/vd/play.m3u8?id=7916&type=hls
 
 
 <====================================TMolsem Channels =====================================>
