@@ -12,6 +12,11 @@
 #EXTINF:-1 tvg-logo="https://images.supersport.com/media/bbwpa4rm/uefa-euro.png" group-title="Official Broadcaster EURO 2024",Rush Sports
 https://cors-proxy.elfsight.com/http://tv14s.xyz:8080/live/753468/894568/99568.ts
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N79wFxIV2HD9W7Vsq1AwxA", "kid":"58ZQrHLc0DEUEYMqgnG7EA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="808.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/SPOTV-STADIA.png" group-logo="" group-title="Official Broadcaster EURO 2024",SPOTV Stadia
+https://linearjitp-playback.astro.com.my/dash-wv/dashiso/5148/default_primary.mpd
+
 #EXTINF:-1 group-title="Official Broadcaster EURO 2024" tvg-id="sonyten1.in" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen1_HD.png",Sony Sports 1 HD
 https://colorsscreen.com/sliv/stream.php?id=sony-ten-1-hd&=.m3u8|Referer=https://colorsscreen.com/sliv/
 
