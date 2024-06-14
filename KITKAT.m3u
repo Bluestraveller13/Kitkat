@@ -3,6 +3,61 @@
 
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/indonesia.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml.gz,"https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,https://www.bevy.be/bevyfiles/unitedkingdom.xml" refresh="1440" max-conn="1" refresh="24"
 
+<====================================== LIVE EVENT EURO 2024 =====================================>
+
+
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-logo="https://images.supersport.com/media/bbwpa4rm/uefa-euro.png" group-title="Live Event Euro 2024",DigiSport 1
+https://cors-proxy.elfsight.com/http://gtvstreams.me:80/live/Tony15/Tony15/267419.ts
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-logo="https://images.supersport.com/media/bbwpa4rm/uefa-euro.png" group-title="Live Event Euro 2024",Supersport Football
+https://cors-proxy.elfsight.com/http://89.46.92.46:8080/play/live.php?mac=00:1A:79:1D:06:6D&stream=3344_&extension=ts
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-logo="https://images.supersport.com/media/bbwpa4rm/uefa-euro.png" group-title="Live Event Euro 2024",Supersport Live Event
+https://cors-proxy.elfsight.com/http://89.46.92.46:8080/play/live.php?mac=00:1A:79:1D:06:6D&stream=3338_&extension=ts
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-logo="https://images.supersport.com/media/bbwpa4rm/uefa-euro.png" group-title="Live Event Euro 2024",TSN 4
+https://cors-proxy.elfsight.com/http://89.46.92.46:8080/play/live.php?mac=00:1A:79:1D:06:6D&stream=132772&extension=ts
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-logo="https://images.supersport.com/media/bbwpa4rm/uefa-euro.png" group-title="Live Event Euro 2024",TSN 1
+https://cors-proxy.elfsight.com/http://89.46.92.46:8080/play/live.php?mac=00:1A:79:1D:06:6D&stream=132769&extension=ts
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-logo="https://images.supersport.com/media/bbwpa4rm/uefa-euro.png" group-title="Live Event Euro 2024",Sony Sports 1
+https://cors-proxy.elfsight.com/http://newlife3.wanicelife.com:8880/live/DAALM2417/XmSRhutE3r/55284.ts
+
+<=========================================================================================================================================>
+
+
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
@@ -507,7 +562,7 @@ https://melon-live-cdn.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
 http://premiumiptvmk.com:8080/e9cd5f24/079fd2c9/157597
 
 #EXTINF:-1 tvg-url="" tvg-id="HGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png" group-title="Knowledge & Documentary",HGTV 
-https://food-dlvr-ott.akamaized.net/primary/4/c20e615a33504bc7a227077cb102aef1/index_13.m3u8
+http://117tv.icu:8080/live/X5xRz0/944877/57273.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://www.dens.tv/images/channel-logo/1.jpg" group-title="Knowledge & Documentary",Dens Learning & Knowledge
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
