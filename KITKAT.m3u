@@ -735,7 +735,7 @@ http://117tv.icu:8080/live/X5xRz0/944877/108136.m3u8
 https://atemecdnbalancer-voe.sysln.id/live/eds/AFNHD/mpd/AFNHD.mpd
 
 #EXTINF:-1 tvg-id="TLCSoutheastAsia.sg" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://1000logos.net/wp-content/uploads/2020/08/TLC-Logo.png" group-title="Entertainment & LifeStyle",TLC
-http://toh-users.xyz:8080/42204120/16250164/856914
+https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/86.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-id="FoodNetworkAsia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/492px-Food_Network_New_Logo.png" group-title="Entertainment & LifeStyle",Food Network
 https://6oclock.xyz:8443/live//9rpAZwWZT9/zaGl252Y2w/12758.m3u8
@@ -1788,10 +1788,141 @@ http://stream.radiojar.com/9k28wsbu5k8uv
 #EXTINF:-1  tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/Smooth_fm_jkt.png/" group-title="Internet Radio",KISI FM Bogor
 https://svara-stream.radioddns.net:8443/jakarta_smoothfm_mp3
 
-#===================================================================================#
-#            AREA TRIAL                                                             #
-#                                                                                   #
-#===================================================================================#
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 <---------------------- Trial Sports ------------------------>
@@ -1807,6 +1938,36 @@ https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/211.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%277688744%27&EntityType=%27Item%27&EntityId=%27158969%27&Width=1920&Height=1080",SPOTV STADIA
 https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/235.m3u8
+
+
+#EXTINF:-1 group-title="Sports" tvg-id="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/2560px-Sky_Sport_F1_-_Logo_2020.svg.png" tvg-logo="",SkySport F1
+https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/129.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-id="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Sky_Sport_Tennis_HD.svg/2560px-Sky_Sport_Tennis_HD.svg.png" tvg-logo="",SkySport Tennis
+https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/136.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://seeklogo.com/images/B/bein-sports-logo-61C099EBD7-seeklogo.com.png",BeinSport 1
+https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/172.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://seeklogo.com/images/B/bein-sports-logo-61C099EBD7-seeklogo.com.png",BeinSport 2
+https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/173.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://seeklogo.com/images/B/bein-sports-logo-61C099EBD7-seeklogo.com.png",BeinSport 3
+https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/174.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://w7.pngwing.com/pngs/29/138/png-transparent-eurosport-1-eurosport-2-television-logo-euro-miscellaneous-television-blue.png",Eurosport 1
+https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/182.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://w7.pngwing.com/pngs/29/138/png-transparent-eurosport-1-eurosport-2-television-logo-euro-miscellaneous-television-blue.png",Eurosport 2
+https://sgn.play-hometv.my.id:443/Sugeng/msY9yqKyrR/183.m3u8
+
+
+
+
+
+
+
+
 
 
 <==================================== Trial Vidio ====================================>
