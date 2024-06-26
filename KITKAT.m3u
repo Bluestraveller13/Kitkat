@@ -1058,22 +1058,22 @@ https://melon-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 #EXTINF:-1 tvg-id="Fight Sports - [Channel 304].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/150x150fightsport.jpg" group-title="Sports",Fight Sports
 https://melon-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="Sports",Astro Supersport 1
+#EXTINF:-1 tvg-id="Astro SuperSport HD.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="Sports",Astro Supersport 1
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 #EXTVLCOPT:network-caching=1000
 http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1722
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Astro_ASSP2.png" group-title="Sports",Astro Supersport 2
+#EXTINF:-1 tvg-id="Astro SuperSport 2 HD.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Astro_ASSP2.png" group-title="Sports",Astro Supersport 2
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 #EXTVLCOPT:network-caching=1000
 http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1721
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png" group-title="Sports",Astro Supersport 3
+#EXTINF:-1 tvg-id="Astro SuperSport 3 HD.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png" group-title="Sports",Astro Supersport 3
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 #EXTVLCOPT:network-caching=1000
 http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1720
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png" group-title="Sports",Astro Supersport 4
+#EXTINF:-1 tvg-id="Astro SuperSport 4 HD.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png" group-title="Sports",Astro Supersport 4
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 #EXTVLCOPT:network-caching=1000
 http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1719
@@ -1084,9 +1084,6 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/3f1wr61du22up80/motorvision.png" group-title="Sports", Motorvision TV
 https://ov.ottera.tv/live/master1500000.m3u8;session=mvg_mv
-
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/816/534/png-transparent-world-fishing-network-fly-fishing-on-the-water-angling-fishing-television-text-orange.png" group-title="Sports", CA: World Fishing Network
-http://117tv.icu:8080/live/X5xRz0/944877/57471.m3u8
 
 <====================== News ========================>
 
@@ -1296,6 +1293,9 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
 #EXTINF:-1 tvg-id="AstroAwani.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Astro_Awani.png" group-title="Malaysia",Astro Awani
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
 
+#EXTINF:-1 tvg-id="BERNAMA.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Bernama_TV.png/506px-Bernama_TV.png" group-title="Malaysia",Bernama TV
+https://raw.githubusercontent.com/warningfm/utubeLive/main/Bernama.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTINF:-1 group-title="Malaysia" tvg-id="" tvg-logo="https://i.postimg.cc/wBFj2rLb/download-2024-01-19-T210746-192.png",Travel&Taste 
@@ -1321,14 +1321,8 @@ https://4940c5f69db24a558151436f708d5a69.mediatailor.ap-southeast-1.amazonaws.co
 #EXTINF:-1 group-title="Malaysia" tvg-id="" tvg-logo="https://i.postimg.cc/8CyTM6g2/download-2024-01-19-T210600-559.png",Drama Hebat
 https://ce2388031147403ca25a81e56607a193.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_1_Ad/dash.mpd?aws.sessionId=44e175e1-eb16-4e7c-8aaa-e04e865974e9
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Astro_Ria_HD.png" group-title="Malaysia" ,Astro Ria MY
-https://bit.ly/3VhubWo
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/Astro_Warna_HD.png" group-title="Malaysia" ,Astro Warna MY
-https://bit.ly/3yApKNA
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1a/Astro_Citra_HD.png" group-title="Malaysia" ,Astro Citra MY
-https://bit.ly/3wV6KJ2
 
 <============================== Brunei ======================================>
 
@@ -1715,6 +1709,111 @@ http://stream.radiojar.com/9k28wsbu5k8uv
 
 #EXTINF:-1  tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/Smooth_fm_jkt.png/" group-title="Internet Radio",KISI FM Bogor
 https://svara-stream.radioddns.net:8443/jakarta_smoothfm_mp3
+
+#EXTINF:-1 tvg-logo="https://iili.io/JmS5das.png" group-title="Internet Radio",Pro 3 RRI
+https://stream-node0.rri.co.id/streaming/14/9014/kbrn.mp3
+
+#EXTINF:-1 tvg-logo="https://iili.io/JmSaqtR.png" group-title="Internet Radio",Pro 1 RRI Kupang
+https://stream-node2.rri.co.id/streaming/13/9213/rrikupangpro1.mp3
+
+#EXTINF:-1 tvg-logo="https://iili.io/JmS0gRe.png" group-title="Internet Radio",Pro 4 RRI Kupang
+https://stream-node2.rri.co.id/streaming/13/9213/rrikupangpro4.mp3
+
+#EXTINF:-1 tvg-logo="https://iili.io/JmSaF9a.png" group-title="Internet Radio",Pro 1 RRI Ende
+https://stream-node1.rri.co.id/streaming/23/9223/rriendepro1.mp3
+
+#EXTINF:-1 tvg-logo="https://iili.io/JmSlTTG.png" group-title="Internet Radio",Pro 2 RRI Kupang
+https://stream-node2.rri.co.id/streaming/13/9213/rrikupangpro2.mp3
+
+#EXTINF:-1 tvg-logo="https://iili.io/JmSlzps.png" group-title="Internet Radio",Pro 2 RRI Jakarta
+https://stream-node1.rri.co.id/streaming/25/9025/rrijakartapro2.mp3
+
+#EXTINF:-1 tvg-logo="https://iili.io/JmSadcF.png" group-title="Internet Radio",Pro 1 RRI Surabaya
+https://stream-node0.rri.co.id/streaming/18/9018/rrisurabayapro1.mp3
+
+#EXTINF:-1 tvg-logo="https://iili.io/JmSlxvn.png" group-title="Internet Radio",Pro 2 RRI Surabaya
+https://stream-node0.rri.co.id/streaming/18/9018/rrisurabayapro2.mp3
+
+#EXTINF:-1 tvg-logo="https://iili.io/JmSanMN.png" group-title="Internet Radio",Pro 1 RRI Alor
+https://stream-node0.rri.co.id/streaming/41/9041/rrialorpro1.mp3
+
+#EXTINF:-1 tvg-logo="https://iili.io/JmSa28g.png" group-title="Internet Radio",Pro 1 RRI Atambua
+https://stream-node1.rri.co.id/streaming/25/9225/rriatambuapro1.mp3
+
+#EXTINF:-1 tvg-logo="https://iili.io/JmSaJF1.png" group-title="Internet Radio",Pro 1 RRI Bandung
+https://stream-node0.rri.co.id/streaming/15/9015/rribandungpro1.mp3
+
+#EXTINF:-1 tvg-logo="https://iili.io/JmSafwv.png" group-title="Internet Radio",Pro 1 RRI Jakarta
+https://stream-node1.rri.co.id/streaming/25/9025/rrijakartapro1.mp3
+
+#EXTINF:-1 tvg-logo="https://iili.io/JmSaCnp.png" group-title="Internet Radio",Pro 1 RRI Labuan Bajo
+https://stream-node2.rri.co.id/streaming/37/9337/rrilabuanbajopro1.mp3
+
+#EXTINF:-1 tvg-logo="https://iili.io/JmSaoPI.png" group-title="Internet Radio",Pro 1 RRI Makassar
+https://stream-node0.rri.co.id/streaming/22/9022/rrimakasarpro1.mp3
+
+#EXTINF:-1 tvg-logo="https://iili.io/JmSaIcX.png" group-title="Internet Radio",Pro 1 RRI Malang
+https://stream-node2.rri.co.id/streaming/18/9218/rrimalangpro1.mp3
+
+#EXTINF:-1 tvg-logo="https://iili.io/JmSazFt.png" group-title="Internet Radio",Pro 1 RRI Manado
+https://stream-node1.rri.co.id/streaming/40/9040/rrimanadopro1.mp3
+
+#EXTINF:-1 tvg-logo="https://iili.io/JmSaA9s.png" group-title="Internet Radio",Pro 1 RRI Rote
+https://stream-node0.rri.co.id/streaming/20/9120/rrirotepro1.mp3
+
+#EXTINF:-1 tvg-logo="https://iili.io/JmSaTSn.png" group-title="Internet Radio",Pro 1 RRI Sumba
+https://stream-node0.rri.co.id/streaming/41/9041/rrisumbapro1.mp3
+
+#EXTINF:-1 tvg-logo="https://iili.io/JmSloYX.png" group-title="Internet Radio",Pro 2 RRI Atambua
+https://stream-node1.rri.co.id/streaming/25/9225/rriatambuapro2.mp3
+
+#EXTINF:-1 tvg-logo="https://iili.io/JmSln2t.png" group-title="Internet Radio",Pro 2 RRI Bandung
+https://stream-node0.rri.co.id/streaming/15/9015/rribandungpro2.mp3
+
+#EXTINF:-1 tvg-logo="https://iili.io/JmSlB4I.png" group-title="Internet Radio",Pro 2 RRI Ende
+https://stream-node1.rri.co.id/streaming/23/9223/rriendepro2.mp3
+
+#EXTINF:-1 tvg-logo="https://iili.io/JmSlujf.png" group-title="Internet Radio",Pro 2 RRI Makassar
+https://stream-node0.rri.co.id/streaming/22/9022/rrimakasarpro2.mp3
+
+#EXTINF:-1 tvg-logo="https://iili.io/JmSlAQ4.png" group-title="Internet Radio",Pro 2 RRI Malang
+https://stream-node2.rri.co.id/streaming/18/9218/rrimalangpro2.mp3
+
+#EXTINF:-1 tvg-logo="https://iili.io/JmSl5Cl.png" group-title="Internet Radio",Pro 2 RRI Manado
+https://stream-node1.rri.co.id/streaming/40/9040/rrimanadopro2.mp3
+
+#EXTINF:-1 tvg-logo="https://iili.io/JmS0kf2.png" group-title="Internet Radio",Pro 4 RRI Ambon
+https://stream-node2.rri.co.id/streaming/15/9315/rriambonpro4.mp3
+
+#EXTINF:-1 tvg-logo="https://iili.io/JmS08U7.png" group-title="Internet Radio",Pro 4 RRI Bandung
+https://stream-node0.rri.co.id/streaming/15/9015/rribandungpro4.mp3
+
+#EXTINF:-1 tvg-logo="https://iili.io/JmS0Oil.png" group-title="Internet Radio",Pro 4 RRI Denpasar
+https://stream-node0.rri.co.id/streaming/21/9021/rridenpasarpro4.mp3
+
+#EXTINF:-1 tvg-logo="https://iili.io/JmS0UJ9.png" group-title="Internet Radio",Pro 4 RRI Jakarta
+https://stream-node1.rri.co.id/streaming/25/9025/rrijakartapro4.mp3
+
+#EXTINF:-1 tvg-logo="https://iili.io/JmS0rOu.png" group-title="Internet Radio",Pro 4 RRI Jayapura
+https://stream-node0.rri.co.id/streaming/23/9023/rrijayapurapro4.mp3
+
+#EXTINF:-1 tvg-logo="https://iili.io/JmS0Pxj.png" group-title="Internet Radio",Pro 4 RRI Makassar
+https://stream-node0.rri.co.id/streaming/22/9022/rrimakasarpro4.mp3
+
+#EXTINF:-1 tvg-logo="https://iili.io/JmS04Db.png" group-title="Internet Radio",Pro 4 RRI Malang
+https://stream-node2.rri.co.id/streaming/18/9218/rrimalangpro4.mp3
+
+#EXTINF:-1 tvg-logo="https://iili.io/JmS0iWx.png" group-title="Internet Radio",Pro 4 RRI Manado
+https://stream-node1.rri.co.id/streaming/40/9040/rrimanadopro4.mp3
+
+#EXTINF:-1 tvg-logo="https://iili.io/JmS0vlS.png" group-title="Internet Radio",Pro 4 RRI Surabaya
+https://stream-node0.rri.co.id/streaming/18/9018/rrisurabayapro4.mp3
+
+#EXTINF:-1 tvg-logo="https://iili.io/JmS5zFe.png" group-title="Internet Radio",Pro 5 RRI Makassar
+https://stream.streamaudio.de:8000/teststream3
+
+#EXTINF:-1 tvg-logo="https://iili.io/JmS5oP9.png" group-title="Internet Radio",Pro 5 RRI Surabaya
+https://stream-node1.rri.co.id/streaming/41/8941/chlima.mp3
 
 
 
