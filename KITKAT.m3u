@@ -300,7 +300,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016cdbfc4a1
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ms.mayvee.workers.dev/hbohd/license-proxy-widevine/cenc/?specConform=true
-#EXTVLCOPT:http-referrer=https://maxstream.tv/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(92c7b96a-33fc-4899-a032-50ae0fbc9257)/manifest.mpd
 
@@ -308,7 +308,7 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(92c7b96a-33fc
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ms.mayvee.workers.dev/hbohits/license-proxy-widevine/cenc/?specConform=true
-#EXTVLCOPT:http-referrer=https://maxstream.tv/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7e3ac8f2-3380-461a-976b-30bca8d939a0)/manifest.mpd
  
@@ -316,7 +316,7 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7e3ac8f2-3380
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ms.mayvee.workers.dev/hbofamily/license-proxy-widevine/cenc/?specConform=true
-#EXTVLCOPT:http-referrer=https://maxstream.tv/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(cec31cdd-d2ff-4c23-8a76-ad1c0ef025e2)/manifest.mpd
   
@@ -324,7 +324,7 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(cec31cdd-d2ff
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ms.mayvee.workers.dev/hbosign/license-proxy-widevine/cenc/?specConform=true
-#EXTVLCOPT:http-referrer=https://maxstream.tv/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(774b9a1e-aa1a-425b-8f24-f90d48787777)/manifest.mpd
 
@@ -332,7 +332,7 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(774b9a1e-aa1a
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ms.mayvee.workers.dev/cinemax/license-proxy-widevine/cenc/?specConform=true
-#EXTVLCOPT:http-referrer=https://maxstream.tv/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(4b9c9228-73c1-cb85-94a9-7fa84858b877)/manifest.mpd
 
@@ -369,11 +369,12 @@ https://melon-live-cdn.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alphastro supersporta
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 #EXTINF:-1 tvg-id="Rock Action - [Channel 248].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://static.mncnow.id/images/channel/b104eede/2fe8_r32.jpg" group-title="Premium Movies",Rock Action
-https://melon-live-cdn.mncnow.id/live/eds/Rockaction/sa_dash_vmx/Rockaction.mpd
+#https://melon-live-cdn.mncnow.id/live/eds/Rockaction/sa_dash_vmx/Rockaction.mpd
 
 #EXTINF:-1 tvg-id="Rock Action - [Channel 248].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://static.mncnow.id/images/channel/b104eede/2fe8_r32.jpg" group-title="Premium Movies",Rock Action
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-http://op-group1-swiftservehd-1.dens.tv/h/h218/index.m3u8
+#EXTVLCOPT:http-referrer=http://dens.tv
+http://op-group1-swiftservehd-1.dens.tv/h/h218/02.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -409,6 +410,9 @@ https://melon-live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPre
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 #EXTINF:-1 group-title="Premium Movies" tvg-id="Galaxy - [Channel 13].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xmlG" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1635233977-.png",Galaxy
 https://melon-live-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/queen/mce.png" group-title="Premium Movies",MCE HD
+http://210.210.155.35/session/0c29f2d2-dd99-11eb-a245-b82a72d63267/uq2663/h/h18/index.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -673,8 +677,11 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/DiscoveryAsiaHD/mpd/DiscoveryAsia
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"/3qJ8AimJmTl69ghGHKW0Q", "kid":"TT1wKYqPRC+d7nwRpHw+3w" } ], "type":"temporary" }
 https://atemecdnbalancer-voe.sysln.id/live/eds/HGTVHD/mpd/HGTVHD.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/ANIMALPLANET-OTT-88-HD.png" group-title="Knowledge & Documentary",Animal Planet
-https://inditv.openwindow042.workers.dev/https://cdn08jtedge.indihometv.com/dassdvr/194/animalplanet/manifest.mpd
+https://okegas.transvision.workers.dev/dassdvr/194/animalplanet/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -754,12 +761,16 @@ https://melon-live-cdn.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 #EXTINF:-1 tvg-id="Rock Entertainment - [Channel 240].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://static.mncnow.id/images/channel/72287d1c/3aef_r32.jpg" group-title="Entertainment & LifeStyle",Rock Entertainment
 #https://melon-live-cdn.mncnow.id/live/eds/Rockentertainment/sa_dash_vmx/Rockentertainment.mpd
-https://testfunctionlive.mncnow.id/live/eds/AFN-HD/sa_dash_vmx/AFN-HD.mpd
+#https://testfunctionlive.mncnow.id/live/eds/AFN-HD/sa_dash_vmx/AFN-HD.mpd
 
 #EXTINF:-1 tvg-id="Rock Entertainment - [Channel 240].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://static.mncnow.id/images/channel/72287d1c/3aef_r32.jpg" group-title="Entertainment & LifeStyle",Rock Entertainment
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-http://op-group1-swiftservehd-1.dens.tv/h/h213/index.m3u8
+#EXTVLCOPT:http-referrer=http://dens.tv
+http://op-group1-swiftservehd-1.dens.tv/h/h213/02.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
 #EXTINF:-1 group-title="Entertainment & LifeStyle" tvg-logo="https://images.indihometv.com/logo_hitsnow_ver1.png",Hits Now
 https://inditv.openwindow042.workers.dev/https://cdn08jtedge.indihometv.com/dassdvr/134/hitsnow/manifest.mpd
 
@@ -926,6 +937,12 @@ https://melon-live-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mp
 #EXTINF:-1 tvg-id="Zoomoo - [Channel 39].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_39.png" group-title="Kids",ZooMoo
 https://melon-live-cdn.mncnow.id/live/eds/Zoomoo/sa_dash_vmx/Zoomoo.mpd
 
+#EXTINF:-1 group-title="Kids" tvg-id="" tvg-logo="https://raw.githubusercontent.com/ghozitv/Playlist/main/LOGO.jpeg",ABC KIDS
+https://c.mjh.nz/abc-kids.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-id="" tvg-logo="https://raw.githubusercontent.com/ghozitv/Playlist/main/LOGO.jpeg",ABC ME
+https://c.mjh.nz/abc-me.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/-e5oOiMZ2zI/maxresdefault.jpg" group-title="Kids",Viva TV
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3 
 https://flv.intechmedia.net/live/ch107.m3u8
@@ -939,6 +956,9 @@ https://moonbug-rokuus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="PlutoTVDoraTV.us" tvg-name="Pluto TV Dora TV" tvg-country="US" tvg-language="English" tvg-logo="https://dl.dropboxusercontent.com/s/pu99ywa0k36z8nt/doratv.png" group-title="Kids",Dora TV
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fb6c84dd37df3b4290c5/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=985&deviceId=5d14fb6c84dd37df3b4290c5&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
 #EXTINF:-1 group-title="Kids" tvg-logo="https://images.indihometv.com/logo_mentaritv_small.png",Mentari TV
 https://inditv.openwindow042.workers.dev/https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 
@@ -2086,3 +2106,71 @@ http://117tv.icu:8080/live/X5xRz0/944877/1846.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/fox_sport.png" group-title="Sports",Fox Sports 2
 http://117tv.icu:8080/live/X5xRz0/944877/1847.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/TSN1.svg/2560px-TSN1.svg.png" group-title="Sports",TSN 1	
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://livecdn-iptv001.rumsport.com/stream/770/manifest.mpd
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/TSN2_New_Logo.svg/2560px-TSN2_New_Logo.svg.png" group-title="Sports",TSN 2	
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://livecdn-iptv001.rumsport.com/stream/771/manifest.mpd
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/TSN3.svg/2560px-TSN3.svg.png" group-title="Sports",TSN 3		
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://livecdn-iptv001.rumsport.com/stream/772/manifest.mpd
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/TSN4.svg/2560px-TSN4.svg.png" group-title="Sports",TSN 4	
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://livecdn-iptv001.rumsport.com/stream/773/manifest.mpd
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/TSN5.svg/2560px-TSN5.svg.png" group-title="Sports",TSN 5		
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://livecdn-iptv001.rumsport.com/stream/774/manifest.mpd
+
+#EXTINF:-1 group-title="Knowledge & Documentary" tvg-id="" tvg-logo="https://raw.githubusercontent.com/ghozitv/Playlist/main/LOGO.jpeg",NASA TV Media
+https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
+
+#EXTINF:-1 group-title="Knowledge & Documentary" tvg-id="" tvg-logo="https://raw.githubusercontent.com/ghozitv/Playlist/main/LOGO.jpeg",NASA TV Public
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+
+#EXTINF:-1 tvg-id="Arena Sport 1 HD.sk" tvg-logo="https://i.ibb.co.com/h2bcqhS/arenasp1sk.png" group-title="Sports", Arena Sport 1 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+https://dash2.antik.sk/stream/nvidia_arena_sport1/playlist_cenc.mpd
+
+
+#EXTINF:-1 tvg-id="Arena Sport 2 HD.sk" tvg-logo="https://i.ibb.co.com/v4pkr0Z/arenasp2sk.png" group-title="Sports",Arena Sport 2 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+https://dash2.antik.sk/stream/hisi_as2/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="Eurosport 1" tvg-logo="https://i.ibb.co.com/Qk3G5k3/eurosp1.png" group-title="Sports", EUROSPORT 1 
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://edge02.odtv.az/o7/eurosport/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-logo="https://i.ibb.co.com/ZcRh80Q/eurosp2.png" group-title="Sports", EUROSPORT 2 
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://edge02.odtv.az/o3/eurosport2/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
