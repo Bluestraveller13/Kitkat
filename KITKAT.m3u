@@ -2221,6 +2221,28 @@ http://iptvkita.my.id:25461/Ahmadjunaidi/29062024/2058
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1024px-TNT_Sports_2021_logo.svg.png" group-title="Sports",TNT Sport 4
 http://iptvkita.my.id:25461/Ahmadjunaidi/29062024/2059
 
+#EXTINF:-1 tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/d6c7024d16db400b834bbe14b51c5789/version/0" group-title="Sports" ,ASTRO ARENA 1
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3495
+
+#EXTINF:-1 tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/06026bebbc0e42eb8483e2c1a6c96f08/version/1" group-title="Sports" ,ASTRO ARENA 2
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3496
+
+#EXTINF:-1 tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/862489a719c64f3bbd894dbd5eb06c6b/version/1" group-title="Sports" ,ASTRO CRICKET
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3497
+
+#EXTINF:-1 tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/541416814a32457da86263874a8536e8/version/2" group-title="Sports" ,beIN SPORTS 1 MY
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3498
+
+#EXTINF:-1 tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/a71f8dc3fb554106ba93cf03af6d7499/version/1" group-title="Sports" ,beIN SPORTS 2 MY
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3499
+
+#EXTINF:-1 tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/a6eeadb42ec6443fb027e24d6180c790/version/1" group-title="Sports" ,beIN SPORTS 3 MY
+http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3500
+
+
+
+
+
 <===== Video On Demand ==========================>
 
 #EXTINF:-1 tvg-name="The Wages of Fear (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jFK2ZLQUzo9pea0jfMCHDfvWsx7.jpg" group-title="Video On Demand",The Wages of Fear (2024)
