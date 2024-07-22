@@ -1339,9 +1339,11 @@ http://38.47.189.134:1234/stream/astro/astroceria/master.m3u8?u=hometv&p=23661eb
 #EXTINF:-1 group-title="Malaysia" tvg-id="Awesome TV.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://1.bp.blogspot.com/-fQgaeJtm5ro/YauUAq5M_rI/AAAAAAAAILA/yryfWMlF2L4OgifiK5Z0q1i9ABMjf_o3wCNcBGAsYHQ/s720/awesome-p.png" , Awasome TV
 http://38.47.189.134:1234/stream/astro/awesometv/master.m3u8?u=hometv&p=23661ebec0d785b2f26aae81a86c556db678fb85bdb9ea2622297472ebaaa43d
 
-#EXTINF:-1 group-title="Malaysia" tvg-id="Astro Arena HD.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png" ,Astro Arena
+#EXTINF:-1 group-title="Malaysia" tvg-id="Astro Arena 2 HD.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png" ,Astro Arena
 http://38.47.189.134:1234/stream/astro/astroarena/master.m3u8?u=hometv&p=23661ebec0d785b2f26aae81a86c556db678fb85bdb9ea2622297472ebaaa43d
 
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Astro_Arena_2.png" group-title="Malaysia" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml",Astro Arena 2 
+http://filex.tv:8080/paramjeetsingh/002818/303496
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
