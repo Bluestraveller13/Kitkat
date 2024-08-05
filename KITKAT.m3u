@@ -3,24 +3,65 @@
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/indonesia.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml.gz,"https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" refresh="1440" max-conn="1" refresh="24"
 
 <============================ Olympics Paris 2024 ========================================>
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQXcQYGPRSFLkWWbbbTpUSzTLHl5S14OiNRA&usqp=CAU" group-title="Olympics Paris 2024", LIVE CH1
+http://mohdtv.com:8880/ALLChannels681def0cd665/80541753/60799
 
-#EXTINF:-1 group-title="Olympics Paris 2024" ch-number="991" tvg-id="991" tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=450x10000:format=png/path/s293f5a94d3403280/image/ic5d1ed06a1e26c61/version/1677492509/image.png",Channel 1 Paris 2024 Olympics
-https://d30aylox5wvifh.cloudfront.net/event/smil:ag1/playlist.m3u8?id=11
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQXcQYGPRSFLkWWbbbTpUSzTLHl5S14OiNRA&usqp=CAU" group-title="Olympics Paris 2024", LIVE CH2
+http://mohdtv.com:8880/ALLChannels681def0cd665/80541753/60797
 
-#EXTINF:-1 group-title="Olympics Paris 2024" ch-number="992" tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=450x10000:format=png/path/s293f5a94d3403280/image/ic5d1ed06a1e26c61/version/1677492509/image.png" ,Channel 2 Paris 2024 Olympics
-https://d30aylox5wvifh.cloudfront.net/event/smil:ag2/playlist.m3u8?id=12
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQXcQYGPRSFLkWWbbbTpUSzTLHl5S14OiNRA&usqp=CAU" group-title="Olympics Paris 2024", LIVE CH3
+http://mohdtv.com:8880/ALLChannels681def0cd665/80541753/60794
 
-#EXTINF:-1 group-title="Olympics Paris 2024" ch-number="993" tvg-id="993" tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=450x10000:format=png/path/s293f5a94d3403280/image/ic5d1ed06a1e26c61/version/1677492509/image.png",Channel 3 Paris 2024 Olympics
-https://d30aylox5wvifh.cloudfront.net/event/smil:ag3/playlist.m3u8?id=13
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQXcQYGPRSFLkWWbbbTpUSzTLHl5S14OiNRA&usqp=CAU" group-title="Olympics Paris 2024", LIVE CH4
+http://mohdtv.com:8880/ALLChannels681def0cd665/80541753/60746
 
-#EXTINF:-1 group-title="Olympics Paris 2024" ch-number="994" tvg-id="994" tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=450x10000:format=png/path/s293f5a94d3403280/image/ic5d1ed06a1e26c61/version/1677492509/image.png",Channel 4 Paris 2024 Olympics
-https://d30aylox5wvifh.cloudfront.net/event/smil:ag4/playlist.m3u8?id=14
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQXcQYGPRSFLkWWbbbTpUSzTLHl5S14OiNRA&usqp=CAU" group-title="Olympics Paris 2024", LIVE CH5
+http://edge02.odtv.az/o7/eurosport/q_0/playlist.m3u8
 
-#EXTINF:-1 group-title="Olympics Paris 2024" ch-number="995" tvg-id="995" tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=450x10000:format=png/path/s293f5a94d3403280/image/ic5d1ed06a1e26c61/version/1677492509/image.png",Channel 5 Paris 2024 Olympics
-https://d30aylox5wvifh.cloudfront.net/event/smil:ag5/playlist.m3u8?id=15
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQXcQYGPRSFLkWWbbbTpUSzTLHl5S14OiNRA&usqp=CAU" group-title="Olympics Paris 2024", LIVE CH6
+http://edge02.odtv.az/o3/eurosport2/q_0/playlist.m3u8
 
-#EXTINF:-1 group-title="Olympics Paris 2024" ch-number="996" tvg-id="996" tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=450x10000:format=png/path/s293f5a94d3403280/image/ic5d1ed06a1e26c61/version/1677492509/image.png",Channel 6 Paris 2024 Olympics
-https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/playlist.m3u8?id=16
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQXcQYGPRSFLkWWbbbTpUSzTLHl5S14OiNRA&usqp=CAU" group-title="Olympics Paris 2024", LIVE CH7
+http://mohdtv.com:8880/ALLChannels681def0cd665/80541753/60745
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQXcQYGPRSFLkWWbbbTpUSzTLHl5S14OiNRA&usqp=CAU" group-title="Olympics Paris 2024", LIVE CH8
+http://mohdtv.com:8880/ALLChannels681def0cd665/80541753/60743
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQXcQYGPRSFLkWWbbbTpUSzTLHl5S14OiNRA&usqp=CAU" group-title="Olympics Paris 2024", LIVE CH9
+http://mohdtv.com:8880/ALLChannels681def0cd665/80541753/60744
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQXcQYGPRSFLkWWbbbTpUSzTLHl5S14OiNRA&usqp=CAU" group-title="Olympics Paris 2024", LIVE CH10
+http://mohdtv.com:8880/ALLChannels681def0cd665/80541753/60746
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQXcQYGPRSFLkWWbbbTpUSzTLHl5S14OiNRA&usqp=CAU" group-title="Olympics Paris 2024", LIVE CH11
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/380136.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQXcQYGPRSFLkWWbbbTpUSzTLHl5S14OiNRA&usqp=CAU" group-title="Olympics Paris 2024", LIVE CH12
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.mizhls.ru/lb/premium250/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQXcQYGPRSFLkWWbbbTpUSzTLHl5S14OiNRA&usqp=CAU" group-title="Olympics Paris 2024", LIVE CH13
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.mizhls.ru/lb/premium249/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQXcQYGPRSFLkWWbbbTpUSzTLHl5S14OiNRA&usqp=CAU" group-title="Olympics Paris 2024", LIVE CH14
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.mizhls.ru/lb/premium244/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQXcQYGPRSFLkWWbbbTpUSzTLHl5S14OiNRA&usqp=CAU" group-title="Olympics Paris 2024", LIVE CH15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.mizhls.ru/lb/premium245/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQXcQYGPRSFLkWWbbbTpUSzTLHl5S14OiNRA&usqp=CAU" group-title="Olympics Paris 2024", LIVE CH16
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://canale.mizhls.ru/lb/premium246/playlist.m3u8
+
+
 
 <=========================================== Indonesia Channels =======================================>
 
@@ -100,13 +141,19 @@ http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/162138
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTINF:-1 tvg-id="Indosiar - [Channel 78].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="Indonesia Channels",Indosiar
-#http://103.155.250.139:25461/v3/Ub5dHa4TJp/228
+http://op-group1-swiftservesd-1.dens.tv/s/s04/index.m3u8?app_type=web&userid=lite&chname=Indosiar
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
 #EXTINF:-1 tvg-id="Moji" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium1.xml" tvg-logo="https://cdns.klimg.com/merdeka.com/i/w/news/2022/08/30/1467272/540x270/moji-surga-tontonan-bagi-pemirsa-olahraga-dan-anak-muda.png" group-title="Indonesia Channels",MOJI TV
 https://cdn09jtedge.indihometv.com/joss/134/ochannel720/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
+#EXTINF:-1 tvg-id="Moji" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium1.xml" tvg-logo="https://cdns.klimg.com/merdeka.com/i/w/news/2022/08/30/1467272/540x270/moji-surga-tontonan-bagi-pemirsa-olahraga-dan-anak-muda.png" group-title="Indonesia Channels",MOJI TV
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/298550
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -264,6 +311,10 @@ https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w657754957_b3884000_s
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 
+#EXTINF:-1 group-title="Indonesia Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/BN_Channel.png",BN TV
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch112.m3u8
+
 #EXTINF:-1 tvg-id="Indonesiana TV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI4MneSVgEtCTr1bTcY2db9hW6VFIv8XOoZg&usqp=CAU" group-title="Indonesia Channels",Indonesiana TV
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://dgwubfppws111.cloudfront.net/out/v1/667a86e35ddd496c886fa11598dc184d/index_1.m3u8
@@ -278,10 +329,6 @@ https://etv-cdn.kdb.co.id/GarudaTV-Stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IGIX3o8.jpg" group-title="Indonesia Channels",TV Kesehatan
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/Liputan6com_2014.png" group-title="Indonesia Channels",Liputan 6
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#https://livestream.zazerconer.workers.dev/channel/UC1QpnGo11epfexw1bIiTHTg.m3u8
 
 <========================= HBO Group ===================================>
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
@@ -820,6 +867,9 @@ https://melon-live-cdn.mncnow.id/live/eds/Globaltrekker/sa_dash_vmx/Globaltrekke
 #EXTINF:-1 group-title="Knowledge & Documentary" tvg-id="Crime Investigation - [Channel 207].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://static.mncnow.id/images/channel/4b3d8210/eb4c_r32.jpg",Crime Investigation
 https://melon-live-cdn.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
 
+#EXTINF:-1 group-title="Knowledge & Documentary" tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Txphd_logo_2015.png",Travel XP
+https://travelxp-travelxp-1-se.samsung.wurl.tv/playlist.m3u8
+
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1163,7 +1213,7 @@ https://melon-live-cdn.mncnow.id/live/eds/MTV/sa_dash_vmx/MTV.mpd
 https://melon-live-cdn.mncnow.id/live/eds/MTV-90-HD/sa_dash_vmx/MTV-90-HD.mpd
 
 #EXTINF:-1 group-title="Music" tvg-id="" tvg-logo="https://raw.githubusercontent.com/ghozitv/Playlist/main/LOGO.jpeg", MUSIC INDIA
-http://cdn2.pishow.tv/live/135/master.m3u8
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/index.m3u8
 
 
 
@@ -1241,10 +1291,37 @@ https://melon-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 https://melon-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 
 
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
 #EXTINF:-1 tvg-id="Astro SuperSport HD.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="Sports",Astro Supersport 1
+http://152.89.62.76:8880/live/D12m1495/23236986/1722.ts
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
 #EXTINF:-1 tvg-id="Astro SuperSport 2 HD.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Astro_ASSP2.png" group-title="Sports",Astro Supersport 2
+http://152.89.62.76:8880/live/D12m1495/23236986/1721.ts
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
 #EXTINF:-1 tvg-id="Astro SuperSport 3 HD.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png" group-title="Sports",Astro Supersport 3
+http://152.89.62.76:8880/live/D12m1495/23236986/1720.ts
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
 #EXTINF:-1 tvg-id="Astro SuperSport 4 HD.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png" group-title="Sports",Astro Supersport 4
+http://152.89.62.76:8880/live/D12m1495/23236986/1719.ts
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/dgiriynskk6252f/tennischannel.png" group-title="Sports", TENNIS CHANNEL HD
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
@@ -1446,6 +1523,9 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TV6.jpg" group-title="Malaysia",TV 6
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
+
+#EXTINF:-1 group-title="Malaysia" tvg-id="Awesome TV.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://awesometv.my/upload/Logo%20&%20Favicon/logo-ATV.png",Awesome TV
+https://222861.global.ssl.fastly.net/6698cc14fa04165068a80345/live_e5f0c8504d8b11efbacf2feeebc6c76f/index.m3u8
 
 #EXTVLCOPT:http-referrer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056645&autoplay=1&mute=0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
