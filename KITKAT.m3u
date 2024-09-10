@@ -625,7 +625,13 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/AnimalPlanetHD/mpd/AnimalPlanetHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2ccaa7d9731c2e69fa5344c5a547b836:d23fb6a3c73eb7ab8ad19ca841db0fb5
-https://dsgtq5sngxkde.cloudfront.net/live/eds/History/sa_dash_vmx/History.mpd|Referer=https://www.visionplus.id/&user-agent=Android
+#https://dsgtq5sngxkde.cloudfront.net/live/eds/History/sa_dash_vmx/History.mpd|Referer=https://www.visionplus.id/&user-agent=Android
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#EXTINF:-1 tvg-id="History - [Channel 206].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://static.mncnow.id/images/channel/e3cb40f0/5601_r32.jpg" group-title="Knowledge & Documentary",History HD
+https://cdn08jtedge.indihometv.com/dassdvr/133/history/manifest.mpd
 
 #EXTINF:-1 tvg-id="BBC Earth HD - [Channel 461].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://static.mncnow.id/images/channel/df51ed9c/5586_r32.jpg" group-title="Knowledge & Documentary",BBC Earth
 #KODIPROP:inputstream.adaptive.license_type=clearkey
