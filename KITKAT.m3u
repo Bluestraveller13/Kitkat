@@ -1,7 +1,6 @@
 #EXTM3U
 
-
-#EXTM3U url-tvg="https://www.bevy.be/bevyfiles/indonesia.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml.gz,"https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" refresh="1440" max-conn="1" refresh="24"
+#EXTM3U url-tvg="https://www.bevy.be/bevyfiles/indonesia.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium2.xml.gz,"https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,tvg-url="https://www.bevy.be/bevyfiles/singaporepremium2.xml" refresh="1440" max-conn="1" refresh="24"
 
 #EXTINF:-1 tvg-id="RCTI - [Channel 80].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png" group-title="Indonesia Channels",RCTI HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
@@ -193,7 +192,7 @@ https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8?check
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev/
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="HBO HD.sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://seeklogo.com/images/H/hbo-logo-9BCB43E157-seeklogo.com.png" group-title="HBO Group",HBO (TRANSCORP)
+#EXTINF:-1 tvg-id="HBO.sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium2.xml" tvg-logo="https://seeklogo.com/images/H/hbo-logo-9BCB43E157-seeklogo.com.png" group-title="HBO Group",HBO (TRANSCORP)
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
@@ -204,7 +203,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856b6088c3016b87d64b9
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev/
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="HBO Hits (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="HBO Group",HBO Hits (TRANSCORP)
+#EXTINF:-1 tvg-id="HBO Hits.sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium2.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="HBO Group",HBO Hits (TRANSCORP)
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
@@ -215,7 +214,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d054fbf6
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev/
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="HBO Family (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://www.liblogo.com/img-logo/hb7524h5d2-hbo-family-logo-hbo-family-logopedia-.png" group-title="HBO Group",HBO Family (TRANSCORP)
+#EXTINF:-1 tvg-id="HBO Family.sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium2.xml" tvg-logo="https://www.liblogo.com/img-logo/hb7524h5d2-hbo-family-logo-hbo-family-logopedia-.png" group-title="HBO Group",HBO Family (TRANSCORP)
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
@@ -226,7 +225,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d055927f
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev/
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="HBO Signature (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="HBO Group",HBO Signature (TRANSCORP)
+#EXTINF:-1 tvg-id="HBO Signature.sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium2.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="HBO Group",HBO Signature (TRANSCORP)
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
@@ -237,93 +236,39 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0c
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev/
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="CINEMAX (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="HBO Group",Cinemax (TRANSCORP)
+#EXTINF:-1 tvg-id="Cinemax.sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium2.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="HBO Group",Cinemax (TRANSCORP)
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="HBO HD.sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://seeklogo.com/images/H/hbo-logo-9BCB43E157-seeklogo.com.png" group-title="HBO Group",HBO (TRANSCORP)
-https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="HBO Hits (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="HBO Group",HBO Hits (TRANSCORP)
-https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
-
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="HBO Family (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://www.liblogo.com/img-logo/hb7524h5d2-hbo-family-logo-hbo-family-logopedia-.png" group-title="HBO Group",HBO Family (TRANSCORP)
-https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
-
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="HBO Signature (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="HBO Group",HBO Signature (TRANSCORP)
-https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
-
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="CINEMAX (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="HBO Group",Cinemax (TRANSCORP)
-https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
-
-#EXTINF:-1 tvg-id="HBO HD.sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://seeklogo.com/images/H/hbo-logo-9BCB43E157-seeklogo.com.png" group-title="HBO Group",HBO (Mediacorp)
+#EXTINF:-1 tvg-id="HBO.sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium2.xml" tvg-logo="https://seeklogo.com/images/H/hbo-logo-9BCB43E157-seeklogo.com.png" group-title="HBO Mediacorp",HBO 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a407479f074d43d798478c1212d95876:3afb53a2643939cd7128fa7ceded533a
 https://tglmp01.akamaized.net/out/v1/29687feb8f96427ca7348cd59c2338d9/manifest.mpd
 
-#EXTINF:-1 tvg-id="HBO Hits (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="HBO Group",HBO Hits (Mediacorp)
+#EXTINF:-1 tvg-id="HBO Hits.sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium2.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="HBO Mediacorp",HBO Hits 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=473fabdc05ac4d9b94fd34f33f73394f:1072b1e61206c3859607984f872e549c
 https://tglmp02.akamaized.net/out/v1/0fdcb3b643af40ceb3a5b7efa39f7b72/manifest.mpd
 
-#EXTINF:-1 tvg-id="HBO Family (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://www.liblogo.com/img-logo/hb7524h5d2-hbo-family-logo-hbo-family-logopedia-.png" group-title="HBO Group",HBO Family (Mediacorp)
+#EXTINF:-1 tvg-id="HBO Family.sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium2.xml" tvg-logo="https://www.liblogo.com/img-logo/hb7524h5d2-hbo-family-logo-hbo-family-logopedia-.png" group-title="HBO Mediacorp",HBO Family 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=363b551913124d6b80074ca295b25129:a6c6efcab0076d572e5732fb6451d19c
 https://tglmp03.akamaized.net/out/v1/d15476c2807d4380b0cc375a7d861752/manifest.mpd
 
-#EXTINF:-1 tvg-id="HBO Signature (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="HBO Group",HBO Signature (Mediacorp)
+#EXTINF:-1 tvg-id="HBO Signature.sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium2.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="HBO Mediacorp",HBO Signature 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=90480f571f5d410891d7add7103c1e84:b64f887d2480bcaea992c2f0826449a9
 https://tglmp02.akamaized.net/out/v1/b37a81eb3585471cb9c639c78edcdefa/manifest.mpd
 
-#EXTINF:-1 tvg-id="CINEMAX (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="HBO Group",Cinemax (Mediacorp)
+#EXTINF:-1 tvg-id="Cinemax.sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium2.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="HBO Mediacorp",Cinemax 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -333,19 +278,19 @@ https://tglmp04.akamaized.net/out/v1/0f439c1d8a1a47fca9ae1fa92144306e/manifest.m
 
 <====================== HBO Group 2 ===============================>
 
-#EXTINF:-1 tvg-id="HBO HD.sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://seeklogo.com/images/H/hbo-logo-9BCB43E157-seeklogo.com.png" group-title="HBO Group 2",HBO
+#EXTINF:-1 tvg-id="HBO.sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium2.xml" tvg-logo="https://seeklogo.com/images/H/hbo-logo-9BCB43E157-seeklogo.com.png" group-title="HBO Group 2",HBO 
 https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILh1RDgrYCGP5ZFENL_8Zon8
 
-#EXTINF:-1 tvg-id="HBO Hits (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="HBO Group 2",HBO Hits
+#EXTINF:-1 tvg-id="HBO Hits.sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium2.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="HBO Group 2",HBO Hits 
 https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILkPtQ_Ie6XSD_xC5qQNV-wo
 
-#EXTINF:-1 tvg-id="HBO Signature (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="HBO Group 2",HBO Signature
+#EXTINF:-1 tvg-id="HBO Signature.sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium2.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="HBO Group 2",HBO Signature
 https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILs0N16FX6TzCDTp6iJN10Ic
 
-#EXTINF:-1 tvg-id="HBO Family (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://www.liblogo.com/img-logo/hb7524h5d2-hbo-family-logo-hbo-family-logopedia-.png" group-title="HBO Group 2",HBO Family
+#EXTINF:-1 tvg-id="HBO Family.sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium2.xml" tvg-logo="https://www.liblogo.com/img-logo/hb7524h5d2-hbo-family-logo-hbo-family-logopedia-.png" group-title="HBO Group 2",HBO Family
 https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILnXYvHgR1ueHYthaj9MpFZk
 
-#EXTINF:-1 tvg-id="CINEMAX (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="HBO Group 2",Cinemax
+#EXTINF:-1 tvg-id="Cinemax.sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium2.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="HBO Group 2",Cinemax
 https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILs8ExiT1f64SQn9SFKlPW9U
 
 
@@ -644,10 +589,10 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/history/manifest.mpd
 #EXTINF:-1 tvg-id="History - [Channel 206].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://static.mncnow.id/images/channel/e3cb40f0/5601_r32.jpg" group-title="Knowledge & Documentary",History HD
 https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILkzHvka7C3SepEzm4T1lfmg
 
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c154c12b5f8336cc9cbef82fb5cc0ab4:5c365427c75eacf217255effcb5fff3e
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/jD4e8Ez.png?v=1.0.0.1" group-title="Knowledge & Documentary" tvg-id="", BBC Earth
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTINF:-1 tvg-id="BBC Earth HD - [Channel 461].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://static.mncnow.id/images/channel/df51ed9c/5586_r32.jpg" group-title="Knowledge & Documentary",BBC Earth
 https://cempedak-live-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
 
 #EXTINF:-1 tvg-id="Animal Planet (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://images.indihometv.com/assets/ANIMALPLANET-OTT-88-HD.png" group-title="Knowledge & Documentary",Animal Planet
@@ -663,47 +608,17 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/AnimalPlanetHD/mpd/AnimalPlanetHD
 https://atemecdnbalancer-voe.sysln.id/live/eds/DiscoveryHD/mpd/DiscoveryHD.mpd
 
 
+#EXTINF:=1 tvg-id="Discovery Asia (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-name="" group-title="Knowledge & Documentary" tvg-logo="https://i.ibb.co.com/7pjL0G4/discovery-asia.png",DISCOVERY ASIA (FIRSTMEDIA)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"uweOMvbfFMqXv/W4rujK9Q", "kid":"J8igjqvNS7yI7aNpDL9qrw" } ], "type":"temporary" }
+https://atemecdnbalancer-voe.sysln.id/live/eds/DiscoveryAsiaHD/mpd/DiscoveryAsiaHD.mpd
+
 #EXTINF:-1 tvg-url="" tvg-id="HGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png" group-title="Knowledge & Documentary",HGTV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"/3qJ8AimJmTl69ghGHKW0Q", "kid":"TT1wKYqPRC+d7nwRpHw+3w" } ], "type":"temporary" }
 https://atemecdnbalancer-voe.sysln.id/live/eds/HGTVHD/mpd/HGTVHD.mpd
-
-#EXTINF:-1 tvg-url="" tvg-id="HGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png" group-title="Knowledge & Documentary",HGTV 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 Android
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4d3d70298a8f442f9dee7c11a47c3edf:ff7a89f008a62664e5ebd821187296d1
-#https://atemecdnbalancer-voe.sysln.id/live/eds/HGTVHD/mpd/HGTVHD.mpd
-
-#EXTINF:=1 tvg-id="Discovery Asia (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-name="" group-title="Knowledge & Documentary" tvg-logo="https://i.ibb.co.com/7pjL0G4/discovery-asia.png",DISCOVERY ASIA (FIRSTMEDIA)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"uweOMvbfFMqXv/W4rujK9Q", "kid":"J8igjqvNS7yI7aNpDL9qrw" } ], "type":"temporary" }
-https://atemecdnbalancer-voe.sysln.id/live/eds/DiscoveryAsiaHD/mpd/DiscoveryAsiaHD.mpd 
-
-#EXTINF:=1 tvg-id="Discovery Asia (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-name="" group-title="Knowledge & Documentary" tvg-logo="https://i.ibb.co.com/7pjL0G4/discovery-asia.png",DISCOVERY ASIA (FIRSTMEDIA)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=27c8a08eabcd4bbc88eda3690cbf6aaf:bb078e32f6df14ca97bff5b8aee8caf5
-#https://atemecdnbalancer-voe.sysln.id/live/eds/DiscoveryAsiaHD/mpd/DiscoveryAsiaHD.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=https://www.indihometv.com
-#EXTINF:=1 tvg-id="Discovery Asia (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-name="" group-title="Knowledge & Documentary" tvg-logo="https://i.ibb.co.com/7pjL0G4/discovery-asia.png",DISCOVERY ASIA
-https://cdn09jtedge.indihometv.com/joss/194/discoveryasia/index.m3u8?c
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=https://www.indihometv.com
-#EXTINF:-1 tvg-id="" tvg-logo="https://w7.pngwing.com/pngs/949/528/png-transparent-curiositystream-logo-live-stream-icon-logo-circle-curiosity-thumbnail.png" group-title="Knowledge & Documentary",Curiosity Channel
-https://cdn09jtedge.indihometv.com/joss/194/curiosity/index.m3u8?c
 
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -717,44 +632,30 @@ https://cempedak-live-cdn.mncnow.id/live/eds/lovenature/sa_dash_vmx/lovenature.m
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Tbur8nX.png?v=1.0.0.1" group-title="Knowledge & Documentary" tvg-id="" tvg-name="", Outdoor Channel
 https://cempedak-live-cdn.mncnow.id/live/eds/outdoorchannel/sa_dash_vmx/outdoorchannel.mpd
 
-#EXTINF:-1 tvg-id="Global Trekker - [Channel 201].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://static.mncnow.id/images/channel/e23a351e/790d_r32.jpg" group-title="Knowledge & Documentary",Global Trekker
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8b27270c10422acdf2b70c296c8ddb29:32ca577ab5b577a31cc61eb847642fa8
-https://dsgtq5sngxkde.cloudfront.net/live/eds/Globaltrekker/sa_dash_vmx/Globaltrekker.mpd|Referer=https://www.visionplus.id/&user-agent=Android
 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTINF:-1 tvg-id="Global Trekker - [Channel 201].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://static.mncnow.id/images/channel/e23a351e/790d_r32.jpg" group-title="Knowledge & Documentary",Global Trekker
+https://cempedak-live-cdn.mncnow.id/live/eds/Globaltrekker/sa_dash_vmx/Globaltrekker.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTINF:-1 group-title="Knowledge & Documentary" tvg-id="Crime Investigation - [Channel 207].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://static.mncnow.id/images/channel/4b3d8210/eb4c_r32.jpg",Crime Investigation
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dc6157edc80fa15e6b6f23e695d461e4:7c068dd99c87e0ab1efc635bb77adcb4
-https://dsgtq5sngxkde.cloudfront.net/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd|Referer=https://www.visionplus.id/&user-agent=Android
+https://cempedak-live-cdn.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTINF:-1 group-title="Knowledge & Documentary" tvg-id="CGTN Documentary - [Channel 205].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://static.mncnow.id/images/channel/bce8fc0f/7f20_r32.jpg",CGTN Documentary
+https://cempedak-live-cdn.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="Knowledge & Documentary" tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Txphd_logo_2015.png",Travel XP
 https://travelxp-travelxp-1-se.samsung.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="Knowledge & Documentary" tvg-id="CGTN Documentary - [Channel 205].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://static.mncnow.id/images/channel/bce8fc0f/7f20_r32.jpg",CGTN Documentary
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 Android
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=725ccd861fa88300c0e1d258b20bc9b1:ab190baece633191b7201cb96d065bbb
-#https://dsgtq5sngxkde.cloudfront.net/live/eds/CGTN/sa_dash_vmx/CGTN.mpd|Referer=https://www.visionplus.id/&user-agent=Android
-
-#EXTINF:-1 group-title="Knowledge & Documentary" tvg-id="CGTN Documentary - [Channel 205].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://static.mncnow.id/images/channel/bce8fc0f/7f20_r32.jpg",CGTN Documentary
-#EXTVLCOPT:http-referrer=http://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-http://op-group1-swiftservesd-1.dens.tv/s/s20/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=CGTN_Documentary
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=https://www.indihometv.com
-#EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be21d3755722/a6cfe63428a24077b08b6cbb960e409a.png" group-title="Knowledge & Documentary",Lingua Channel
-https://cdn09jtedge.indihometv.com/joss/133/lingua/index.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -773,6 +674,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/DMAXHD/mpd/DMAXHD.mpd
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
+
 
 
 <=================== Entertainment & Lifestyle =============================>
@@ -804,7 +706,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h16/01.m3u8?app_type=web&amp;userid=wn
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"7r0ahjZ99sLEqtcLemFlqQ","kid":"q6yeC_K0SPiHEUWCnGin_Q"}],"type":"temporary"}
-#EXTINF:-1 tvg-id="TLC (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/de/9/94/TLC_logo_2011.png" group-title="Entertainment & LifeStyle",TLC
+#EXTINF:-1 tvg-id="TLC (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium2.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/de/9/94/TLC_logo_2011.png" group-title="Entertainment & LifeStyle",TLC
 https://atemeshield1-voe.sysln.id/live/eds/TLCHD/mpd/TLCHD.mpd
 
 #EXTINF:-1 group-title="Entertainment & LifeStyle" tvg-logo="https://images.indihometv.com/logo_hitsnow_ver1.png",Hits Now
@@ -889,7 +791,7 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/Arirang/sa_dash_vmx/Arirang.mpd|Re
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2015/03/14121037/TV5_Style_HD.jpg" group-title="Entertainment & LifeStyle",TV5 Monde Style
+#EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium2.xml" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2015/03/14121037/TV5_Style_HD.jpg" group-title="Entertainment & LifeStyle",TV5 Monde Style
 https://op-group1-swiftservehd-1.dens.tv/h/h216/02.m3u8
 
 
@@ -935,7 +837,7 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/Zoomoo/sa_dash_vmx/Zoomoo.mpd|Refe
 #KODIPROP:inputstream.adaptive.license_key=2fc62ba18b44dce828a5fb8a213d6e5b:02a01282f77edf03e964e713fb447e93
 https://dsgtq5sngxkde.cloudfront.net/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.mpd|Referer=https://www.visionplus.id/&user-agent=Android
 
-#EXTINF:-1 tvg-id="DreamWorks (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_47.png" group-title="Kids",Dreamworks HD
+#EXTINF:-1 tvg-id="DreamWorks (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium2.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_47.png" group-title="Kids",Dreamworks HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
 https://dsgtq5sngxkde.cloudfront.net/live/eds/Dreamwork-HD/sa_dash_vmx/Dreamwork-HD.mpd|Referer=https://www.visionplus.id/&user-agent=Android
@@ -955,7 +857,7 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd|
 #KODIPROP:inputstream.adaptive.license_key=a2dd864fc95998efd52979e5f732e029:4f705ca934ba3ef5513fea618d4f938d
 https://dsgtq5sngxkde.cloudfront.net/live/eds/My-Kids/sa_dash_vmx/My-Kids.mpd|Referer=https://www.visionplus.id/&user-agent=And
 
-#EXTINF:-1 group-title="Kids" tvg-id="Animax (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://dl.dropboxusercontent.com/s/86lrzdnton1dobh/aniplus.png",Animax
+#EXTINF:-1 group-title="Kids" tvg-id="Animax (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium2.xml" tvg-logo="https://dl.dropboxusercontent.com/s/86lrzdnton1dobh/aniplus.png",Animax
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6344a8272809245e3fa9d926099528c3:93b6c4ff420c6864a6294f6d223d9b2c
 https://dsgtq5sngxkde.cloudfront.net/live/eds/Animax/sa_dash_vmx/Animax.mpd|Referer=https://www.visionplus.id/&user-agent=Android
@@ -969,7 +871,7 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/Animax/sa_dash_vmx/Animax.mpd|Refe
 #KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev/
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="Cartoon Network (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://www.freepnglogos.com/uploads/cartoon-network-png-logo/c-n-png-logo-3.png" group-title="Kids", Cartoon Network
+#EXTINF:-1 tvg-id="Cartoon Network (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium2.xml" tvg-logo="https://www.freepnglogos.com/uploads/cartoon-network-png-logo/c-n-png-logo-3.png" group-title="Kids", Cartoon Network
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856b8d2390016b9c3ee6c21d7c/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/-e5oOiMZ2zI/maxresdefault.jpg" group-title="Kids",Viva TV
@@ -996,7 +898,7 @@ https://sritv.serv00.net/red/play.m3u8?id=8237&type=hls
 #EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f4/Dunia_Anak_Transvision.png",Dunia Anak
 https://cdn09jtedge.indihometv.com/joss/130/duniaanak/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Fun_Planet.png/2048px-Fun_Planet.png" group-title="Kids",Fun Planet
+#EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium2.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Fun_Planet.png/2048px-Fun_Planet.png" group-title="Kids",Fun Planet
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/134/indikids/manifest.mpd
@@ -1010,13 +912,6 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/indikids/manifest.mpd
 #EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Moonbug_Kids.svg/320px-Moonbug_Kids.svg.png",Moonbug
 https://cdn09jtedge.indihometv.com/joss/134/moonbug/index.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=334950781f60a66f5e58324b70ac675d:73caca97be8999ce9cfeb3babad8669d
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTINF:-1 group-title="Kids" tvg-logo="https://images.indihometv.com/logo_mentaritv_small.png",Mentari TV
-https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
-
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1029,7 +924,7 @@ https://op-group1-swiftservesd-1.dens.tv/h/h191/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1  group-title="Kids" tvg-id="ANIPLUS HD.sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://dl.dropboxusercontent.com/s/86lrzdnton1dobh/aniplus.png", ANIPLUS
+#EXTINF:-1  group-title="Kids" tvg-id="ANIPLUS HD.sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium2.xml" tvg-logo="https://dl.dropboxusercontent.com/s/86lrzdnton1dobh/aniplus.png", ANIPLUS
 https://op-group1-swiftservehd-1.dens.tv/h/h201/02.m3u8?app_type=web&userid=lite&chname=ANIPLUS
 
 
@@ -1176,7 +1071,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorl
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a56d6a274eb073cdf94754bd0ffe3335:10ad173ac7249bc42c8390c090ca09e3
-#EXTINF:-1 group-title="News" tvg-id="NHK World Premium.sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/nhk_150.png",NHK World Premium
+#EXTINF:-1 group-title="News" tvg-id="NHK World Premium.sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium2.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/nhk_150.png",NHK World Premium
 https://cempedak-live-cdn.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremium.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1184,14 +1079,14 @@ https://cempedak-live-cdn.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorl
 #KODIPROP:inputstream.adaptive.license_key=a547a31e9c19c36f94d120a83f61f92d:7e86ccfba721e3297b73fc9e2b07628d
 https://dsgtq5sngxkde.cloudfront.net/live/eds/FoxNews/sa_dash_vmx/FoxNews.mpd|Referer=https://www.visionplus.id/&user-agent=Android
 
-#EXTINF:-1 group-title="News" tvg-id="Deutsche Welle (English).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://static.mncnow.id/images/channel/ec5ca17f/9a41_r32.jpg",DW
+#EXTINF:-1 group-title="News" tvg-id="Deutsche Welle (English).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium2.xml" tvg-logo="https://static.mncnow.id/images/channel/ec5ca17f/9a41_r32.jpg",DW
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 Android
 #KODIPROP:inputstream.adaptive.license_key=4472db9a36186f11703d04a4adbbf279:f00791bacba0575927de6cf15cfcd9d9
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #https://dsgtq5sngxkde.cloudfront.net/live/eds/DW/sa_dash_vmx/DW.mpd|Referer=https://www.visionplus.id/&user-agent=Android
 
-#EXTINF:-1 group-title="News" tvg-id="France 24 (English).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://static.mncnow.id/images/channel/feee5d98/3c51_r32.jpg",France 24
+#EXTINF:-1 group-title="News" tvg-id="France 24 (English).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium2.xml" tvg-logo="https://static.mncnow.id/images/channel/feee5d98/3c51_r32.jpg",France 24
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 Android
 #KODIPROP:inputstream.adaptive.license_key=2968b8d8884c66ebfc54b53bee1070ee:7182638b386cb06e211b6771c1a10861
@@ -1217,7 +1112,7 @@ https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_ch
 #KODIPROP:inputstream.adaptive.license_key=2664cc86dfb0f48e6b3f792dd4e8983c:5fc5b980db05c4450482b4bd7cda39fe
 https://dsgtq5sngxkde.cloudfront.net/live/eds/TRTWorld/sa_dash_vmx/TRTWorld.mpd|Referer=https://www.visionplus.id/&user-agent=Android
 
-#EXTINF:-1 tvg-id="SEA Today.sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://static.mncnow.id/images/channel/7bdd87fc/0cb7_r32.jpg" group-title="News",SEA Today 
+#EXTINF:-1 tvg-id="SEA Today.sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium2.xml" tvg-logo="https://static.mncnow.id/images/channel/7bdd87fc/0cb7_r32.jpg" group-title="News",SEA Today 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 Android
 #KODIPROP:inputstream.adaptive.license_key=dfb76a400a6af053881f7fff14483323:aa5af1f3edb3abd10a68b8f7e7c0b1ad
@@ -1237,7 +1132,7 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/CNBC/sa_dash_vmx/CNBC.mpd|Referer=
 https://mediacorp-videosbclive.akamaized.net/f4abbc22204c49e2b337203b0ebbf14b/ap-southeast-1/6057994443001/profile_1/chunklist.m3u8
 #https://dsgtq5sngxkde.cloudfront.net/live/eds/ChannelNewsAsia/sa_dash_vmx/ChannelNewsAsia.mpd|Referer=https://www.visionplus.id/&user-agent=Android
 
-#EXTINF:-1 group-title="News" tvg-id="Russia Today.sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Russia-Today-Logo.svg/2560px-Russia-Today-Logo.svg.png",Rusia Today
+#EXTINF:-1 group-title="News" tvg-id="Russia Today.sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium2.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Russia-Today-Logo.svg/2560px-Russia-Today-Logo.svg.png",Rusia Today
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 Android
 #KODIPROP:inputstream.adaptive.license_key=ec5705bb82f3e66b054de048287fd3a4:7819a6f6427b7c7764a514abe8173b02
@@ -1260,7 +1155,7 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 http://op-group1-swiftservehd-1.dens.tv/h/h23/index.m3u8
 
 
-#EXTINF:-1 group-title="News" tvg-id="France 24 (English).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://static.mncnow.id/images/channel/feee5d98/3c51_r32.jpg",France 24
+#EXTINF:-1 group-title="News" tvg-id="France 24 (English).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium2.xml" tvg-logo="https://static.mncnow.id/images/channel/feee5d98/3c51_r32.jpg",France 24
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservesd-1.dens.tv/s/s22/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=France_24
@@ -1310,27 +1205,27 @@ https://servicebuss.transvision.co.id/live/master/3/4028c685730a4243017321f35517
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"KMxTZ99mbES+Q4LmSvZNVw", "kid":"YHt9IlZcS8O5X/bDPOZUJQ" } ], "type":"temporary" }
-#EXTINF:-1 group-title="Mediacorp SG" tvg-id="Ch 5 (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format=%27png%27&Quality=85&ImageId=%271776036%27&EntityType=%27Item%27&EntityId=%2797098%27&Width=114&Height=114&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Channel 5
+#EXTINF:-1 group-title="Mediacorp SG" tvg-id="Channel 5.sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium2.xml" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/Mediacorp_Channel_52008.png",Channel 5
 https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILlc4-57ZphjcI9fOi6KjbhE
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"9I62dT89F3TaaClwyTzyYA", "kid":"JEj8VhsMQiCoHxAIlx0wiA" } ], "type":"temporary" }
-#EXTINF:-1 group-title="Mediacorp SG" tvg-id="Ch 8 (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format=%27png%27&Quality=85&ImageId=%271776034%27&EntityType=%27Item%27&EntityId=%2797104%27&Width=75&Height=101&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Channel 8 / 8 频道
+#EXTINF:-1 group-title="Mediacorp SG" tvg-id="Channel 8.sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium2.xml" tvg-logo="https://e7.pngegg.com/pngimages/604/304/png-clipart-singapore-mediacorp-channel-8i-television-channel-others-television-logo.png",Channel 8 / 8 频道
 https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILtrvB2ZxSeVKlp6cEsCxRCE
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"LMaeqqhY/tJMViNlTa+NPQ", "kid":"AyihU8KZSyeasDqyUQL8WQ" } ], "type":"temporary" }
-#EXTINF:-1 group-title="Mediacorp SG" tvg-id="Ch U (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format=%27png%27&Quality=85&ImageId=%271776040%27&EntityType=%27Item%27&EntityId=%2797129%27&Width=114&Height=114&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Channel U / U 频道
+#EXTINF:-1 group-title="Mediacorp SG" tvg-id="Channel U.sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium2.xml" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/SPH_Channel_U_logo_stacked_v2.png",Channel U / U 频道
 https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILrotlS2bkxyMY-3QwW9rLO4
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"uTgBiLSJayXo1BnfzpOMbg", "kid":"ep6m31IESEGwxWJ2bmAmEA" } ], "type":"temporary" }
-#EXTINF:-1 group-title="Mediacorp SG" tvg-id="Suria (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format=%27png%27&Quality=85&ImageId=%271375229%27&EntityType=%27Item%27&EntityId=%2797084%27&Width=300&Height=300&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Suria
+#EXTINF:-1 group-title="Mediacorp SG" tvg-id="Suria.sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium2.xml" tvg-logo="https://seeklogo.com/images/M/mediacorp-suria-2023-logo-ADAE7C3109-seeklogo.com.png",Suria
 https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILpwrW1Sm771i8FIykZ84YIw
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"PhnVS3vNi7M2d2/hNtSPVw", "kid":"mXADjvbFSOOXaPOh/29QgQ" } ], "type":"temporary" }
-#EXTINF:-1 group-title="Mediacorp SG" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-id="Vasantham (HD).sg" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format=%27png%27&Quality=85&ImageId=%271776032%27&EntityType=%27Item%27&EntityId=%2797096%27&Width=129&Height=63&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Vasantham
+#EXTINF:-1 group-title="Mediacorp SG" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium2.xml" tvg-id="Vasantham.sg" tvg-logo="https://seeklogo.com/images/M/mediacorp-vasantham-logo-E033434327-seeklogo.com.png",Vasantham
 https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILvYtZroqYvgktMhXINaHyCI
 
 
