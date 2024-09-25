@@ -24,7 +24,7 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=334950781f60a66f5e58324b70ac675d:73caca97be8999ce9cfeb3babad8669d
 #EXTINF:-1 tvg-id="TransTV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be43042758d8/36f75de0a5b543da8d17c46db9d44178.jpg" group-title="Indonesia Channels",TransTV HD
-https://d1abp075u76pbq.cloudfront.net/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
+#https://d1abp075u76pbq.cloudfront.net/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -34,13 +34,13 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.m
 #KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev/
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 EXTINF:-1 tvg-id="TransTV" ch-number="4" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_87.png" group-title="Indonesia Channels",TransTV HD (Transcorp)
-https://cdnjktbpid01.transvision.co.id/live/master/4/4028c685651d7bcc01651f0b6d210096/manifest.mpd
+https://cdnjktbpid02.transvision.co.id/live/master/4/4028c685651d7bcc01651f0b6d210096/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=26bd60e03bbed7819eea0b27075a1897:d221ba6a6ab66e3083c001d2c4a3e5c5
 #EXTINF:-1 tvg-id="Trans7" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_110.png" group-title="Indonesia Channels",Trans7 HD
-https://d1abp075u76pbq.cloudfront.net/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
+#https://d1abp075u76pbq.cloudfront.net/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -50,7 +50,7 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev/
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="Trans7" ch-number="5" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be45631158d9/2165ad80418941528715202210307fb6.jpg" group-title="Indonesia Channels",Trans7 HD (Transcorp)
-https://cdnjktbpid01.transvision.co.id/live/master/4/4028c685651d7bcc01651f0db0bf0097/manifest.mpd
+https://cdnjktbpid02.transvision.co.id/live/master/4/4028c685651d7bcc01651f0db0bf0097/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://sritv.serv00.net/red/play.php?id=204&type=drm 
