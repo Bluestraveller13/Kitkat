@@ -1871,6 +1871,68 @@ https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/woujvkfnmn/o
 #KODIPROP:inputstream.adaptive.license_key=d8235cccf08d0ff149a20dfcd11ff68b:e8ea3a1ae6892eb76a73dc1b14d216d6
 https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/ry1hll2vi2/out/v1/7597903045b6429d8c9ef041b2ad9d98/cenc.mpd
 
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/112/727/png-transparent-rai-sport-1-hd-logo.png" group-title="Sports", Rai Sport
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/1042
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/24b6324c3989f35d6f05c126fcc7fdcc.png" group-title="Sports",Sky Sport 24
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/2535
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/ead553af854c718ab5dd049c915379b1.png" group-title="Sports",Sky Sport Arena
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/2541
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/24daa976b558fb05e4e7d3896a4933c4.png" group-title="Sports",Sky Sport Calcio
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/84505
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/275e92bab2c838ab3dfc18abf3bf2e48.png" group-title="Sports",Sky Sport F1
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/2542
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/8e67c3691e6ffef411537888e56d609b.svg" group-title="Sports",Sky Sport Football
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/2543
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/c261a5ce9a1cba8b6aaea018f04dcf84.png" group-title="Sports",Sky Sport Golf
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/147371
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-05/88d17c77b3415cf758005d5c5aa20fa5.png" group-title="Sports", Sky Sport Max
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/304195
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/315342075960cced608a1efca076d775.png" group-title="Sports",Sky Sport Moto GP
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/9880
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/3f7f2cd64d280944ee2f73aae9520c43.png" group-title="Sports", Sky Sport NBA
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/1047
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/cf338efcc816a54a527c44294c1b44c1.png" group-title="Sports", Sky Sport Serie A
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/2546
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-05/a927d7f92a83a11a455602f67606407b.png" group-title="Sports", Sky Sport Tennis
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/304258
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/b74c3e05bb91e8b110f53c1916902b0e.png" group-title="Sports", Sky Sport Uno
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/278706
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/36efad06b3949a5a8ec2debd35c9293c.png" group-title="Sports", Sportitalia Plus
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/1008
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/f3f5615d6ff3e1e22c6b0bb292833ddd.svg" group-title="Sports", Sportitalia SoloCalcio
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/299524
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/bdefcae800980ed5e3bf454b7552b79c.png" group-title="Sports", Super Tennis
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/285535
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/c28c7e4580a3271cced9e317d3fa4733.png" group-title="Sports", Tennis Channel
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/1052
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/256493b71391b5d91a9d6cee70f99b64.png" group-title="Sports", TGCom 24
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/1007
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/1bfa8d48f1b877bb0320a75bb9417eed.png" group-title="Sports", Top Calcio 24
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/264571
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-05/e2c6c34703a44377c8eedccc50157eca.png" group-title="Sports", Zona Dazn
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/304198
+
+
+
 
 
 
