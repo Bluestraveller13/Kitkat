@@ -1175,27 +1175,37 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Reformed21/sa_dash_vmx/Reformed21.m
 #EXTINF:-1 tvg-url="https://bit.ly/JejeVisionEPG" tvg-id="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/945/49945-SNAPSHOT-l.png" group-title="Christian Channels",EWTN
 https://cempedak-live-cdn.mncnow.id/live/eds/EWTN/sa_dash_vmx/EWTN.mpd
 
-<================================================= Singapore ======================================>
+<================================================= Mediacorp Singapore ======================================>
 
-#EXTINF:-1 group-title="Singapore" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-id="Ch 5 (HD).sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Mediacorp_Channel_5_2023.svg/1200px-Mediacorp_Channel_5_2023.svg.png",Channel 5
+#EXTINF:-1 group-title="Mediacorp Singapore" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-id="Ch 5 (HD).sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Mediacorp_Channel_5_2023.svg/1200px-Mediacorp_Channel_5_2023.svg.png",Channel 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1b8ee3db17d34547983a2c3ddc3d28fc:fb5deb5f688fd67ec20c71191c7f4590
 https://tglmp02.akamaized.net/out/v1/8c503a6966554d439035588f10505eee/manifest.mpd
 
-#EXTINF:-1 group-title="Singapore" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-id="Ch 8 (HD).sg" tvg-logo="https://static.wikia.nocookie.net/iepfanon/images/8/84/Mediacorp_Channel_8_2023.png",Channel 8
+#EXTINF:-1 group-title="Mediacorp Singapore" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-id="Ch 8 (HD).sg" tvg-logo="https://static.wikia.nocookie.net/iepfanon/images/8/84/Mediacorp_Channel_8_2023.png",Channel 8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a4315e7266024dfc9ddb9667727d9635:485a55859fda05a1e3e8ae1ae63906e8 
 https://tglmp02.akamaized.net/out/v1/423fa206c4ea458ebe83d6edd172eb10/manifest.mpd
 
-#EXTINF:-1 group-title="Singapore" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-id="Ch U (HD).sg" tvg-logo="https://namwahpai.sg/wp-content/uploads/2021/04/Lark20210405-184740.png",Channel U
+#EXTINF:-1 group-title="Mediacorp Singapore" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-id="Ch U (HD).sg" tvg-logo="https://namwahpai.sg/wp-content/uploads/2021/04/Lark20210405-184740.png",Channel U
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=981fda1d42aa4d81b367d85794447e2a:61f0b7e53768214d4d56917fbcfc2723
 https://tglmp03.akamaized.net/out/v1/151218455da04a47be327aa14be3e5cb/manifest.mpd
 
-#EXTINF:-1 group-title="Singapore" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-id="Suria (HD).sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Mediacorp_Suria_2023.svg/640px-Mediacorp_Suria_2023.svg.png",Suria
+#EXTINF:-1 group-title="Mediacorp Singapore" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-id="Suria (HD).sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Mediacorp_Suria_2023.svg/640px-Mediacorp_Suria_2023.svg.png",Suria
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=db646b3742ba42718a28436a1f401aa8:75a545066954b9b7fafa96d72a844e00
 https://tglmp04.akamaized.net/out/v1/00ac947de8174a54bd0f52226115d1db/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9970038ef6c548e39768f3a1ff6f5081:3e19d54b7bcd8bb336776fe136d48f57
+#EXTINF:-1 group-title="Mediacorp Singapore" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-id="Vasantham (HD).sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Mediacorp_Vasantham_2023.svg/1200px-Mediacorp_Vasantham_2023.svg.png",Vasantham
+https://tglmp03.akamaized.net/out/v1/14eb6e921cae41298efaa4d9db0f2875/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=612eb711dfb444f7a194c5e20d7f7048:b6226449b9ed5066542e6d6ad5ecb346
+#EXTINF:-1 group-title="Mediacorp Singapore" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://seeklogo.com/images/M/mediacorp-okto-2023-logo-603C4D3F1F-seeklogo.com.png",Okto Holidays
+https://tglmp03.akamaized.net/out/v1/be732843b7d24bada23e13810282e55f/manifest.mpd
 
 
 
