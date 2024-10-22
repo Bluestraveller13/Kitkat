@@ -1160,6 +1160,10 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 #EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-id="TV3.my" group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/f/f5/TV3_%28Malaysia%29.svg/640px-TV3_%28Malaysia%29.svg.png",TV3
 https://ssai.jwplayer.com/v1/manifests/MMUcTYOT.m3u8?jwp.ssai.media_type=live_bcl&feed_id=MMUcTYOT&jwp.ssai.origin_url=https://tonton-live-ssai.akamaized.net/live/2dd2b7cd-1b34-4871-b669-57b5c9beca23/cmaf.isml/.m3u8&jwp.ssai.profile=cmaf-25fps-v1&jwp.ssai.region=ap-southeast-1&did=Web-v1-76458439c254fb5547be2496595c4822-a48320ed160abb8bf38a4b17489c3e01-0.6666927245727574
 
+#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-id="" group-title="Malaysia" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/RTMAsean.png",RTM Asean
+https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8
+
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YmE1ODUyNDctMTU5NS0zMWEzLWJhYWYtZDVmMjI3Y2VjODIz
