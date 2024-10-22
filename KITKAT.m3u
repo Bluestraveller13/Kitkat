@@ -1515,6 +1515,8 @@ https://stream.radiojar.com/seqmzfeu5k8uv
 #EXTINF:-1 tvg-logo="https://iradiofm.com/wp-content/uploads/2022/06/IRADIO-LOGO-BAWAH-2022-WEB.png" group-title="Internet Radio",i-Radio Banjarmasin
 https://stream.radiojar.com/qfqd2aw80k8uv
 
+#EXTINF:-1 tvg-logo="https://traxonsky.com/wp-content/uploads/2021/12/trax-all-new-logo-2022-02-300x138.png" group-title="Internet Radio",Trax FM Jakarta
+https://stream.radiojar.com/rrqf78p3bnzuv.mp3?1729556952
 
 #EXTINF:-1  tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/Nagaswara-FM-Cirebon.png" group-title="Internet Radio",Nagaswara FM
 https://live.nagaswarafm.com:9900/stream
