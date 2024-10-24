@@ -520,6 +520,7 @@ https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
 
 #EXTINF:-1 tvg-id="History - [Channel 206].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/022/50022-SNAPSHOT-l.png" group-title="Knowledge & Documentary",History HD
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/718.m3u8
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/8131.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -804,6 +805,9 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/Animax/sa_dash_vmx/Animax.mpd
 #EXTINF:-1 group-title="Kids" tvg-id="" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Astro_Ceria.png",Astro Ceria
 http://mytv-extra.com:80/t12mgxyb335/9832948789/191860
 
+#EXTINF:-1 group-title="Kids" tvg-id="" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Fun_Planet.png",Fun Planet
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/3479.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/-e5oOiMZ2zI/maxresdefault.jpg" group-title="Kids",Viva TV
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3 
 https://flv.intechmedia.net/live/ch107.m3u8
@@ -830,6 +834,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChann
 #KODIPROP:inputstream.adaptive.license_key=5b9753643572b0c6c467793b50900029:ebeda1cf36dae2b0bdedf1065129ea93
 #EXTINF:-1 tvg-id="MTV LIVE - [Channel 148].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/948/49948-SNAPSHOT-l.png" group-title="Music",MTV Live HD
 https://cempedak-live-cdn.mncnow.id/live/eds/MTV/sa_dash_vmx/MTV.mpd
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/9110.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -928,6 +933,10 @@ https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 #KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
 #EXTINF:-1 tvg-id="SPOTV 2 HD - [Channel 428].id"tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/960/49960-SNAPSHOT-l.png" group-title="Sports",SpoTV 2 HD
 https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
+
+
+#EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://e7.pngegg.com/pngimages/881/999/png-clipart-2018-nba-playoffs-nba-tv-television-nba-league-pass-nba-logo-sign-thumbnail.png" group-title="Sports",NBA TV
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/3099.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cbb673fb120882354735ed57eeb05b4c:fe003f7aeec40eb65d20b14edfda2a86
@@ -1174,6 +1183,8 @@ https://ssai.jwplayer.com/v1/manifests/MMUcTYOT.m3u8?jwp.ssai.media_type=live_bc
 #EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-id="" group-title="Malaysia" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/RTMAsean.png",RTM Asean
 https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8
 
+#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-id="" group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Astro_Warna_NEW.png?20240901000644",ASTRO Warna
+http://abcnew.site:8880/live/TNwC28ZMED/aG9TWtVfqy/1706.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_type=clearkey
