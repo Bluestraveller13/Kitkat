@@ -50,7 +50,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 #KODIPROP:mimetype=video/mp2t
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
 #EXTINF:-1 tvg-id="Indosiar - [Channel 78].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="Indonesia Channels",Indosiar (live)
 http://xtv.ooo:8080/live/83212539/43153928/350972.ts
 https://zeestb.cdn77.icu/love4all.php?id=189665&extension=ts
@@ -61,7 +61,7 @@ http://filex.tv:8080/aftab123/004090/302264
 #KODIPROP:mimetype=video/mp2t
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
 #EXTINF:-1 tvg-id="Indosiar - [Channel 78].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="Indonesia Channels",Indosiar (live)
 http://shareext@15.235.181.35/live.ts?channelId=129279&uid=14505&deviceMac=00:1A:79:A7:53:75&id=indosiar
 
@@ -401,7 +401,7 @@ https://atemeshield1-voe.sysln.id/live/eds/CitraBioskopHD/mpd/CitraBioskopHD.mpd
 #KODIPROP:mimetype=video/mp2t
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Premium Movies" tvg-logo="https://awsimages.detik.net.id/community/media/visual/2016/03/30/573f546f-9605-45d1-8596-e2d7dda3253f_43.jpg?w=600&q=90",FLIK 
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/29592.ts
 
@@ -991,7 +991,7 @@ http://kmkus.wanicelife.com:8880/DYJ12M2224/8945634583/1722
 #KODIPROP:mimetype=video/mp2t
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
 #EXTINF:-1 tvg-id="ASTRO SUPERSPORT.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png",ASTRO SUPERSPORT 1
 http://newlife3.wanicelife.com:8880/live/29ca12143n03/3rd32332/1722.ts
 
@@ -1002,7 +1002,7 @@ http://kmkus.wanicelife.com:8880/DYJ12M2224/8945634583/1721
 #KODIPROP:mimetype=video/mp2t
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
 #EXTINF:-1 tvg-id="ASTRO SUPERSPORT 2.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/Astro_ASSP2_%282D%29.png",ASTRO SUPERSPORT 2
 http://newlife3.wanicelife.com:8880/live/29ca12143n03/3rd32332/1721.ts
 
@@ -1013,7 +1013,7 @@ http://kmkus.wanicelife.com:8880/DYJ12M2224/8945634583/1720
 #KODIPROP:mimetype=video/mp2t
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
 #EXTINF:-1 tvg-id="ASTRO SUPERSPORT 3.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png",ASTRO SUPERSPORT 3
 http://newlife3.wanicelife.com:8880/live/29ca12143n03/3rd32332/1720.ts
 
@@ -1024,7 +1024,7 @@ http://kmkus.wanicelife.com:8880/DYJ12M2224/8945634583/1719
 #KODIPROP:mimetype=video/mp2t
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
 #EXTINF:-1 tvg-id="ASTRO SUPERSPORT 4.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png",ASTRO SUPERSPORT 4
 http://newlife3.wanicelife.com:8880/live/29ca12143n03/3rd32332/1719.ts
 
@@ -1760,7 +1760,7 @@ http://iptvtree.net:8080/Luctv2024/c6b6031eb1/302357
 #KODIPROP:mimetype=video/mp2t
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YEH5jdY.png" group-title="Sports",SONY SPORTS TEN 5
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/176.ts
 
