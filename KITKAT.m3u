@@ -489,6 +489,12 @@ https://cempedak-live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/Galaxy
 #EXTINF:-1 group-title="Premium Movies" tvg-id="Galaxy - [Channel 13].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xmlG" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1635233977-.png",Galaxy
 https://cempedak-live-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
 
+#EXTINF:-1 group-title="Premium Movies" tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xmlG" tvg-logo="https://tvtick.com/img/channel/692.png",&Prive-HD
+http://119.156.26.155:8000/play/a07j/index.m3u8
+
+#EXTINF:-1 group-title="Premium Movies" tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xmlG" tvg-logo="https://mediabrief.com/wp-content/uploads/2022/06/IMAGE-This-Yoga-Day-experience-Martial-Arts-like-never-before-on-flix-MEDIABRIEF.png",&Flix-HD
+http://119.156.26.155:8000/play/a06x/index.m3u8
+
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fe761e8fac143d40510e70825dad0b20:eed9fb0b4e254e9104ef98e8a7035387
