@@ -2281,6 +2281,37 @@ http://iptvtree.net:8080/Luctv2024/c6b6031eb1/302357
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YEH5jdY.png" group-title="Sports",SONY SPORTS TEN 5
 http://119.156.26.155:8000/play/a007/index.m3u8
 
+
+#KODIPROP:inputstreamclass=inputstream.ffmpegdirect
+#KODIPROP:inputstream.ffmpegdirect.mime_type=video/mp2t
+#EXTINF:-1 tvg-id="" tvg-name="PT: DAZN 1 HD" tvg-logo="https://www.freeshot.live/upload/source/DAZN-1-logo.png" group-title="Sports", DAZN 1 HD
+http://opplex.tv:8080/1525939/1552699/233072
+
+#KODIPROP:inputstreamclass=inputstream.ffmpegdirect
+#KODIPROP:inputstream.ffmpegdirect.mime_type=video/mp2t
+#EXTINF:-1 tvg-id="" tvg-name="PT: DAZN 2 HD" tvg-logo="https://www.freeshot.live/upload/source/DAZN-2-logo.png" group-title="Sports", DAZN 2 HD
+http://opplex.tv:8080/1525939/1552699/233075
+
+#KODIPROP:inputstreamclass=inputstream.ffmpegdirect
+#KODIPROP:inputstream.ffmpegdirect.mime_type=video/mp2t
+#EXTINF:-1 tvg-id="" tvg-name="PT: DAZN 3 HD" tvg-logo="https://www.freeshot.live/upload/source/DAZN-3-logo.png" group-title="Sports", DAZN 3 HD
+http://opplex.tv:8080/1525939/1552699/233078
+
+#KODIPROP:inputstreamclass=inputstream.ffmpegdirect
+#KODIPROP:inputstream.ffmpegdirect.mime_type=video/mp2t
+#EXTINF:-1 tvg-id="" tvg-name="PT: DAZN 4 HD" tvg-logo="https://www.freeshot.live/upload/source/DAZN-4-logo.png" group-title="Sports", DAZN 4 HD
+http://opplex.tv:8080/1525939/1552699/233080
+
+#KODIPROP:inputstreamclass=inputstream.ffmpegdirect
+#KODIPROP:inputstream.ffmpegdirect.mime_type=video/mp2t
+#EXTINF:-1 tvg-id="" tvg-name="PT: DAZN 5 HD" tvg-logo="https://www.freeshot.live/upload/source/DAZN-5-logo.png" group-title="Sports", DAZN 5 HD
+http://opplex.tv:8080/1525939/1552699/233082
+
+#KODIPROP:inputstreamclass=inputstream.ffmpegdirect
+#KODIPROP:inputstream.ffmpegdirect.mime_type=video/mp2t
+#EXTINF:-1 tvg-id="" tvg-name="PT: DAZN 6 HD" tvg-logo="https://www.freeshot.live/upload/source/DAZN-6-logo.png" group-title="Sports", DAZN 6 HD
+http://opplex.tv:8080/1525939/1552699/233084
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
