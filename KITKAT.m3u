@@ -424,7 +424,7 @@ https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/908.ts
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"KXyXli/42emfHaF46gCD7A", "kid":"lHiLyTcFQJCyFtwQHl+l3A" } ], "type":"temporary" }
 https://atemeshield1-voe.sysln.id/live/eds/CitraBioskopHD/mpd/CitraBioskopHD.mpd
 
-#EXTINF:-1 tvg-id="CitraDrama.id" tvg-name="" group-title="Premium Movies" group-logo="" tvg-logo="",Citra Drama 
+#EXTINF:-1 tvg-id="CitraDrama.id" tvg-name="" group-title="Premium Movies" group-logo="" tvg-logo="https://iili.io/H8CX1Xs.png",Citra Drama 
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/905.ts
 
 
@@ -662,7 +662,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://op-group1-swiftservehd-1.dens.tv/h/h236/02.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="" group-title="Knowledge & Documentary",Lingua Channel
+#EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://servicebuss.transvision.co.id/cubmu/images/freecontent/banners/lingua_1670392972.png" group-title="Knowledge & Documentary",Lingua Channel
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/14944.ts
 
 <=================== Entertainment & Lifestyle =============================>
@@ -818,10 +818,10 @@ https://cdnjktidc01.transvision.co.id/live/master/3/4028c6857fe540a1018060ac3641
 #EXTINF:-1 group-title="Entertainment & LifeStyle" tvg-id="FashionTV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://i.pinimg.com/564x/26/0d/97/260d9789cdda7b9e85099e80f5ca0a2f.jpg",Fashion TV
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/280.ts
 
-#EXTINF:-1 group-title="Entertainment & LifeStyle" tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="",Insert
+#EXTINF:-1 group-title="Entertainment & LifeStyle" tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://cdn.insertlive.com/mobile/images/foot_logo.png?v=4.5.4",Insert
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/1763.ts
 
-#EXTINF:-1 group-title="Entertainment & LifeStyle" tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="",Citra Dangdut
+#EXTINF:-1 group-title="Entertainment & LifeStyle" tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f0/Logo-Citra-Dangdut.png/revision/latest?cb=20190513103951",Citra Dangdut
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/2207.ts
 
 <=============== Kids Channels =====================>
@@ -850,7 +850,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon
 #EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/753/73753-SNAPSHOT-l.png" group-title="Kids" tvg-id="Nick Jr. HD - [Channel 472].id" , Nickelodeon Junior
 https://cempedak-live-cdn.mncnow.id/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd|Referer=https://www.visionplus.id
 
-#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="" group-title="Kids" tvg-id="" ,Cartoonito
+#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.pinimg.com/originals/27/a7/d3/27a7d36f3ac0a60c681d5cc295de819f.png" group-title="Kids" tvg-id="" ,Cartoonito
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/305.ts
 
 #EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f4/Dunia_Anak_Transvision.png" group-title="Kids" tvg-id="" ,Dunia Anak
@@ -969,7 +969,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MTV-90-HD/sa_dash_vmx/MTV-90-HD.mpd
 #EXTINF:-1 tvg-id="Musik Indonesia" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://i.imgur.com/QHNH3oj.jpeg" group-title="Music",Musik Indonesia
 https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c685730a4243017317dee5df1572/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="" group-title="Music",SUN Music
+#EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/HD.SMU.jpg/revision/latest?cb=20240314122158" group-title="Music",SUN Music
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/2555.ts
 
 <============================ Sports ========================>
@@ -1313,7 +1313,7 @@ https://ssc-extra-2-enc.edgenextcdn.net/out/v1/8b70de2b70d447ba8a7450ba90926a2d/
 https://ssc-extra3-enc.edgenextcdn.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/index.mpd
 
 
-#EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="",Women Sports
+#EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://cdn.startimestv.com/static/files/console/3a4c9121-725b-45b3-a924-26369789edc5.png?l=320",Women Sports
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/98.ts
 
 #EXTINF:-1 group-title="Sports" tvg-id="" tvg-logo="https://www.nicepng.com/png/detail/224-2240633_cnbc-logo-png-golf-channel-on-nbc.png",NBC Golf
