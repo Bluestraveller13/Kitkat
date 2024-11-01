@@ -229,14 +229,17 @@ https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/591.ts
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/11492.ts
 
 #EXTINF:-1 tvg-id="HBO Family (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://www.liblogo.com/img-logo/hb7524h5d2-hbo-family-logo-hbo-family-logopedia-.png" group-title="HBO-FMX",HBO Family
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/30184.ts%09%09%09%09%09
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/592.ts
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/26598.ts
+
 
 #EXTINF:-1 tvg-id="HBO Signature (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="HBO-FMX",HBO Signature
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/873.ts
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/1498.ts
 
 #EXTINF:-1 tvg-id="CINEMAX (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="HBO-FMX",Cinemax
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/30185.ts%09%09%09%09%09
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/2156.ts
 
 
@@ -431,6 +434,7 @@ https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/905.ts
 #KODIPROP:inputstream.ffmpegdirect.program_number=2154
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Premium Movies" tvg-logo="https://awsimages.detik.net.id/community/media/visual/2016/03/30/573f546f-9605-45d1-8596-e2d7dda3253f_43.jpg?w=600&q=90",FLIK 
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/29592.ts%09%09%09%09%09
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/29592.ts
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -439,14 +443,11 @@ https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/29592.ts
 #EXTINF:-1 group-title="Premium Movies" tvg-id="Galaxy Premium - [Channel 12].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_12.png",Galaxy Premium
 https://cempedak-live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e5c40292f8d01b1d5f0c6b3904d73104:bcb2ac12e11c69594ba217bfe8714efe
 #EXTINF:-1 group-title="Premium Movies" tvg-id="Galaxy - [Channel 13].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xmlG" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1635233977-.png",Galaxy
-https://cempedak-live-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/29604.ts%09%09%09%09%09
 
-#EXTINF:-1 group-title="Premium Movies" tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xmlG" tvg-logo="https://tvtick.com/img/channel/692.png",&Prive-HD
-http://119.156.26.155:8000/play/a07j/index.m3u8
+#EXTINF:-1 group-title="Premium Movies" tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xmlG" tvg-logo="",ATV
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/29899.ts%09%09%09%09%09
 
 #EXTINF:-1 group-title="Premium Movies" tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xmlG" tvg-logo="https://mediabrief.com/wp-content/uploads/2022/06/IMAGE-This-Yoga-Day-experience-Martial-Arts-like-never-before-on-flix-MEDIABRIEF.png",&Flix-HD
 http://119.156.26.155:8000/play/a06x/index.m3u8
@@ -969,6 +970,9 @@ https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c685730a4243017317dee5d
 
 #EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/HD.SMU.jpg/revision/latest?cb=20240314122158" group-title="Music",SUN Music
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/2555.ts
+
+#EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="" group-title="Music",iKonser
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/29594.ts%09%09%09%09%09
 
 <============================ Sports ========================>
 
