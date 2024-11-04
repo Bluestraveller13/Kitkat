@@ -1240,21 +1240,21 @@ https://cempedak-live-cdn.mncnow.id/live/eds/BEIN04/sa_dash_vmx/BEIN04.mpd
 #EXTINF:-1 tvg-id="beIN SPORTS 5 (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" group-title="Sports" tvg-logo="https://www.visionplus.id/images/repository/788/204788-SNAPSHOT-l.png", beIN Sports 5
 https://cempedak-live-cdn.mncnow.id/live/eds/BEIN05/sa_dash_vmx/BEIN05.mpd
 
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=VLC Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
 #EXTINF:-1 tvg-id="" tvg-url="" group-title="Sports" tvg-logo="https://banner2.cleanpng.com/20180501/rbe/kisspng-nbc-sports-network-nbcuniversal-television-5ae8dbce3d35d6.2099047815252100622507.jpg",NBC Sports
 http://fl5.moveonjoy.com/NBC_SPORTS_NETWORK/index.m3u8
 
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=VLC Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
 #EXTINF:-1 tvg-id="" tvg-url="" group-title="Sports" tvg-logo="https://spectrumsportsnet.com/content/dam/sports/images/logos/lakersNavLogo.png",Spectrum Sportsnet Lakers
 https://stream1.freetv.fun/spectrum-sportsnet-lakers-1.ctv
 
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=VLC Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
 #EXTINF:-1 tvg-id="" tvg-url="" group-title="Sports" tvg-logo="https://seeklogo.com/images/L/los-angeles-dodgers-logo-36C5B29B93-seeklogo.com.png",Spectrum Sportsnet Dodgers
 https://stream1.freetv.fun/spectrum-sportsnet-la-dodgers-1.ctv
 
