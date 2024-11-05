@@ -1235,53 +1235,25 @@ https://cempedak-live-cdn.mncnow.id/live/eds/BEIN04/sa_dash_vmx/BEIN04.mpd
 #EXTINF:-1 tvg-id="beIN SPORTS 5 (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" group-title="Sports" tvg-logo="https://www.visionplus.id/images/repository/788/204788-SNAPSHOT-l.png", beIN Sports 5
 https://cempedak-live-cdn.mncnow.id/live/eds/BEIN05/sa_dash_vmx/BEIN05.mpd
 
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=VLC Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-url="" group-title="Sports" tvg-logo="https://banner2.cleanpng.com/20180501/rbe/kisspng-nbc-sports-network-nbcuniversal-television-5ae8dbce3d35d6.2099047815252100622507.jpg",NBC Sports
-http://fl5.moveonjoy.com/NBC_SPORTS_NETWORK/index.m3u8
-
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=VLC Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-url="" group-title="Sports" tvg-logo="https://spectrumsportsnet.com/content/dam/sports/images/logos/lakersNavLogo.png",Spectrum Sportsnet Lakers
-https://stream1.freetv.fun/spectrum-sportsnet-lakers-1.ctv
-
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=VLC Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-url="" group-title="Sports" tvg-logo="https://seeklogo.com/images/L/los-angeles-dodgers-logo-36C5B29B93-seeklogo.com.png",Spectrum Sportsnet Dodgers
-https://stream1.freetv.fun/spectrum-sportsnet-la-dodgers-1.ctv
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=47c03f29f04747d2a298c0ad63f3b2c1:8b48b2cb2743b91d5f20cf2622067f3a
-#EXTINF:-1 tvg-id="EUROSPORT (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" group-title="Sports" tvg-logo="https://w7.pngwing.com/pngs/1003/693/png-transparent-eurosport-2-television-channel-logo-live-stream-miscellaneous-television-blue.png",Eurosport Asia
-https://atemecdnbalancer-voe.sysln.id/live/eds/EUROSPORTHD/mpd/EUROSPORTHD.mpd
-
-#EXTINF:-1  tvg-logo="https://seeklogo.com/images/E/eurosport-2-logo-B5F4FEBC14-seeklogo.com.png" group-title="Sports",EUROSPORTS 2
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:1A:3D:97&extension=ts&stream=2121
-
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=531c6d50e3e9f9ba66446f624f492289:d769d9ae238bdd424f8bcdcdc9a3801f
-#EXTINF:-1 group-title="Sports" tvg-id="Sportstars - [Channel 102].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/953/49953-SNAPSHOT-l.png",Sportstars 1 HD
+#EXTINF:-1 group-title="Sports" tvg-id="Sportstars - [Channel 102].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Sportstars.png",Sportstars 1 HD
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
-#EXTINF:-1 group-title="Sports" tvg-id="Sportstars 2 HD - [Channel 422].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/954/49954-SNAPSHOT-l.png",Sportstars 2 HD
+#EXTINF:-1 group-title="Sports" tvg-id="Sportstars 2 HD - [Channel 422].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sportstars_2.png",Sportstars 2 HD
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.nowtv.now.com/media/logo/621-dbg-e.png" ,Now Premier Sports 1
-http://unity-gaming.net:8080/testforflorin/h3jR9MKh/3145
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_key=https://bimasakti.serv00.net/keurplus/drm.php?id=1002
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Sports" tvg-name="STARSPORT 3" tvg-country="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Sportstars_3.png", SPORTSTARS 3
+#EXTINF:-1 group-title="Sports" tvg-name="STARSPORT 3" tvg-country="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Sportstars_3.png",Sportstar 3 HD
 https://bimasakti.serv00.net/keurplus/index.mpd?id=1002
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -1318,6 +1290,74 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
 #EXTINF:-1 tvg-id="Fight Sports - [Channel 304].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/150x150fightsport.jpg" group-title="Sports",Fight Sports
 https://cempedak-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=47c03f29f04747d2a298c0ad63f3b2c1:8b48b2cb2743b91d5f20cf2622067f3a
+#EXTINF:-1 tvg-id="EUROSPORT (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" group-title="Sports" tvg-logo="https://w7.pngwing.com/pngs/1003/693/png-transparent-eurosport-2-television-channel-logo-live-stream-miscellaneous-television-blue.png",Eurosport Asia
+https://atemecdnbalancer-voe.sysln.id/live/eds/EUROSPORTHD/mpd/EUROSPORTHD.mpd
+
+#EXTINF:-1  tvg-logo="https://seeklogo.com/images/E/eurosport-2-logo-B5F4FEBC14-seeklogo.com.png" group-title="Sports",EUROSPORTS 2
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:1A:3D:97&extension=ts&stream=2121
+
+<==================================================== Area Sport Tambahan ======================================>
+
+#EXTINF:-1 tvg-id="" tvg-url="" group-title="Sports" tvg-logo="https://spectrumsportsnet.com/content/dam/sports/images/logos/lakersNavLogo.png",Spectrum Sportsnet Lakers
+http://fortv.cc:8080/4T4Df8/969875/21842
+
+#EXTINF:-1 tvg-id="" tvg-url="" group-title="Sports" tvg-logo="https://spectrumsportsnet.com/content/dam/sports/images/logos/lakersNavLogo.png",Spectrum Sportsnet Lakers
+http://fortv.cc:8080/xGSh0a/969113/20946
+
+#EXTINF:-1 tvg-id="" tvg-url="" group-title="Sports" tvg-logo="https://seeklogo.com/images/L/los-angeles-dodgers-logo-36C5B29B93-seeklogo.com.png",Spectrum Sportsnet Dodgers
+http://fortv.cc:8080/4T4Df8/969875/31636
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="US NBC Sports Washington (F)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/NBC_Sports_Washington.png" group-title="Sports",NBC Sports Washington
+http://fortv.cc:8080/4T4Df8/969875/20944
+
+#EXTINF:-1 tvg-ID="" tvg-name="US NBC Sports Bay Area (A)" tvg-logo="https://www.iphonefaq.org/images/archives/nbc_sports_yay.png" group-title="Sports",NBC Sports Bay Area 
+http://fortv.cc:8080/4T4Df8/969875/9900
+
+#EXTINF:-1 tvg-ID="" tvg-name="US NBC Sports Boston (A)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/NBC_Sports_Boston.png" group-title="Sports",NBC Sports Boston 
+http://fortv.cc:8080/4T4Df8/969875/20939
+
+#EXTINF:-1 tvg-ID="" tvg-name="US NBC Sports California (A)" tvg-logo="https://www.clipartmax.com/png/middle/421-4210789_nbc-sports-california-shows-nbc-sports-pressbox-san-nbc-sports-philadelphia-logo.png" group-title="Sports",NBC Sports California 
+http://fortv.cc:8080/4T4Df8/969875/20940
+
+#EXTINF:-1 tvg-ID="" tvg-name="US NBC Sports Chicago " tvg-logo="https://img2.pngio.com/chicago-sports-transparent-png-clipart-free-download-ywd-nbc-sports-png-800_625.png" group-title="Sports",NBC Sports Chicago 
+http://fortv.cc:8080/4T4Df8/969875/20941
+
+#EXTINF:-1 tvg-ID="" tvg-name="US NBC Sports Network (FHD) " tvg-logo="https://findlogovector.com/wp-content/uploads/2019/03/nbc-sports-logo-vector.png" group-title="Sports",NBC Sports Network
+http://fortv.cc:8080/4T4Df8/969875/20926
+
+#EXTINF:-1 tvg-ID="" tvg-name="US NBC Sports Philly (F)" tvg-logo="https://www.nbcsports.com/sites/rsnunited/files/styles/article_hero_image/public/archive/assets_article/philadelphia/2019/10/01/logo.png" group-title="Sports",NBC Sports Philly 
+http://fortv.cc:8080/4T4Df8/969875/20943
+
+#EXTINF:-1 tvg-ID="" tvg-name="UK-Sky Sports Action" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-5.png" group-title="Sports",Sky Sports Action
+http://fortv.cc:8080/4T4Df8/969875/53705
+
+#EXTINF:-1 tvg-ID="" tvg-name="UK-Sky Sports Arena" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-5.png" group-title="Sports",Sky Sports Arena
+http://fortv.cc:8080/4T4Df8/969875/35238
+
+#EXTINF:-1 tvg-ID="" tvg-name="UK Sky Sports F1 FHD (D)" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-5.png" group-title="Sports",Sky Sports F1 FHD (D)
+http://fortv.cc:8080/4T4Df8/969875/53704
+
+#EXTINF:-1 tvg-ID="" tvg-name="UK Sky Sports Golf FHD " tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-5.png" group-title="Sports",Sky Sports Golf FHD 
+http://fortv.cc:8080/4T4Df8/969875/35240
+
+#EXTINF:-1 tvg-ID="" tvg-name="UK-Sky Sports Main Event" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-5.png" group-title="Sports",Sky Sports Main Event
+http://fortv.cc:8080/4T4Df8/969875/35243
+
+#EXTINF:-1 tvg-ID="" tvg-name="UK Sky Sports Mix FHD (D)" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-5.png" group-title="Sports",Sky Sports Mix FHD (D)
+http://fortv.cc:8080/4T4Df8/969875/53706
+
+#EXTINF:-1 tvg-ID="" tvg-name="UK-Sky Sports News" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-5.png" group-title="Sports",Sky Sports News
+http://fortv.cc:8080/4T4Df8/969875/35241
+
+#EXTINF:-1 tvg-ID="" tvg-name="UK Sky Sports Cricket FHD (D)" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-5.png" group-title="Sports",Sky Sports Cricket FHD (D)
+http://fortv.cc:8080/4T4Df8/969875/45940
+
+#EXTINF:-1 tvg-ID="" tvg-name="UK Sky Sports F1 FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/sky-sports-logo-5.png" group-title="Sports",Sky Sports F1 FHD
+http://fortv.cc:8080/4T4Df8/969875/35244
+
 #EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://e7.pngegg.com/pngimages/999/188/png-clipart-roku-tennis-channel-television-channel-tennis-television-text.png" group-title="Sports",Tennis Channel
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 
@@ -1353,7 +1393,6 @@ http://yesimes.oknirvana.club:8880/DAALM2504/MnURN2bcRq/1719
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"WcllzrtbniMpcIa+VhBooA", "kid":"GhAZKH43Q3mqtelBRkoMIA" } ], "type":"temporary" }
 #EXTINF:-1 group-logo="https://telegra.ph/file/5231dea66798aba2c94b7.png" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/542_144.png" tvg-id="817.astro",Astro Sports Plus
 https://d2e27gsr9y6c4h.cloudfront.net/v1/dash/4ad19442a5c36709752f44aae3b98db617a3c3d7/sportplus_Production/masterCH2.mpd
-
 
 #EXTINF:-1  group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1280px-TNT_Sports_2021_logo.svg.png",TNT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -1483,37 +1522,6 @@ http://extraott.com/live/6945574629/7169628753/710940.ts
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="Sports",SKYSPORTS_SELECT
 http://extraott.com/live/6945574629/7169628753/83011.ts
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.nowtv.now.com/media/logo/621-dbg-e.png" ,Now Premier Sports 1
-http://unity-gaming.net:8080/testforflorin/h3jR9MKh/3145
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_key=https://bimasakti.serv00.net/keurplus/drm.php?id=1002
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Sports" tvg-name="STARSPORT 3" tvg-country="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Sportstars_3.png", SPORTSTARS 3
-https://bimasakti.serv00.net/keurplus/index.mpd?id=1002
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=91bf2d81b9e13701ac667915641121b8:d0cc2082132b430ad5a8bc4f31c9b772 
-#EXTINF:-1 tvg-id="USANetworkEast.us" tvg-name="" tvg-logo="https://i.ibb.co.com/Fw2xmvZ/usantwrk.png" group-title="Sports", USA (EAST)
-https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/master.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=91bf2d81b9e13701ac667915641121b8:d0cc2082132b430ad5a8bc4f31c9b772 
-#EXTINF:-1 tvg-id="USANetworkEast.us" tvg-name="" tvg-logo="https://i.ibb.co.com/Fw2xmvZ/usantwrk.png" group-title="Sports", USA (EAST)
-https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/master.mpd 
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=252a671825ba31ec8433f978c32ccf6d:ee560759ecc8d2274df2e63fcef56915
-#EXTINF:-1 tvg-id="USANetworkWest.us" tvg-name="" tvg-logo="https://i.ibb.co.com/Fw2xmvZ/usantwrk.png" group-title="Sports", USA (WEST)
-https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=252a671825ba31ec8433f978c32ccf6d:ee560759ecc8d2274df2e63fcef56915 
-#EXTINF:-1 tvg-id="USANetworkWest.us" tvg-name="" tvg-logo="https://i.ibb.co.com/Fw2xmvZ/usantwrk.png" group-title="Sports", USA (WEST)
-https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
 
 <====================== News ========================>
 
