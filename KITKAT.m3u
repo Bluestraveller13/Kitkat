@@ -1101,6 +1101,14 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856b8d2390016b9c3ee6c
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.pinimg.com/736x/7b/ae/af/7baeafff7f408e5be7136eb1e62d60a8.jpg",Cartoonito
 https://atemeshield1-voe.sysln.id/live/eds/CartoonitoHD/mpd/CartoonitoHD.mpd
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTINF:-1  group-title="Kids" tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Boomerang_tv_%282000-2004%29.png",Boomerang
+http://gcp-dash.ngslbs.com/TVD037/index.mpd
+
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=785024598882dc751652cea2bce44b8e:56a40e58acd59965e865947dd719108d
 #EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/008/50008-SNAPSHOT-l.png" group-title="Kids" tvg-id="Nickelodeon - [Channel 49].id", Nickelodeon
@@ -1207,12 +1215,6 @@ https://flv.intechmedia.net/live/ch107.m3u8
 #EXTINF:-1  group-title="Kids" tvg-id="ANIPLUS HD.sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://dl.dropboxusercontent.com/s/86lrzdnton1dobh/aniplus.png", ANIPLUS
 https://op-group1-swiftservehd-1.dens.tv/h/h201/02.m3u8?app_type=web&userid=lite&chname=ANIPLUS
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1  group-title="Kids" tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Boomerang_tv_%282000-2004%29.png",Boomerang
-http://gcp-dash.ngslbs.com/TVD037/index.mpd
 
 <======================= Music ==========================>
 
@@ -1569,8 +1571,13 @@ http://extraott.com/live/6945574629/7169628753/710940.ts
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" group-title="Sports",SKYSPORTS_SELECT
 http://extraott.com/live/6945574629/7169628753/83011.ts
 
+<========================================== LIVE Event Sports ========================================================>
 
-<======================================= Live Event Sports =========================================>
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1  tvg-logo="https://e7.pngegg.com/pngimages/265/500/png-clipart-rush-logo-rapid-city-rush-full-logo-sports-ice-hockey-thumbnail.png" group-title="Live Event Sports",Rush Sports 
+http://fortv.cc:8080/xGSh0a/969113/99568
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1607,7 +1614,6 @@ https://d1c63sglopbuo.cloudfront.net:443/out/v1/b9b23c4adf414582af2f2b480bbefddc
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Galaxy_Racer_GXR.png" group-title="Live Event Sports",GXR WORLD 6
 https://d29vola26poupl.cloudfront.net:443/out/v1/20a0a9c90ff0479e84ede2f0759a7c7b/index.m3u8
-
 
 
 <====================== News ========================>
