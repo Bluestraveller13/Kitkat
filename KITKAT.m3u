@@ -445,6 +445,12 @@ https://cempedak-live-cdn.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/Celest
 #EXTINF:-1 group-title="Premium Movies" tvg-id="Cinema World" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://yt3.googleusercontent.com/kLDF64sdHJiS3n7t59yPqtNTsp3xjx4FhnTXg5RDubB2Ps7Pxc-mZpV8YezhdsJl7xB6r4Kpqg=s900-c-k-c0x00ffffff-no-rj",Cinema World HD
 #https://s.id/epuTY
 
+#EXTINF:-1 group-title="Premium Movies" tvg-id="Cinema World" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://yt3.googleusercontent.com/kLDF64sdHJiS3n7t59yPqtNTsp3xjx4FhnTXg5RDubB2Ps7Pxc-mZpV8YezhdsJl7xB6r4Kpqg=s900-c-k-c0x00ffffff-no-rj",Cinema World HD
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+https://cempedak-live-cdn.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
+
 #EXTINF:-1 group-title="Premium Movies" tvg-id="" tvg-url="" tvg-logo="https://console.celestialtiger.com/images/upload/f7a1bb5538dd1e688ab77f6ca603159d5d7b1755.png", POP C
 http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
 
