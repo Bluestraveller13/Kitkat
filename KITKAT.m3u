@@ -874,6 +874,7 @@ https://raw.githubusercontent.com/hendroagung2904/IDH/refs/heads/main/IDH-Aniplu
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1  group-title="Kids" tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/90/Emuselogo.png",Muse Indonesia
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1734551375/ei/79JiZ8b6Grvv4-EPy6zm8QM/ip/103.119.66.0/id/hYEXNO_yBIA.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maudio/1/gcr/id/spc/x-caUDcbRok81IQU7Lag4S9Ywf_CzPJFwt_ejiLWBMh93cyBTnBAPy6fahQXGtQ/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51335594%2C51355912/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAIK61zuEXxX_FocehPXpLcWBEu1I1fHpAPSQZ9oXQq1NAiEA0eidip8pjqNBmDy7q_puZe3vRqANF95gvIYhwNt33U8%3D/file/index.m3u8
 
