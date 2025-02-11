@@ -465,8 +465,6 @@ https://d50a1g0nh14ou.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 
 <================ Knowledge & Documentary ==========================>
 
-#EXTINF:-1 tvg-id="National.Geographic.Channel.HDTV.(NGCHD).us" tvg-logo="https://docdog.top/Logotv/countries//natgeo.png" group-title="Knowledge & Documentary",National Geographic
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:7D:D2:7C&stream=469407&extension=ts
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c154c12b5f8336cc9cbef82fb5cc0ab4:5c365427c75eacf217255effcb5fff3e
@@ -497,25 +495,6 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/AnimalPlanetHD/mpd/AnimalPlanetHD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00cff33589a6468eb98e4db7aad46ca0:53bb2de4f3a4ed84661e4fc527a1fc09
 https://atemecdnbalancer-voe.sysln.id/live/eds/DiscoveryHD/mpd/DiscoveryHD.mpd
-
-
-#EXTINF:-1 tvg-id="Investigation.Discovery.HDTV.(IDHD).us" tvg-logo="https://docdog.top/Logotv/countries//investigationdiscovery.png" group-title="Knowledge & Documentary",Discovery ID
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:7D:D2:7C&stream=469369&extension=ts
-
-#EXTINF:-1 tvg-id="Discovery.Family.Channel.HDTV.(DFCHD).us" tvg-logo="https://docdog.top/Logotv/countries//discoveryfamilychannel.png" group-title="Knowledge & Documentary",Discovery Family
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:7D:D2:7C&stream=469371&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://w7.pngwing.com/pngs/181/877/png-transparent-discovery-home-health-discovery-channel-discovery-inc-television-discovery-hd-discovery-travel-living-text-orange-logo.png"   group-title="Knowledge & Documentary",DISCOVERY HOME HEALTH
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:7D:D2:7C&stream=469372&extension=ts
-
-#EXTINF:-1 tvg-id="Discovery.Life.Channel.(DLIF).us" tvg-logo="https://docdog.top/Logotv/countries//discoverylife.png" group-title="Knowledge & Documentary",Discovery Life
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:7D:D2:7C&stream=469373&extension=ts
-
-#EXTINF:-1 tvg-id="Science.HDTV.(SCIHD).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Discovery_science_new_logo_2017.png" group-title="Knowledge & Documentary",Discovery Science
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:7D:D2:7C&stream=469374&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/2560px-Discovery_Turbo_logo.svg.png" group-title="Knowledge & Documentary",DISCOVERY TURBO
-http://kp76.dfqz.cc:80/play/live.php?mac=00:1A:79:7D:D2:7C&stream=469376&extension=ts
 
 
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/DISCOVERYASIA-OTT-135-BW.png" group-title="Knowledge & Documentary",Discovery Asia
@@ -779,7 +758,6 @@ https://cdn09jtedge.indihometv.com/joss/134/mentaritv/chunklist_w389190176_b1044
 https://kametv.my.id/pdx/play.m3u8?id=7052&type=hls
 
 #EXTINF:-1  group-title="Kids" tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Boomerang_tv_%282000-2004%29.png",Boomerang
-http://cord-cutter.net:8080/live/JoanP@112/443@112/14741.ts
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=785024598882dc751652cea2bce44b8e:56a40e58acd59965e865947dd719108d
@@ -956,34 +934,6 @@ https://cempedak-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=47c03f29f04747d2a298c0ad63f3b2c1:8b48b2cb2743b91d5f20cf2622067f3a
 https://atemeshield1-voe.sysln.id/live/eds/EUROSPORTHD/mpd/EUROSPORTHD.mpd
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/Astro_Premier_League_%28Oct_2024%29.png/revision/latest?cb=20241121183051" group-title="Sports",Astro Premier League
-http://15.235.144.67:35461/654321/123456/11243
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/Astro_Premier_League_2_%28Oct_2024%29.png/revision/latest?cb=20241121183257" group-title="Sports",Astro Premier League 2
-http://15.235.144.67:35461/654321/123456/971
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Astro_Grandstand_%28Oct_2024%29.png/revision/latest?cb=20241121183356" group-title="Sports",Astro Grandstand
-http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86295
-
-
-#EXTINF:-1 tvg-id="The.Sports.Network.HDTV.(TSNHD).ca" tvg-logo="https://docdog.top/Logotv/countries//tsn1" group-title="Sports",TSN 1
-http://cord-cutter.net:8080/live/JoanP@112/443@112/57292.ts
-
-#EXTINF:-1 tvg-id="The.Sports.Network.2.HDTV.(TSN2D).ca" tvg-logo="https://docdog.top/Logotv/countries//tsn2.png" group-title="Sports",TSN 2
-http://cord-cutter.net:8080/live/JoanP@112/443@112/47442.ts
-
-#EXTINF:-1 tvg-id="The.Sports.Network.3.HDTV.(TSN3HD).ca" tvg-logo="https://docdog.top/Logotv/countries//tsn3.png" group-title="Sports",TSN 3
-http://cord-cutter.net:8080/live/JoanP@112/443@112/10389.ts
-
-#EXTINF:-1 tvg-id="The.Sports.Network.4.HDTV.(TSN4H).ca" tvg-logo="https://docdog.top/Logotv/countries//tsn4.png" group-title="Sports",TSN 4
-http://cord-cutter.net:8080/live/JoanP@112/443@112/16130.ts
-
-#EXTINF:-1 tvg-id="The.Sports.Network.5.HDTV.(TSN5HD).ca" tvg-logo="https://docdog.top/Logotv/countries//tsn5.png" group-title="Sports",TSN 5
-http://cord-cutter.net:8080/live/JoanP@112/443@112/16131.ts
-
-
 
 #EXTINF:-1 group-title="Sports" ,tvg-id="nhlnetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/NHL_Network_2012.svg/1200px-NHL_Network_2012.svg.png",NHL NETWORK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
