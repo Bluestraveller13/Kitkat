@@ -1006,6 +1006,13 @@ https://cempedak-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports
 #KODIPROP:inputstream.adaptive.license_key=47c03f29f04747d2a298c0ad63f3b2c1:8b48b2cb2743b91d5f20cf2622067f3a
 https://atemeshield1-voe.sysln.id/live/eds/EUROSPORTHD/mpd/EUROSPORTHD.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/Zy6ODEg.png?v=1.0.0.1" group-title="Sports" group-logo="https://warningfm.github.io/v3/img/bpvKmSk.png?v=1.0.0.1" tvg-id="NBA.TV.id" tvg-name="NBA TV", NBA TV
+#https://cdn08jtedge.indihometv.com/dassdvr/133/nba/manifest.mpd
+http://fl2.moveonjoy.com/NBA_TV/index.m3u8
+
+
 <====================== News ========================>
 
 #EXTINF:-1 group-title="News" tvg-id="" tvg-url="https://upload.wikimedia.org/wikipedia/id/thumb/e/ea/Jakarta_globe_news_channel_id.png/640px-Jakarta_globe_news_channel_id.png",Jakarta GlobeNews Channel
@@ -2099,3 +2106,7 @@ https://ss09.tubzde.cc/data/9/672b5a2d37bbe/hls720/672b5a2d37bbe720.m3u8|referer
 https://ss02.tubzde.cc/data/6/672bfb5da9e62/hls720/672bfb5da9e62720.m3u8|referer=https://ss02.tubzde.cc/&user-agent=PlusMediaPlayer/0.0.9
 
 <====================================== Trial ==========================================>
+
+
+
+
