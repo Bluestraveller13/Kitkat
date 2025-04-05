@@ -984,6 +984,9 @@ http://203.77.246.14:8001/udp/239.1.2.240:5000
 #EXTINF:0 tvg-logo="https://i.imgur.com/VjqWu61.jpeg" group-title="Sports", CHAMPIONS TV 2
 http://203.77.246.14:8001/udp/239.1.2.242:5000
 
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/Champions-3-750x510.png/revision/latest?cb=20210331063123" group-title="Sports", CHAMPIONS TV 3
+http://203.77.246.14:8001/udp/239.1.2.252:5000
+
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4d38060bf41b3c29df0ec950ece6b5da:7ee9506b13480491d79b71c062ab5366
