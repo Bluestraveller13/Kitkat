@@ -336,6 +336,10 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/GalaxyPremium-HD/sa_dash/GalaxyPre
 https://fta1-cdn-flr.visionplus.id/out/v1/dc63bd198bc44193b570e0567ff5b22c/index.mpd
 
 
+#EXTINF: -1 tvg-id="ParamountNetworkIndonesia.id" tvg-name="" tvg-logo="https://i.imgur.com/EXZcqrO.png" group-title="Premium Movies", PARAMOUNT NETWORK
+http://7650667.lbss19.xyz/live/ZUL96376/UG4VTW4E/189892.m3u8?token=czdvTUtMOXQzcGZQcEkx
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://brandlogos.net/wp-content/uploads/2024/07/hallmark_channel-logo_brandlogos.net_tj5fv-300x127.png" group-title="Premium Movies" ,HALMARK
 http://7650667.lbt03.xyz/live/ZUL96376/UG4VTW4E/176712.m3u8?token=SDNCdFhOdHZqcEcxbnhX
 
