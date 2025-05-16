@@ -1,12 +1,17 @@
 #EXTM3U
+
 #EXTM3U url-tvg="https://bit.ly/IndonesiaEpg" "https://bit.ly/AstroEpg" "https://bit.ly/UnifyEpg" "https://bit.ly/RtmEpg" "https://bit.ly/SingaporeEpg" refresh="1440" max-conn="1" refresh="24"
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-#EXTINF:-1 tvg-id="RCTI.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="" group-title="Indonesia Channels",RCTI HD
-http://202.147.193.244/live/eds/RCTI-DD/sa_dash/RCTI-DD.mpd
-https://dsgtq5sngxkde.cloudfront.net/live/eds/RCTI-DD/sa_dash/RCTI-DD.mpd
+##EXTVLCOPT:http-referrer=https://www.visionplus.id/
+##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+##EXTINF:-1 tvg-id="RCTI.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="" group-title="Indonesia Channels",RCTI HD
+##http://202.147.193.244/live/eds/RCTI-DD/sa_dash/RCTI-DD.mpd
 
+
+#EXTINF:-1 tvg-id="RCTI.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="" group-title="Indonesia Channels",RCTI HD
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
@@ -165,14 +170,6 @@ https://tvstreamcast.com/indonesiana.m3u8
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://hgmtv.com:19360/garudatvlivestreaming/720p.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IGIX3o8.jpg" group-title="Indonesia Channels",TV Kesehatan
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8?checkedby:iptvcat.com
-
-
-
-
-
 
 <===================================== HBO FMX =================================>
 
@@ -324,9 +321,6 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/studiouniversal/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=54
 #EXTINF:-1 tvg-id="Studio Universal.id" tvg-logo="https://w7.pngwing.com/pngs/185/656/png-transparent-universal-studios-logo-universal-orlando-universal-studios-hollywood-universal-s-logo-comcast-studio-miscellaneous-studio-globe.png" group-title="Premium Movies" ,Studio Universal
 https://fta1-cdn-flr.visionplus.id/out/v1/dc63bd198bc44193b570e0567ff5b22c/index.mpd
-
-#EXTINF:-1 group-title="Premium Movies" tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",BLOCKBUSTERS
-http://cord-cutter.net:8080/live/95549031/69361122/119421.ts
 
 #EXTINF:-1 group-title="Premium Movies" tvg-id="KIX.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/001/50001-SNAPSHOT-l.png",KIX
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -545,15 +539,6 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/AnimalPlanetHD/mpd/AnimalPlanetHD
 #KODIPROP:inputstream.adaptive.license_key=00cff33589a6468eb98e4db7aad46ca0:53bb2de4f3a4ed84661e4fc527a1fc09
 https://atemecdnbalancer-voe.sysln.id/live/eds/DiscoveryHD/mpd/DiscoveryHD.mpd
 
-#EXTINF:-1 group-title="Knowledge & Documentary" tvg-id="National.Geographic.Channel.HDTV.(NGCHD).us" tvg-logo="https://docdog.top/Logotv/countries//natgeo.png",National Geographic
-http://cord-cutter.net:8080/live/95549031/69361122/46722.ts
-
-#EXTINF:-1 group-title="Knowledge & Documentary" tvg-id="NatGeo.WILD.HDTV.(NGWILD).us" tvg-logo="https://docdog.top/Logotv/countries//natgeowild.png",NatGeo WILD
-http://cord-cutter.net:8080/live/95549031/69361122/11664.ts
-
-#EXTINF:-1 group-title="Knowledge & Documentary" tvg-id="destinationamerica.us" tvg-logo="https://docdog.top/Logotv/countries//destinationamerica.png",Destination America
-http://fortv.cc:8080/live/q8KuDU/354945/14222.ts
-
 #EXTINF:-1 tvg-id="DiscoveryAsia" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://images.indihometv.com/assets/DISCOVERYASIA-OTT-135-BW.png" group-title="Knowledge & Documentary",Discovery Asia
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -654,9 +639,6 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/AFNHD/mpd/AFNHD.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6dc31ac1031242a8b0c37286acb66a37:648286167b494bf9ee122eced0e37de1
 https://atemecdnbalancer-voe.sysln.id/live/eds/FoodNetworkHD/mpd/FoodNetworkHD.mpd
-
-#EXTINF:-1 group-title="Entertainment & LifeStyle" tvg-id="The.Cooking.Channel.HDTV.(COOKHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/cooking-channel-us.png",Cooking Channel
-http://cord-cutter.net:8080/live/95549031/69361122/9229.ts
 
 #EXTINF:-1 group-title="Entertainment & LifeStyle" tvg-name="TV Movies" tvg-country="ID" tvg-logo="https://brandslogos.com/wp-content/uploads/images/large/tlc-logo.png", TLC HD 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -1021,61 +1003,6 @@ https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9182&type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=9183&type=drm 
 https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9183&type=dash
-
-#EXTINF:-1 group-title="Sports" tvg-id="World.Fishing.Network.(US).(WFN).us" tvg-logo="https://docdog.top/Logotv/countries//worldfishingnetwork.png",World Fishing Network
-http://cord-cutter.net:8080/live/95549031/69361122/10477.ts
-
-#EXTINF:-1 group-title="Sports" tvg-id="tsn1.ca" tvg-logo="https://docdog.top/Logotv/countries//tsn1.png" TSN 1
-http://212.102.60.231/TSN_1/index.m3u8
-#EXTINF:-1 group-title="Sports"  tvg-id="tsn2.ca" tvg-logo="https://docdog.top/Logotv/countries//tsn2.png" TSN 2
-http://212.102.60.231/TSN_2/index.m3u8
-#EXTINF:-1 group-title="Sports"  tvg-id="tsn3.ca" tvg-logo="https://docdog.top/Logotv/countries//tsn3.png" TSN 3
-http://212.102.60.231/TSN_3/index.m3u8
-#EXTINF:-1 group-title="Sports"  tvg-id="tsn4.ca" tvg-logo="https://docdog.top/Logotv/countries//tsn4.png" TSN 4
-http://212.102.60.231/TSN_4/index.m3u8
-#EXTINF:-1 group-title="Sports"  tvg-id="tsn5.ca" tvg-logo="https://docdog.top/Logotv/countries//tsn5.png" TSN 5
-http://212.102.60.231/TSN_5/index.m3u8
-
-
-#EXTINF:-1 group-title="Sports" tvg-id="sky.sports.main.event.gb" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsmainevent.png",Sky Sport Main Event
-http://fortv.cc:8080/live/q8KuDU/354945/35243.ts
-
-#EXTINF:-1 group-title="Sports" tvg-id="skysportsmix.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsmix.png",Sky Sport Mix
-http://fortv.cc:8080/live/q8KuDU/354945/53706.ts
-
-#EXTINF:-1 group-title="Sports" tvg-id="sky.sports.golf.gb" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsgolf.png",Sky Sport Golf
-http://fortv.cc:8080/live/q8KuDU/354945/35240.ts
-
-#EXTINF:-1 group-title="Sports" tvg-id="skysportsaction.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsaction.png",Sky Sport Action
-http://fortv.cc:8080/live/q8KuDU/354945/53705.ts
-
-#EXTINF:-1 group-title="Sports" tvg-id="skysportsarena.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsarena.png",Sky Sport Arena
-http://fortv.cc:8080/live/q8KuDU/354945/137719.ts
-
-#EXTINF:-1 group-title="Sports" tvg-id="sky.sports.f1.gb" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsf1.png",Sky Sport F1
-http://fortv.cc:8080/live/q8KuDU/354945/35244.ts
-
-#EXTINF:-1 group-title="Sports" tvg-id="sky.sports.news.gb" tvg-logo="https://docdog.top/Logotv/countries/germany/sky-sport/sky-sport-news-alt-de.png",Sky Sport News
-http://fortv.cc:8080/live/q8KuDU/354945/35241.ts
-
-#EXTINF:-1 group-title="Sports" tvg-id="sky.sports.cricket.gb" tvg-logo="https://docdog.top/Logotv/countries/uk/sky-sports-cricket-uk.png",Sky Sport Cricket
-http://fortv.cc:8080/live/q8KuDU/354945/45940.ts
-
-#EXTINF:-1 group-title="Sports" tvg-id="sky.sports.racing.gb" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsracing.png",Sky Sport Racing
-http://fortv.cc:8080/live/q8KuDU/354945/76842.ts
-
-#EXTINF:-1 group-title="Sports" tvg-id="skysportsfootball.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsfootball.png",Sky Sport Football
-http://supersonictv.live:8080/live/Sheila/Sheila1/78150.ts
-
-#EXTINF:-1 group-title="Sports" tvg-id="skysportspremiereleague.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/sky-sports-premier-league-uk.png",Sky Sport Primere League
-http://supersonictv.live:8080/live/Sheila/Sheila1/78155.ts
-
-#EXTINF:-1 group-title="Sports" tvg-id="spectrum.sportsnet.la.us" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Spectrum_Sports_logo.png" group-title="",Spectrum SportsNet LA
-http://fortv.cc:8080/live/q8KuDU/354945/21842.ts
-
-
-
-
 
 
 <====================== News ========================>
