@@ -55,10 +55,10 @@ https://av-ch-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash/NetTV-HD.mpd
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservesd-1.dens.tv/h/h06/01.m3u8
 
-#EXTVLCOPT:http-referrer=https://nusantaratv.com
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="Nusantara TV" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Logo_ntv.png/1200px-Logo_ntv.png" group-title="Indonesia Channels",Nusantara TV
-https://playback.nusantaratv.com/v1/01963864158c1ea506ecdfff96629/0196386d2de91ebd47043a6e25d3b/nusantaralive_1080p.m3u8
+https://op-group1-swiftservehd-1.dens.tv/h/h37/01.m3u8
 
 #EXTINF:-1 tvg-id="KompasTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/967/49967-SNAPSHOT-l.png" group-title="Indonesia Channels",Kompas TV HD
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -72,16 +72,17 @@ https://atemeshield1-voe.sysln.id/live/eds/KOMPASTVHD/mpd/KOMPASTVHD.mpd
 #KODIPROP:inputstream.adaptive.license_key=66744f2f3e774c339c4f812dc37737d8:814398c6cb279eed14f1134d0ea31266
 https://atemecdnbalancer-voe.sysln.id/live/eds/MetroTVHD/mpd/MetroTVHD.mpd
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-#EXTINF:-1 tvg-id="tvOne.id" group-title="Indonesia Channels" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/966/49966-SNAPSHOT-l.png",TVOne
-https://av-ch-cdn.mncnow.id/live/eds/TVOne-2/sa_dash/TVOne-2.mpd
+##EXTVLCOPT:http-referrer=https://www.visionplus.id
+##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+##EXTINF:-1 tvg-id="tvOne.id" group-title="Indonesia Channels" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/966/49966-SNAPSHOT-l.png",TVOne
+##https://av-ch-cdn.mncnow.id/live/eds/TVOne-2/sa_dash/TVOne-2.mpd
+
 
 #EXTINF:-1 tvg-id="tvOne.id" group-title="Indonesia Channels" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/966/49966-SNAPSHOT-l.png",TVOne
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b6486d00c9d842d88ba1660deec8becc:67ed72016590f2138d9fc10b807708b2
-#https://atemeshield1-voe.sysln.id/live/eds/TvOne/mpd/TvOne.mpd
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://op-group1-swiftservehd-1.dens.tv/h/h40/01.m3u8
+
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
@@ -614,7 +615,7 @@ https://av-ch-cdn.mncnow.id/live/eds/LifeStyleFashion/sa_dash/LifeStyleFashion.m
 #EXTVLCOPT:http-referrer=https://www.dens.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://channeljowo.com/wp-content/uploads/2024/09/cropped-LOGO-CHANNEL-JOWO_04-1536x642.png" group-title="Entertainment & LifeStyle" tvg-id="Channel Jowo.id" tvg-name="Channel Jowo.id", Channel Jowo
-http://khano.nng.cloudns.us/live/m3u8/id/1de333734b1b7e0.m3u8
+https://op-group1-swiftservehd-1.dens.tv/h/h208/02.m3u8
 
 #EXTINF:-1 group-title="Entertainment & LifeStyle" tvg-id="Arirang" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_351.png",Arirang
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
