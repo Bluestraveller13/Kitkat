@@ -1403,19 +1403,19 @@ https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/in
 https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/O1RVjqG.jpeg" group-title="Malaysia", ASTRO BOO 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Astro_Boo_%282024%29.png/960px-Astro_Boo_%282024%29.png" group-title="Malaysia", ASTRO BOO 
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astro%20boo.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/O1RVjqG.jpeg" group-title="Malaysia", ASTRO OASIS 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Astro_Oasis_%282024%29.png/330px-Astro_Oasis_%282024%29.png" group-title="Malaysia", ASTRO OASIS 
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/ASTRO%20OASIS.m3u8
 
-#EXTINF: -1 tvg-id="AstroAura.my" tvg-name="Aura" tvg-logo="https://i.imgur.com/O1RVjqG.jpeg" group-title="Malaysia", ASTRO AURA 
+#EXTINF: -1 tvg-id="AstroAura.my" tvg-name="Aura" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Astro_Aura_%282024%29.png/960px-Astro_Aura_%282024%29.png" group-title="Malaysia", ASTRO AURA 
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/ASTRO%20AURA.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/O1RVjqG.jpeg" group-title="Malaysia", ASTRO SHOWCASE 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Showcase_%282024%29.png" group-title="Malaysia", ASTRO SHOWCASE 
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/showcase.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/O1RVjqG.jpeg" group-title="Malaysia", ASTRO HUA HEE DAI 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Astro_Hua_Hee_Dai_%282024%29.png/960px-Astro_Hua_Hee_Dai_%282024%29.png?20241121173304" group-title="Malaysia", ASTRO HUA HEE DAI 
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/ASTRO%20HUA%20HEE%20DAI.m3u8
 
 #EXTINF:-1 group-title="Malaysia" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c1/Sooka_Travel_%26_Taste.png",Travel&Taste 
