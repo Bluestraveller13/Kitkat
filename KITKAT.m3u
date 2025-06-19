@@ -1,9 +1,9 @@
 #EXTM3U
 
-#EXTM3U url-tvg="https://bit.ly/IndonesiaEpg" 
-#EXTM3U url-tvg="https://bit.ly/AstroEpg" 
-#EXTM3U url-tvg="https://bit.ly/UnifyEpg" 
-#EXTM3U url-tvg="https://bit.ly/RtmEpg" 
+#EXTM3U url-tvg="https://bit.ly/IndonesiaEpg" refresh="1440" max-conn="1" refresh="24"
+#EXTM3U url-tvg="https://bit.ly/AstroEpg" refresh="1440" max-conn="1" refresh="24"
+#EXTM3U url-tvg="https://bit.ly/UnifyEpg" refresh="1440" max-conn="1" refresh="24"
+#EXTM3U url-tvg="https://bit.ly/RtmEpg" refresh="1440" max-conn="1" refresh="24"
 #EXTM3U url-tvg="https://bit.ly/SingaporeEpg" refresh="1440" max-conn="1" refresh="24"
 
 
