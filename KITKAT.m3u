@@ -2026,6 +2026,16 @@ https://svara-stream.radioddns.net:8443/jakarta_smoothfm_mp3
 
 
 <============================================================== Moslem Channels =======================================>
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#EXTINF:-1 tvg-logo="https://tawaf.tv/wp-content/uploads/2025/02/LOGO-MULTICOLOR-Transparant.png" group-title="Moslem Channels" tvg-id="CitraMuslim.id" tvg-name="Citra Muslim", Tawaf TV
+https://tvstreamcast.com/tawaftv.m3u8
+
+
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f0bdfdef0f564819a2b43345b328f989:9f7555440fb310341ddb00cdbc638cea
