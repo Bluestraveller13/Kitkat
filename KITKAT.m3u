@@ -1115,15 +1115,15 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/2e55bc8199044c27b1dbb827af65a04f/ind
 #EXTINF:-1 tvg-id="beINSports5" group-title="Sports" tvg-logo="https://www.visionplus.id/images/repository/898/198898-LOGO-m.png", beIN Sports 5
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/index.mpd
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/45BN0U4.png" group-title="SPORTS CHANNEL",BEIN SPORTS 1 Malaysia
+#EXTINF: -1 tvg-logo="https://i.imgur.com/45BN0U4.png" group-title="Sports",BEIN SPORTS 1 Malaysia
 #https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/bein_my1.m3u8
 https://smart.pendy.dpdns.org/Smart.php?id=Astrobein1
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/HAzOKAo.png" group-title="SPORTS CHANNEL",BEIN SPORTS 2 Malaysia
+#EXTINF: -1 tvg-logo="https://i.imgur.com/HAzOKAo.png" group-title="Sports",BEIN SPORTS 2 Malaysia
 #https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/bein_my2.m3u8
 https://smart.pendy.dpdns.org/Smart.php?id=Astrobein2
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/2oY29NG.png" group-title="SPORTS CHANNEL",BEIN SPORTS 3 Malaysia
+#EXTINF: -1 tvg-logo="https://i.imgur.com/2oY29NG.png" group-title="Sports",BEIN SPORTS 3 Malaysia
 #https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/bein_my3.m3u8
 https://smart.pendy.dpdns.org/Smart.php?id=Astrobein3
 
@@ -2061,7 +2061,6 @@ http://stream.radiojar.com/9k28wsbu5k8uv
 
 #EXTINF:-1  tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/Smooth_fm_jkt.png/" group-title="Internet Radio",KISI FM Bogor
 https://svara-stream.radioddns.net:8443/jakarta_smoothfm_mp3
-
 <============================================================== Moslem Channels =======================================>
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
