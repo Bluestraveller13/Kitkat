@@ -369,11 +369,24 @@ http://nonton.site:8080/XtreamFlixID/w9RLHbWJY4/29604
 #EXTINF:-1 tvg-id="IMC" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1613353271-.png" group-title="Premium Movies",Indonesia Movie Channel
 https://fta3-cdn-flr.visionplus.id/out/v1/65432a4c12ca4a52abf473a0e41d7c7e/index.mpd
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/BgSPo1W.png" group-title="Premium Movies",BIOSKOP INDONESIA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+http://nonton.site:8080/XtreamFlixID/w9RLHbWJY4/908
+
+
+#EXTINF:-1 tvg-id="" tvg-name="IMC" tvg-logo="https://i.imgur.com/pTMdk0q.png" group-title="Premium Movies",IMC INDONESIA MOVIE CHANNEL
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+http://nonton.site:8080/XtreamFlixID/w9RLHbWJY4/35484
+
+#EXTINF:-1 tvg-id="flik" tvg-logo="https://i.imgur.com/AwmaKUk.png" group-title="Premium Movies",FLIK
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+http://nonton.site:8080/XtreamFlixID/w9RLHbWJY4/29592
+
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=94788bc937054090b216dc101e5fa5dc:297c97962ff8d9e99f1da178ea0083ec
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/IndonesiaEpg"  group-title="Premium Movies" tvg-logo="https://thumbor.prod.vidiocdn.com/AC-3tXEL_aNdU-jHErZHxSrazrk=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6684/citra-bioskop-2be866.jpg",Citra Bioskop
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/IndonesiaEpg" group-title="Premium Movies" tvg-logo="https://thumbor.prod.vidiocdn.com/AC-3tXEL_aNdU-jHErZHxSrazrk=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6684/citra-bioskop-2be866.jpg",Citra Bioskop
 https://atemecdnbalancer-voe.sysln.id/live/eds/CitraBioskopHD/mpd/CitraBioskopHD.mpd
 
 #EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://e7.pngegg.com/pngimages/774/803/png-clipart-logo-drama-uktv-brand-blighty-dave-tv-logo-purple-violet-thumbnail.png" group-title="Premium Movies",Drama Channel
