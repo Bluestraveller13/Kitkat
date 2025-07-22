@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTM3U url-tvg="https://epg.pw/areas/id.html?lang=en" max-conn="1" refresh="24"
+#EXTM3U url-tvg="https://epg.pw/areas/id.html?lang=en&timezone=QXNpYS9KYWthcnRh" max-conn="1" refresh="24"
 #EXTM3U url-tvg="https://bit.ly/IndonesiaEpg" refresh="1440" max-conn="1" refresh="24"
 #EXTM3U url-tvg="https://bit.ly/AstroEpg" refresh="1440" max-conn="1" refresh="24"
 #EXTM3U url-tvg="https://bit.ly/UnifyEpg" refresh="1440" max-conn="1" refresh="24"
