@@ -803,7 +803,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/LifetimeHD/mpd/LifetimeHD.mpd
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=fbbccb9d1f9e402293b23dcf62322d83:63d828f9c104b74c1188a651ba39c812
-#EXTINF:-1 group-title="Entertainment & LifeStyle" tvg-id="171970" tvg-url="https://epg.pw/api/epg.xml?channel_id=171970&date=None&timezone=None" tvg-logo="https://i.imgur.com/kHM0jUd.png" ,ABC Australia
+#EXTINF:-1 group-title="Entertainment & LifeStyle" tvg-id="171970" tvg-url="https://epg.pw/api/epg.xml?lang=en&timezone=QXNpYS9KYWthcnRh&date=20250722&channel_id=171970" tvg-logo="https://i.imgur.com/kHM0jUd.png" ,ABC Australia
 https://atemecdnbalancer-voe.sysln.id/live/eds/ABC_Australia/mpd/ABC_Australia.mpd
 
 #EXTINF:-1 tvg-id="VisionPrime.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/005/50005-SNAPSHOT-l.png" group-title="Entertainment & LifeStyle",Vision Prime
