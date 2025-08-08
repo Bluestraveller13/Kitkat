@@ -832,6 +832,38 @@ https://atemeshield1-voe.sysln.id/live/eds/DiscoveryAsiaHD/mpd/DiscoveryAsiaHD.m
 #EXTINF:-1 tvg-id="DMAX" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/astro.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/DMAX_-_Logo_2016.svg/1200px-DMAX_-_Logo_2016.svg.png" group-title="Knowledge & Documentary",DMAX TV (FMX)
 https://atemecdnbalancer-voe.sysln.id/live/eds/DMAXHD/mpd/DMAXHD.mpd
 
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-id="NatGeo.uk" tvg-name="National Geographic SD" tvg-logo="https://www.nicepng.com/png/full/284-2843034_source-national-geographic-logo-white.png" group-title="Knowledge & Documentary",National Geographic SD
+http://zamlb.co.uk:80/38:68:a4:f9:83:6b/061223/1557
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-id="NatGeoWild.uk" tvg-name="Nat Geo Wild SD" tvg-logo="https://w7.pngwing.com/pngs/617/505/png-transparent-paper-logo-line-font-line-angle-white-text.png" group-title="Knowledge & Documentary",Nat Geo Wild SD
+http://zamlb.co.uk:80/38:68:a4:f9:83:6b/061223/1559
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-id="DiscoveryTurboPlus1.uk" tvg-name="Discovery Turbo SD" tvg-logo="https://www.pngfind.com/pngs/m/74-742126_discovery-turbo-logo-discovery-turbo-hd-png-download.png" group-title="Knowledge & Documentary",Discovery Turbo 
+http://zamlb.co.uk:80/38:68:a4:f9:83:6b/061223/1566
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-id="DiscoveryScience.uk" tvg-name="Discovery Science HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/2560px-Discovery_Science_2017_Logo.svg.png" group-title="Knowledge & Documentary",Discovery Science
+http://zamlb.co.uk:80/38:68:a4:f9:83:6b/061223/1563
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-id="DiscoveryHistory.uk" tvg-name="Discovery History HD" tvg-logo="https://cdn.imgbin.com/0/5/0/imgbin-discovery-history-discovery-channel-logo-discovery-networks-emea-television-channel-others-e5dfrQ9ysU3P0hAbqYfBp3Swx.jpg" group-title="Knowledge & Documentary",Discovery History 
+http://zamlb.co.uk:80/38:68:a4:f9:83:6b/061223/1565
+
+
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTVLCOPT:network-caching=1000
@@ -1328,6 +1360,12 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/27163af9499b4bcca2da96677b158efe/ind
 #EXTINF:-1 tvg-id="ZooMoo.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_39.png" group-title="Kids",ZooMoo (V+)
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/8554b3cb938e44038093df2d65080932/index.mpd
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-id="SkyKids.uk" tvg-name="Sky Kids 4K" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/Sky_Kids.png/revision/latest?cb=20200630164012" group-title="Kids",Sky Kids
+http://zamlb.co.uk:80/38:68:a4:f9:83:6b/061223/96785
+
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="boomerang.us" group-title="Kids" tvg-logo="https://docdog.top/Logotv/countries//boomerang.png",Boomerang
@@ -1639,77 +1677,86 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/2e55bc8199044c27b1dbb827af65a04f/ind
 #EXTINF:-1 tvg-id="beINSports5" group-title="Sports" tvg-logo="https://www.visionplus.id/images/repository/898/198898-LOGO-m.png", beIN Sports 5
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/index.mpd
 
-#EXTINF:-1 tvg-id="bein1uk" tvg-name="BeIN Sports 1 UK" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/BeIN-Sports-Logo.svg/2560px-BeIN-Sports-Logo.svg.png" group-title="Sports",BeIN Sports 1 AU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f959dcdd1ca8c89658cd651ed36e2851:aa4cf56ce7c522a9e6582c42537be381
+#EXTINF:-1 tvg-id="bein1uk" tvg-name="BeIN Sports 1 UK" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/BeIN-Sports-Logo.svg/2560px-BeIN-Sports-Logo.svg.png" group-title="Sports",BeIN Sports 1 AU
 http://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/pwdvd9fm5u/out/v1/5e22845dab3648b8a7033fd5923d62d1/cenc.mpd?token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
 
-#EXTINF:-1 tvg-id="bein2uk" tvg-name="BeIN Sports 2 UK" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/BeIN-Sports-Logo.svg/2560px-BeIN-Sports-Logo.svg.png" group-title="Sports",BeIN Sports 2 AU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9afd72f20573001c23672d2158892a5f:9bc32df48a2efac30072b7e5c683bcd1
+#EXTINF:-1 tvg-id="bein2uk" tvg-name="BeIN Sports 2 UK" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/BeIN-Sports-Logo.svg/2560px-BeIN-Sports-Logo.svg.png" group-title="Sports",BeIN Sports 2 AU
 http://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/6fbnr3ei4b/out/v1/57d2ae96a4cc4230881cd801b389edf6/cenc.mpd?token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
 
-#EXTINF:-1 tvg-id="bein3uk" tvg-name="BeIN Sports 3 UK" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/BeIN-Sports-Logo.svg/2560px-BeIN-Sports-Logo.svg.png" group-title="Sports",BeIN Sports 3 AU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4b203316c47c370a1eb9097c070d7226:676e6783f23789cdf4ff0486386145ed
+#EXTINF:-1 tvg-id="bein3uk" tvg-name="BeIN Sports 3 UK" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/BeIN-Sports-Logo.svg/2560px-BeIN-Sports-Logo.svg.png" group-title="Sports",BeIN Sports 3 AU
 http://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/gigxsk0lya/out/v1/df75d887bce4437b8fdf345ae455113b/cenc.mpd?token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
 
-#EXTINF:-1 group-title="Sports" tvg-id="SonySportsTen1.in" tvg-logo="https://bmeidch.github.io/bemu/chlogo/Sony_Sports_Ten_1.webp",SONY SPORTS TEN 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 group-title="Sports" tvg-id="SonySportsTen1.in" tvg-logo="https://bmeidch.github.io/bemu/chlogo/Sony_Sports_Ten_1.webp",SONY SPORTS TEN 1
 https://tataplay.slivcdn.com//hls/live/2011747/TEN1HD/master.m3u8?token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
 
-#EXTINF:-1 group-title="Sports" tvg-id="SonySportsTen2.in" tvg-logo="https://bmeidch.github.io/bemu/chlogo/Sony_Sports_Ten_2.webp",SONY SPORTS TEN 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 group-title="Sports" tvg-id="SonySportsTen2.in" tvg-logo="https://bmeidch.github.io/bemu/chlogo/Sony_Sports_Ten_2.webp",SONY SPORTS TEN 2
 https://tataplay.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8?token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
 
-#EXTINF:-1 group-title="Sports" tvg-id="SonySportsTen3.in" tvg-logo="https://bmeidch.github.io/bemu/chlogo/Sony_Sports_Ten_3.webp",SONY SPORTS TEN 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 group-title="Sports" tvg-id="SonySportsTen3.in" tvg-logo="https://bmeidch.github.io/bemu/chlogo/Sony_Sports_Ten_3.webp",SONY SPORTS TEN 3
 https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8?token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
 
-#EXTINF:-1 group-title="Sports" tvg-id="SonySportsTen4.in" tvg-logo="https://bmeidch.github.io/bemu/chlogo/Sony_Sports_Ten_4.webp",SONY SPORTS TEN 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 group-title="Sports" tvg-id="SonySportsTen4.in" tvg-logo="https://bmeidch.github.io/bemu/chlogo/Sony_Sports_Ten_4.webp",SONY SPORTS TEN 4
 https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8?token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
 
-#EXTINF:-1 group-title="Sports" tvg-id="SonySportsTen5.in" tvg-logo="https://bmeidch.github.io/bemu/chlogo/Sony_Sports_Ten_5.webp",SONY SPORTS TEN 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 group-title="Sports" tvg-id="SonySportsTen5.in" tvg-logo="https://bmeidch.github.io/bemu/chlogo/Sony_Sports_Ten_5.webp",SONY SPORTS TEN 5
 https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8?token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="TNT.Sports.1.uk" group-title="Sports" tvg-logo="https://docdog.top/Logotv/countries/uk/btsport1.png",TNT Sport 1
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=175184&extension=ts
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="TNT.Sports.2.uk" group-title="Sports" tvg-logo="https://docdog.top/Logotv/countries/uk/btsports2vip.png",TNT Sport 2
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=175186&extension=ts
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="TNT.Sports.3.uk" group-title="Sports" tvg-logo="https://docdog.top/Logotv/countries/uk/btsport3.png",TNT Sport 3
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=175188&extension=ts
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="TNT.Sports.4.uk" group-title="Sports" tvg-logo="https://docdog.top/Logotv/countries/uk/btsportespn.png",TNT Sport 4
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=175195&extension=ts
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1717,6 +1764,7 @@ http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=175195&extension=
 #EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/88_NBATV_2025_03_17_15_32_37.png",NBA TV
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cgnl_nba.mpd
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="spectrum.sportsnet.la.us" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Spectrum_Sports_logo.png" group-title="Sports",Spectrum SportsNet LA
@@ -1762,6 +1810,13 @@ http://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/irtfdsri14/o
 #KODIPROP:inputstream.adaptive.license_key=8ce20e2a4b3dd04e0a6e5469b7cb47be:163c323b65d0597b13f037641fd67b1e
 #EXTINF:-1 group-title="Sports" tvg-id="The Sports Network 5" tvg-name="The Sports Network 5" tvg-logo="https://i.imgur.com/HZULzt2.png" ,TSN 5 CA
 http://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/mttgh1c4ei/out/v1/9cc664b146744e2ba23066aa048efbc5/cenc.mpd?token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-id="WWE.Network.us" tvg-name="WWE Channel HD" tvg-logo="https://www.vhv.rs/dpng/d/13-136541_wwe-network-logo-png-transparent-png.png" group-title="Sports",WWE Channel
+http://zamlb.co.uk:80/38:68:a4:f9:83:6b/061223/11393
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
@@ -2949,19 +3004,3 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/980cfe26ff00479c97eb8057a1129c7f/ind
 #KODIPROP:inputstream.adaptive.license_key=f0bdfdef0f564819a2b43345b328f989:9f7555440fb310341ddb00cdbc638cea
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/EunPKSf.png?v=1.0.0.1" group-title="Moslem Channels" tvg-id="CitraMuslim.id" tvg-name="Citra Muslim", Citra Muslim 
 https://atemecdnbalancer-voe.sysln.id/live/eds/CitraMuslimHD/mpd/CitraMuslimHD.mpd
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
