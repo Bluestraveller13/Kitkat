@@ -131,12 +131,12 @@ https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="ANTV.id tvg-url="tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/959/49959-SNAPSHOT-l.png" group-title="Indonesia Channels",ANTV (V+)
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
 
-#EXTVLCOPT:http-referrer=https://www.firstmedia.com
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b4899559135b490d98a892c1d6a45e20:6b5feff6a7242dc4b4345bedb84c2181
+
+#KODIPROP:inputstream.adaptive.common_headers=user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|b4899559135b490d98a892c1d6a45e20:6b5feff6a7242dc4b4345bedb84c2181
 #EXTINF:-1 tvg-id="ANTV.id tvg-url="tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/959/49959-SNAPSHOT-l.png" group-title="Indonesia Channels",ANTV (FMX)
 https://atemecdnbalancer-voe.sysln.id/live/eds/ANTV/mpd/ANTV.mpd
 
@@ -257,12 +257,6 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/TVRINasional/mpd/TVRINasional.mpd
 #EXTINF:-1 tvg-id="TVRI.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://static.mncnow.id/images/channel/c57573a6/f784_r32.jpg" group-title="Indonesia Channels",TVRI Nasional (V+)
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/b642f32e396042f981d83fbb5f472272/index.mpd
 
-#EXTVLCOPT:http-referrer=https://delta.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="TVRI.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://static.mncnow.id/images/channel/c57573a6/f784_r32.jpg" group-title="Indonesia Channels",TVRI Nasional (DensTV)
-https://op-group1-swiftservesd-1.dens.tv/s/s11/01.m3u8
 
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTVLCOPT:network-caching=1000
@@ -306,12 +300,6 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/DAAITV/mpd/DAAITV.mpd
 #EXTINF:-1 tvg-id="Daai TV" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/595/595-LOGO-m.png" group-title="Indonesia Channels",DAAI TV (V+)
 https://d2tjypxxy769fn.cloudfront.net/out/v1/744044c3985142399fbd466f9f3fd8fa/index.mpd
 
-#EXTVLCOPT:http-referrer=https://www.rtv.co.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="Rajawali TV" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/964/49964-SNAPSHOT-l.png" group-title="Indonesia Channels",RTV (ChannelFeed)
-https://stream.rtv.co.id/hls/rtv.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
@@ -321,13 +309,6 @@ https://stream.rtv.co.id/hls/rtv.m3u8
 #KODIPROP:inputstream.adaptive.license_key=87484c0b2a4c41b9b08249ef7817ad7f:ff4f3f232f747e5e7f616b4741fa5c32
 #EXTINF:-1 tvg-id="Rajawali TV" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/964/49964-SNAPSHOT-l.png" group-title="Indonesia Channels",RTV (V+)
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/abf3e254818c4608aab8aa109a972203/index.mpd
-
-
-#EXTINF:-1 group-title="Indonesia Channels" tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://thumbor.prod.vidiocdn.com/A9PXp2pjYWnd8NZ0oQbwniC31So=/640x360/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8815/metro-globe-network-1ab3f1.jpg",Metro Globe Network
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://edge.medcom.id/live-edge/smil:mgnch.smil/chunklist_w139395680_b2692000_sleng.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.cnbcindonesia.com/
 #EXTVLCOPT:network-caching=1000
@@ -399,54 +380,6 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/HBOFamilyHD/mpd/HBOFamilyHD.mpd
 #KODIPROP:inputstream.adaptive.license_key=b489136b34aa4166a9c9984f19155d30:2c6de796954779fd6f51584425ac834e
 #EXTINF:-1 tvg-id="Cinemax" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/astro.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="HBO-FMX",Cinemax
 https://atemecdnbalancer-voe.sysln.id/live/eds/CinemaxHD/mpd/CinemaxHD.mpd
-
-<========================================= HBO Group============================================>
-
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 tvg-id="HBO" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/astro.xml" tvg-logo="https://w7.pngwing.com/pngs/504/253/png-transparent-hbo-hd-logo.png" group-title="HBO Group",HBO
-http://nonton.site:8080/XtreamFlixID/w9RLHbWJY4/1496
-http://nonton.site:8080/XtreamFlixID/w9RLHbWJY4/210
-
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 tvg-id="HBOHits" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/astro.xml" tvg-logo="https://telecomtalk.info/wp-content/uploads/2015/11/HBO-Hits-India-1200x675.png" group-title="HBO Group",HBO Hits
-http://nonton.site:8080/XtreamFlixID/w9RLHbWJY4/11492
-
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 tvg-id="HBOFamily" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/astro.xml" tvg-logo="https://www.liblogo.com/img-logo/hb7524h5d2-hbo-family-logo-hbo-family-logopedia-.png" group-title="HBO Group",HBO Family 
-http://nonton.site:8080/XtreamFlixID/w9RLHbWJY4/26598
-http://nonton.site:8080/XtreamFlixID/w9RLHbWJY4/592
-
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 tvg-id="HBO Signature (HD).sg" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="HBO Group",HBO Signature
-http://nonton.site:8080/XtreamFlixID/w9RLHbWJY4/26597
-http://nonton.site:8080/XtreamFlixID/w9RLHbWJY4/873
-http://nonton.site:8080/XtreamFlixID/w9RLHbWJY4/1498
-
-
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 tvg-id="Cinemax" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/astro.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="HBO Group",Cinemax
-http://nonton.site:8080/XtreamFlixID/w9RLHbWJY4/30185
-http://nonton.site:8080/XtreamFlixID/w9RLHbWJY4/2156
 
 <=============================================== Premium Movies =========================================>
 
@@ -832,38 +765,6 @@ https://atemeshield1-voe.sysln.id/live/eds/DiscoveryAsiaHD/mpd/DiscoveryAsiaHD.m
 #EXTINF:-1 tvg-id="DMAX" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/astro.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/DMAX_-_Logo_2016.svg/1200px-DMAX_-_Logo_2016.svg.png" group-title="Knowledge & Documentary",DMAX TV (FMX)
 https://atemecdnbalancer-voe.sysln.id/live/eds/DMAXHD/mpd/DMAXHD.mpd
 
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="NatGeo.uk" tvg-name="National Geographic SD" tvg-logo="https://www.nicepng.com/png/full/284-2843034_source-national-geographic-logo-white.png" group-title="Knowledge & Documentary",National Geographic SD
-http://zamlb.co.uk:80/38:68:a4:f9:83:6b/061223/1557
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="NatGeoWild.uk" tvg-name="Nat Geo Wild SD" tvg-logo="https://w7.pngwing.com/pngs/617/505/png-transparent-paper-logo-line-font-line-angle-white-text.png" group-title="Knowledge & Documentary",Nat Geo Wild SD
-http://zamlb.co.uk:80/38:68:a4:f9:83:6b/061223/1559
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="DiscoveryTurboPlus1.uk" tvg-name="Discovery Turbo SD" tvg-logo="https://www.pngfind.com/pngs/m/74-742126_discovery-turbo-logo-discovery-turbo-hd-png-download.png" group-title="Knowledge & Documentary",Discovery Turbo 
-http://zamlb.co.uk:80/38:68:a4:f9:83:6b/061223/1566
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="DiscoveryScience.uk" tvg-name="Discovery Science HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/2560px-Discovery_Science_2017_Logo.svg.png" group-title="Knowledge & Documentary",Discovery Science
-http://zamlb.co.uk:80/38:68:a4:f9:83:6b/061223/1563
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="DiscoveryHistory.uk" tvg-name="Discovery History HD" tvg-logo="https://cdn.imgbin.com/0/5/0/imgbin-discovery-history-discovery-channel-logo-discovery-networks-emea-television-channel-others-e5dfrQ9ysU3P0hAbqYfBp3Swx.jpg" group-title="Knowledge & Documentary",Discovery History 
-http://zamlb.co.uk:80/38:68:a4:f9:83:6b/061223/1565
-
-
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #EXTVLCOPT:network-caching=1000
@@ -925,7 +826,35 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CGTNDocumentaryHD/mpd/CGTNDocumen
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://op-group1-swiftservehd-1.dens.tv/h/h236/02.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-id="NatGeo.uk" tvg-name="National Geographic SD" tvg-logo="https://www.nicepng.com/png/full/284-2843034_source-national-geographic-logo-white.png" group-title="Knowledge & Documentary",National Geographic SD
+http://zamlb.co.uk:80/38:68:a4:f9:83:6b/061223/1557
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-id="NatGeoWild.uk" tvg-name="Nat Geo Wild SD" tvg-logo="https://w7.pngwing.com/pngs/617/505/png-transparent-paper-logo-line-font-line-angle-white-text.png" group-title="Knowledge & Documentary",Nat Geo Wild SD
+http://zamlb.co.uk:80/38:68:a4:f9:83:6b/061223/1559
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-id="DiscoveryTurboPlus1.uk" tvg-name="Discovery Turbo SD" tvg-logo="https://www.pngfind.com/pngs/m/74-742126_discovery-turbo-logo-discovery-turbo-hd-png-download.png" group-title="Knowledge & Documentary",Discovery Turbo 
+http://zamlb.co.uk:80/38:68:a4:f9:83:6b/061223/1566
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-id="DiscoveryScience.uk" tvg-name="Discovery Science HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/2560px-Discovery_Science_2017_Logo.svg.png" group-title="Knowledge & Documentary",Discovery Science
+http://zamlb.co.uk:80/38:68:a4:f9:83:6b/061223/1563
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-id="DiscoveryHistory.uk" tvg-name="Discovery History HD" tvg-logo="https://cdn.imgbin.com/0/5/0/imgbin-discovery-history-discovery-channel-logo-discovery-networks-emea-television-channel-others-e5dfrQ9ysU3P0hAbqYfBp3Swx.jpg" group-title="Knowledge & Documentary",Discovery History 
+http://zamlb.co.uk:80/38:68:a4:f9:83:6b/061223/1565
 
 
 <=============================== Entertainment & Lifestyle =================================================================>
@@ -973,14 +902,6 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/4cae4723d4d54a7fb71020bd7939a202/in
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="451" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/rtmklik.xml" tvg-logo="https://w7.pngwing.com/pngs/462/535/png-transparent-warner-tv-television-channel-wb-channel-warner-bros-wbtv-the-warner-channel-uk-television-emblem-logo-thumbnail.png" group-title="Entertainment & LifeStyle",Warner TV
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd
-
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 tvg-id="451" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/rtmklik.xml" tvg-logo="https://w7.pngwing.com/pngs/462/535/png-transparent-warner-tv-television-channel-wb-channel-warner-bros-wbtv-the-warner-channel-uk-television-emblem-logo-thumbnail.png" group-title="Entertainment & LifeStyle",Warner TV
-http://nonton.site:8080/XtreamFlixID/w9RLHbWJY4/1533
 
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
@@ -1113,26 +1034,15 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/FashionTV/mpd/FashionTV.mpd
 <========================================= Indonesian Entertainment & Movies ====================================================>
 
 #EXTINF:-1 tvg-id="flik" tvg-logo="https://i.imgur.com/AwmaKUk.png" group-title="Indonesian Entertainment & Movies",FLIK
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
-http://013tv.com:8080/friptv/AwWjvV6QuXDY84xR5meJhk/165095
 
 #EXTINF:-1 group-title="Indonesian Entertainment & Movies" tvg-id="BioskopIndonesia.id" tvg-name="Bioskop Indonesia" tvg-logo="https://i.imgur.com/6Srm4tj.png" ,Bioskop Indonesia
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia/manifest.mpd
 
 #EXTINF:-1 group-title="Indonesian Entertainment & Movies" tvg-id="maxstream" tvg-logo="https://i.ibb.co/t8X3LHn/maxstream.png", MAXSTREAM
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
@@ -1366,17 +1276,6 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/8554b3cb938e44038093df2d65080932/in
 #EXTINF:-1 tvg-id="SkyKids.uk" tvg-name="Sky Kids 4K" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/Sky_Kids.png/revision/latest?cb=20200630164012" group-title="Kids",Sky Kids
 http://zamlb.co.uk:80/38:68:a4:f9:83:6b/061223/96785
 
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="boomerang.us" group-title="Kids" tvg-logo="https://docdog.top/Logotv/countries//boomerang.png",Boomerang
-http://zamlb.co.uk:80/live/kilo/kilo/1840.ts
-
-#EXTVLCOPT:http-referrer=https://www.indihometv.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="IndiKids" tvg-name="IndiKids" group-title="Kids" tvg-logo="https://images.indihometv.com/assets/FUNPLANET-OTT-88.png" tvg-chno="109", Fun Planet
-https://streaming.indihometv.com/atm/DASH/indikids/manifest.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id
@@ -1622,14 +1521,6 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/in
 #KODIPROP:inputstream.adaptive.license_key=b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
 #EXTINF:-1 tvg-id="MNCSports4.id"  tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Sportstars_4.png" group-title="Sports", SPORTSTARS 4 ᴴᴰ
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=81352bc47ec1177b321ee65ac1be7f10:c8b886142005d7e5067c8717777eaac4
-#EXTINF:-1 tvg-id="808.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_SuperSport_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="Sports",Astro Supersport Plus
-http://garudamadridista.mooo.com:108/astorenakmy/dash-wv/linear/5171/default_ott.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id
@@ -1879,24 +1770,6 @@ http://fortv.cc:8080/live/q8KuDU/354945/76842.ts
 #EXTINF:-1 tvg-id="thecowboychannel.us" group-title="Sports" tvg-logo="",Cowboy Channel
 http://fortv.cc:8080/live/q8KuDU/354945/122527.ts
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.imgur.com/45BN0U4.png" group-title="Sports",BEIN SPORTS 1 Malaysia
-https://smart.pendy.dpdns.org/Smart.php?id=Astrobein1
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HAzOKAo.png" group-title="Sports",BEIN SPORTS 2 Malaysia
-https://smart.pendy.dpdns.org/Smart.php?id=Astrobein2
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2oY29NG.png" group-title="Sports",BEIN SPORTS 3 Malaysia
-https://smart.pendy.dpdns.org/Smart.php?id=Astrobein3
-
 #EXTINF:-1 tvg-id="Champions TV 1.id" tvg-logo="https://iili.io/2lP4Kq7.png" group-title="Sports",Champions TV 1
 #EXTINF:-1 tvg-id="Champions TV 2.id" tvg-logo="https://iili.io/2lP43sS.png" group-title="Sports",Champions TV 2
 #EXTINF:-1 tvg-id="Champions TV 3.id" tvg-logo="https://iili.io/2lP42X2.png" group-title="Sports",Champions TV 3
@@ -1964,97 +1837,6 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/
 #KODIPROP:inputstream.adaptive.license_key={dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f}
 #EXTINF:-1 tvg-id="fubosportsnetwork.us" tvg-name="Fubo Sports Network HD" tvg-logo="http://zamlb.co.uk:80/images/0MiIm5awJBS5Tm7uRVO4_5hOpzcFnqvnB0Gg8d_92qSIb0O6cGQJ1xU3vRDkudUuuKhwY4C8u4uebO302FbjdLIu4QCCVaRFSzqcqMBYKAiU6BZ4WjXpTMlHfPPlW59FFNw8quGSguYpWLW402ud7Q.png" group-title="Sports",FUBO SPORTS 2
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
-
-#EXT-X-TARGETDURATION:2
-#EXT-X-MEDIA-SEQUENCE:1
-#EXTVLCOPT:network-caching=10000
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
-#EXTINF:-1 tvg-id="SkySport1.nz" tvg-name="Sky Sport 1 HD" tvg-logo="http://zamlb.co.uk:80/images/GTNx5Excw6NLzFTLI_g7fYSkwBiO_rlQkEctbGQ3z3msBbMWUSDKVI6ySk1febXeLX-7YYgUiRmhoFxbA_I5qia7BCkN8uwc-cnwGXwUh6N6cXg9LzZOe7gLF-azwVUX763O1ypZIjxMoBYFXZWccxsnLylKKv2ILJJAYB_KvHpKc0AX8Vx_3PiPTW1RzqrT.png" group-title="Sports",Sky Sport 1 HD
-http://zamlb.co.uk:80/live/kilo/kilo/117623.ts
-
-#EXT-X-TARGETDURATION:2
-#EXT-X-MEDIA-SEQUENCE:1
-#EXTVLCOPT:network-caching=10000
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
-#EXTINF:-1 tvg-id="SkySport2.nz" tvg-name="Sky Sport 2 HD" tvg-logo="http://zamlb.co.uk:80/images/ZfHMe0ReMdmyvkiTvwYy5yd7PISA9-ZTC5QEScWqzZU.png" group-title="Sports",Sky Sport 2 HD
-http://zamlb.co.uk:80/live/kilo/kilo/117624.ts
-
-#EXT-X-TARGETDURATION:2
-#EXT-X-MEDIA-SEQUENCE:1
-#EXTVLCOPT:network-caching=10000
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
-#EXTINF:-1 tvg-id="SkySport3.nz" tvg-name="Sky Sport 3 HD" tvg-logo="http://zamlb.co.uk:80/images/DqnTYTXnhgnJlQ6HVOKViiV6U69QQ2_lEkEU6VGizQ-3pCeEjIRdWCiOzX6YKLJH313Zj4IQH5s0-9t6TiWSkr-gmjXHhmJC5vLNOyVtVxA.png" group-title="Sports",Sky Sport 3 HD
-http://zamlb.co.uk:80/live/kilo/kilo/117625.ts
-
-#EXT-X-TARGETDURATION:2
-#EXT-X-MEDIA-SEQUENCE:1
-#EXTVLCOPT:network-caching=10000
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
-#EXTINF:-1 tvg-id="SkySport4.nz" tvg-name="Sky Sport 4 HD" tvg-logo="http://zamlb.co.uk:80/images/ZfHMe0ReMdmyvkiTvwYy5_vXnDhC4NQY1fA_B9GoTv8.png" group-title="Sports",Sky Sport 4 HD
-http://zamlb.co.uk:80/live/kilo/kilo/117626.ts
-
-#EXT-X-TARGETDURATION:2
-#EXT-X-MEDIA-SEQUENCE:1
-#EXTVLCOPT:network-caching=10000
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
-#EXTINF:-1 tvg-id="SkySport5.nz" tvg-name="Sky Sport 5 HD" tvg-logo="http://zamlb.co.uk:80/images/ZfHMe0ReMdmyvkiTvwYy5_AO9XtIIjn7PEMHhiaZ0QQ.png" group-title="Sports",Sky Sport 5 HD
-http://zamlb.co.uk:80/live/kilo/kilo/117627.ts
-
-#EXT-X-TARGETDURATION:2
-#EXT-X-MEDIA-SEQUENCE:1
-#EXTVLCOPT:network-caching=10000
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
-#EXTINF:-1 tvg-id="SkySport6.nz" tvg-name="Sky Sport 6 HD" tvg-logo="http://zamlb.co.uk:80/images/ZfHMe0ReMdmyvkiTvwYy5xW4WKfUK0iD_KAiPId8BLg.png" group-title="Sports",Sky Sport 6 HD
-http://zamlb.co.uk:80/live/kilo/kilo/117628.ts
-
-#EXT-X-TARGETDURATION:2
-#EXT-X-MEDIA-SEQUENCE:1
-#EXTVLCOPT:network-caching=10000
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
-#EXTINF:-1 tvg-id="SkySport7.nz" tvg-name="Sky Sport 7 HD" tvg-logo="http://zamlb.co.uk:80/images/ZfHMe0ReMdmyvkiTvwYy52Zn0cb-2xMNOwNr2rykiEE.png" group-title="Sports",Sky Sport 7 HD
-http://zamlb.co.uk:80/live/kilo/kilo/117629.ts
-
-#EXT-X-TARGETDURATION:2
-#EXT-X-MEDIA-SEQUENCE:1
-#EXTVLCOPT:network-caching=10000
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
-#EXTINF:-1 tvg-id="SkySport8.nz" tvg-name="Sky Sport 8 HD" tvg-logo="http://zamlb.co.uk:80/images/ZfHMe0ReMdmyvkiTvwYy5__Y-tsqm0quqCJh8jj_PYs.png" group-title="Sports",Sky Sport 8 HD
-http://zamlb.co.uk:80/live/kilo/kilo/117630.ts
-
-#EXT-X-TARGETDURATION:2
-#EXT-X-MEDIA-SEQUENCE:1
-#EXTVLCOPT:network-caching=10000
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
-#EXTINF:-1 tvg-id="SkySport9.nz" tvg-name="Sky Sport 9 HD" tvg-logo="http://zamlb.co.uk:80/images/ZfHMe0ReMdmyvkiTvwYy5_62WYT8uwltE30qpRmpAX8.png" group-title="Sports",Sky Sport 9 HD
-http://zamlb.co.uk:80/live/kilo/kilo/117631.ts
-
 
 
 <========================================================= NEWS ============================================================>
@@ -2150,7 +1932,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/FOXNewsHD/mpd/FOXNewsHD.mpd
 
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 group-title="News" tvg-id="DWEnglish" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://static.mncnow.id/images/channel/ec5ca17f/9a41_r32.jpg",DW
+#EXTINF:-1 group-title="News" tvg-id="DWEnglish" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://static.mncnow.id/images/channel/ec5ca17f/9a41_r32.jpg",DW (ChannelFeed)
 http://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
@@ -2159,7 +1941,7 @@ http://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/stream
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=be6910ec53584120aa213203e8e2bd25:43239ebdca1b277d92221628db79c791
-#EXTINF:-1 group-title="News" tvg-id="DWEnglish" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://static.mncnow.id/images/channel/ec5ca17f/9a41_r32.jpg",DW
+#EXTINF:-1 group-title="News" tvg-id="DWEnglish" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://static.mncnow.id/images/channel/ec5ca17f/9a41_r32.jpg",DW (FMX)
 https://atemeshield1-voe.sysln.id/live/eds/DwEnglishHD/mpd/DwEnglishHD.mpd
 
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
@@ -2168,7 +1950,7 @@ https://atemeshield1-voe.sysln.id/live/eds/DwEnglishHD/mpd/DwEnglishHD.mpd
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8b64c1b610274982a96842346bea89bc:f4d88e26d012f1e8f166174da0b53b68
-#EXTINF:-1 group-title="News" tvg-id="France24English" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://static.mncnow.id/images/channel/feee5d98/3c51_r32.jpg",France 24
+#EXTINF:-1 group-title="News" tvg-id="France24English" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://static.mncnow.id/images/channel/feee5d98/3c51_r32.jpg",France 24 (FMX)
 https://atemecdnbalancer-voe.sysln.id/live/eds/France24/mpd/France24.mpd
 
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
@@ -2177,7 +1959,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/France24/mpd/France24.mpd
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a94d7dbc775546ae8a7363800a64586c:6ede954c196e997735076255147c80aa
-#EXTINF:-1 group-title="News" tvg-id="Euronews.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/EuroNews.svg/2560px-EuroNews.svg.png",Euronews
+#EXTINF:-1 group-title="News" tvg-id="Euronews.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/EuroNews.svg/2560px-EuroNews.svg.png",Euronews (FMX)
 https://atemeshield1-voe.sysln.id/live/eds/EURONEWS/mpd/EURONEWS.mpd
 
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
@@ -2186,7 +1968,7 @@ https://atemeshield1-voe.sysln.id/live/eds/EURONEWS/mpd/EURONEWS.mpd
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=975ef0f16ca94eee8aa5c3a6ff9149e7:2b69f4bdc9e4aa4f6ec03220b0c89dd1
-#EXTINF:-1 tvg-name="" tvg-id="BBCNews.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_332.jpg" group-title="News",BBC World
+#EXTINF:-1 tvg-name="" tvg-id="BBCNews.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_332.jpg" group-title="News",BBC World (FMX)
 https://atemeshield1-voe.sysln.id/live/eds/BBCWorldNewsHD/mpd/BBCWorldNewsHD.mpd
 
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
@@ -2195,15 +1977,9 @@ https://atemeshield1-voe.sysln.id/live/eds/BBCWorldNewsHD/mpd/BBCWorldNewsHD.mpd
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4c325414b6254a3ba4bcb2a31d4b1318:ae6c5d2b86727b478da73ffd0795c417
-#EXTINF:-1 group-title="News" tvg-id="TRT World" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium4.xml" tvg-logo="https://static.mncnow.id/images/channel/ab7f9e6a/4023_r32.jpg",TRT World
+#EXTINF:-1 group-title="News" tvg-id="TRT World" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium4.xml" tvg-logo="https://static.mncnow.id/images/channel/ab7f9e6a/4023_r32.jpg",TRT World (FMX)
 https://atemeshield1-voe.sysln.id/live/eds/TRTWorldHD/mpd/TRTWorldHD.mpd
 
-#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-#EXTINF:-1 tvg-id="SEAToday" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://static.mncnow.id/images/channel/7bdd87fc/0cb7_r32.jpg" group-title="News",SEA Today 
-https://legacy-global-cdn.visionplus.id/live/eds/SEA-Channel/sa_dash/SEA-Channel.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
@@ -2211,24 +1987,8 @@ https://legacy-global-cdn.visionplus.id/live/eds/SEA-Channel/sa_dash/SEA-Channel
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f2ecb7420c48463c9c1eeb9a908825ed:2ddaa7bc8fcff832464ad874ab468c3f
-#EXTINF:-1 group-title="News" tvg-id="CNBCAsia.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/cnbc.png",CNBC Asia
+#EXTINF:-1 group-title="News" tvg-id="CNBCAsia.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/cnbc.png",CNBC Asia (V+)
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/e8d3f81aae4b46fbacf545140b86f2c4/index.mpd
-
-#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-#KODIPROP:inputstream.adaptive.license_key=e1ae750e09889a610744516182c8e95a:2f7aa7b21102d05a986a4212c4afa06f
-#EXTINF:-1 group-title="News" tvg-id="CNA.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://static.mncnow.id/images/channel/f36bdbf0/d7d8_r32.jpg",CNA
-https://mediacorp-videosbclive.akamaized.net/f4abbc22204c49e2b337203b0ebbf14b/ap-southeast-1/6057994443001/profile_1/chunklist.m3u8
-
-#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 group-title="News" tvg-id="" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Russia-Today-Logo.svg/2560px-Russia-Today-Logo.svg.png",Rusia Today
-https://legacy-global-cdn.visionplus.id/live/eds/RTEnglish/sa_dash/RTEnglish.mpd
 
 <================================================== Christian Channels ==========================================>
 #EXTVLCOPT:network-caching=1000
@@ -2239,16 +1999,7 @@ https://catholictvhd-lh.akamaized.net/hls/live/2043390/CTVLiveHD/playlist_3.m3u8
 https://catholictvhd-lh.akamaized.net/hls/live/2043390/CTVLiveHD/playlist_4.m3u8
 https://catholictvhd-lh.akamaized.net/hls/live/2043390/CTVLiveHD/playlist_5.m3u8
 
-#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_plus/index.drm?id=138
 #EXTINF:-1 tvg-id="LIFE - [Channel 91].id"  tvg-id="LIFE.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/942/49942-SNAPSHOT-l.png" group-title="Christian Channels",LIFE
-https://bintangstreaming.my.id/rcti_plus/index.mpd?id=138
 
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
@@ -2937,6 +2688,7 @@ https://svara-stream.radioddns.net:8443/jakarta_smoothfm_mp3
 
 
 
+
 <============================================================== Moslem Channels =======================================>
 
 
@@ -3004,3 +2756,4 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/980cfe26ff00479c97eb8057a1129c7f/ind
 #KODIPROP:inputstream.adaptive.license_key=f0bdfdef0f564819a2b43345b328f989:9f7555440fb310341ddb00cdbc638cea
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/EunPKSf.png?v=1.0.0.1" group-title="Moslem Channels" tvg-id="CitraMuslim.id" tvg-name="Citra Muslim", Citra Muslim 
 https://atemecdnbalancer-voe.sysln.id/live/eds/CitraMuslimHD/mpd/CitraMuslimHD.mpd
+
